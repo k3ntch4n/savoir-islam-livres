@@ -1,0 +1,203 @@
+{
+  "featured": {
+    "videoId": "-TtGaAI624w",
+    "title": "Comment commencer l’apprentissage de la religion quand on part de 0 ? — Cheikh M. Tchalabi",
+    "source": "Islam Légiféré"
+  },
+  "biography": {
+    "intro": "La vie du Prophète ﷺ (sîra), ses compagnons et les califes bien-guidés.",
+    "videos": [
+      { "title": "La biographie du Prophète ﷺ — Partie 1", "speaker": "Cheikh Sâlih Al-Fawzân", "videoId": "GVhChlh9UDE" },
+      { "title": "La biographie du Prophète ﷺ — Partie 2", "speaker": "Cheikh Sâlih Al-Fawzân", "videoId": "oqqJCGfv1K8" },
+      { "title": "Compagnons du Prophète ﷺ : éduqués pour éduquer", "speaker": "Ilyes Abou Souheyl", "videoId": "pEL-o50VanI" }
+    ],
+    "playlists": [
+      { "title": "Résumé de la biographie du Prophète ﷺ + califes + 10 compagnons", "speaker": "Cheikh Tchalabi", "url": "https://www.youtube.com/playlist?list=PL04T7A8Waa2LrbOKHr6F-YYe0CO7BDz-s" }
+    ]
+  },
+  "pillars": [
+    {
+      "title": "L'attestation de foi",
+      "arabic": "الشهادة",
+      "transliteration": "Ash-shahâda",
+      "summary": "Témoigner qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad ﷺ est Son Messager. C'est la porte d'entrée dans l'Islam et le fondement de tous les autres piliers.",
+      "videoId": "p_8mXKxl7O0",
+      "videoTitle": "La première attestation de foi — cours de Sofian ibn Moubarak"
+    },
+    {
+      "title": "La prière",
+      "arabic": "الصلاة",
+      "transliteration": "As-salât",
+      "summary": "Cinq prières obligatoires par jour, à des horaires précis. Elle est le premier acte sur lequel le serviteur sera interrogé le Jour du Jugement.",
+      "videoId": "ZhkMNpsbx4U",
+      "videoTitle": "Apprendre à faire la prière — Cheikh 'Aziz Farhan Al-'Anizi"
+    },
+    {
+      "title": "L'aumône légale",
+      "arabic": "الزكاة",
+      "transliteration": "Az-zakât",
+      "summary": "Prélèvement annuel obligatoire (généralement 2,5 %) sur les biens qui atteignent un seuil (nisâb) et une année lunaire de possession, redistribué aux catégories fixées par le Coran.",
+      "videoId": "JRQQKbO5tVA",
+      "videoTitle": "Calculer le nisâb de la zakât al-mâl : quand est-on imposable ?"
+    },
+    {
+      "title": "Le jeûne du Ramadan",
+      "arabic": "الصوم",
+      "transliteration": "As-sawm",
+      "summary": "S'abstenir de manger, de boire et des rapports conjugaux de l'aube au coucher du soleil, pendant le mois de Ramadan, en recherchant l'agrément d'Allah.",
+      "videoId": "ggWFujcdD14",
+      "videoTitle": "Le mois du Ramadan : règles et enseignements — Cheikh Ibn ʿUthaymîn"
+    },
+    {
+      "title": "Le pèlerinage",
+      "arabic": "الحج",
+      "transliteration": "Al-hajj",
+      "summary": "Se rendre à la Mecque pour accomplir les rites du hajj une fois dans sa vie, pour qui en a la capacité physique et financière.",
+      "videoId": "LTGzkBA81hg",
+      "videoTitle": "Les rites du Hajj — Salim MCHICH (cours à la Mosquée du Prophète ﷺ)"
+    }
+  ],
+  "themes": [
+    {
+      "title": "La prière",
+      "icon": "mosque",
+      "keywords": ["priere", "prieres", "prier", "salat", "salât", "as-salat", "namaz", "witr", "tarawih", "taraweeh", "qiyam al-layl", "priere de nuit", "priere du vendredi", "priere funeraire", "priere en groupe", "priere surerogatoire", "istikhara", "priere de consultation", "sujud as-sahu", "prosternation d'oubli", "annulatifs de la priere", "description de la priere", "apprendre a prier", "comment prier", "adhan", "adhân", "l'appel a la priere", "iqama", "sceau de la priere"],
+      "videos": [
+        { "title": "Apprendre à faire la prière", "speaker": "Cheikh 'Aziz Farhan Al-'Anizi", "videoId": "ZhkMNpsbx4U" },
+        { "title": "Coller les pieds en prière ?", "speaker": "Cheikh Souleymân Ar-Rouhayli", "videoId": "4c7lz2KibQU" },
+        { "title": "Les annulatifs de la prière", "speaker": "", "videoId": "bE3hp5WoZaY" },
+        { "title": "Que faire si j'oublie un pilier dans la prière ?", "speaker": "Cheikh 'Aziz Farhan Al-'Anizi", "videoId": "SGG47DQDXzs" },
+        { "title": "Les signes après la prière de consultation (istikhâra)", "speaker": "Cheikh 'Aziz Ibn Farhan Al-'Anizi", "videoId": "VYm8ZUZHFX0" }
+      ]
+    },
+    {
+      "title": "Les ablutions",
+      "icon": "water_drop",
+      "keywords": ["ablution", "ablutions", "woudou", "woudhou", "wudu", "wudhu", "ghusl", "ghousl", "grande ablution", "lavage rituel", "tayammum", "tayamoum", "purification rituelle", "annulatifs des ablutions", "perte des ablutions", "les regles de la purete", "regles de purete", "hayd", "menstrues", "regles de la femme", "istihada", "nifas", "janaba", "impurete", "najasa"],
+      "videos": [
+        { "title": "Les ablutions du Prophète ﷺ — guide complet", "speaker": "Cheikh 'Aziz Farhan Al-'Anizi", "videoId": "Vg3cjy7fH0U" },
+        { "title": "Ablutions — cas particuliers", "speaker": "Cheikh 'Aziz Ibn Farhan Al-'Anazi", "videoId": "TKEx0l06yLo" },
+        { "title": "Le doute sur la perte des ablutions", "speaker": "Cheikh 'Aziz Farhan Al-'Anizi", "videoId": "iFRXhoihcWc" }
+      ]
+    },
+    {
+      "title": "La zakât",
+      "icon": "volunteer_activism",
+      "keywords": ["zakat", "zakât", "zakaat", "l'aumone", "aumone legale", "l'aumône", "sadaqa", "sadaqât", "nisab", "nissab", "nisâb", "zakat al-fitr", "zakat al-mal", "zakat el fitr", "zakat el mal", "sadaqa jariya", "waqf", "habous"],
+      "videos": [
+        { "title": "Les règles de la zakât al-fitr", "speaker": "Cheikh Tchalabi", "videoId": "kdo3xxgAOhM" },
+        { "title": "Calculer le nisâb de la zakât al-mâl", "speaker": "", "videoId": "JRQQKbO5tVA" }
+      ]
+    },
+    {
+      "title": "La croyance (‘aqîda)",
+      "icon": "menu_book",
+      "keywords": ["aqida", "aqîda", "aqidah", "3aqida", "la croyance", "notre croyance", "croyance des", "dogme", "tawhid", "tawhîd", "tawheed", "unicite d'allah", "unicité d'allah", "shirk", "chirk", "associationnisme", "polytheisme", "kitab at-tawhid", "les trois fondements", "usul ath-thalatha", "noms et attributs", "noms d'allah", "attributs d'allah", "asma wa sifat", "annulatifs de l'islam", "les fondements de la sunna", "sharh as-sunna", "al-aqida al-wasitiyya", "aqida tahawiyya", "kitab as-sunna"],
+      "videos": [
+        { "title": "Les fondements de la Sunnah — cours n°1 (fondements 1 à 4)", "speaker": "", "videoId": "gGPsFm8jqfM" },
+        { "title": "Les annulatifs de l'Islam", "speaker": "", "videoId": "m93idY4Z0a4" }
+      ]
+    },
+    {
+      "title": "Comportement & vie du cœur",
+      "icon": "favorite",
+      "keywords": ["le comportement", "bon comportement", "mauvais comportement", "akhlaq", "akhlâq", "al-akhlaq", "bon caractere", "les bonnes manieres", "bonnes manieres", "adab", "adâb", "les bons comportements", "politesse", "comportement du prophete", "comportement des compagnons", "compagnons du prophete", "les compagnons", "vie des compagnons", "sahaba", "biographie des compagnons", "maladies du coeur", "purification de l'ame", "tazkiyat an-nufus", "l'orgueil", "la jalousie", "la medisance", "le commerage", "la mauvaise compagnie", "la bonne compagnie", "les liens de parente"],
+      "videos": [
+        { "title": "Le bon comportement (d'après al-Bukhârî)", "speaker": "", "videoId": "zsAVu3VHsj4" },
+        { "title": "Le développement personnel", "speaker": "", "videoId": "PF3ULX5XXpc" }
+      ]
+    },
+    {
+      "title": "Vivre en Occident & hijra",
+      "icon": "public",
+      "keywords": ["hijra", "hijrah", "hégire", "hegire", "l'emigration", "l'hijra", "faire la hijra", "vivre en occident", "vivre en france", "vivre en pays", "resider en pays", "pays non musulman", "pays de mecreance", "pays mecreant", "s'installer en occident", "rester en occident", "voter", "le vote", "les elections", "les élections", "la democratie", "la citoyennete", "la citoyenneté", "obeir au gouverneur", "obeissance aux gouverneurs", "les gouverneurs musulmans", "se meler de politique", "l'assimilation"],
+      "videos": [
+        { "title": "La hijra à la lumière du Qur'ân et de la Sunnah", "speaker": "", "videoId": "iYISjucntns" },
+        { "title": "Résider dans un pays non musulman", "speaker": "", "videoId": "Ux-j433kTzA" },
+        { "title": "Est-il permis de voter ?", "speaker": "", "videoId": "2xkPWP-UWtc" },
+        { "title": "Les gouverneurs musulmans", "speaker": "Oustaz Djily Abou Maymouna", "videoId": "5-3MqJ1ndoM" }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "category": "Ablutions",
+      "question": "Je doute d'avoir perdu mes ablutions pendant la prière, que faire ?",
+      "answer": "La règle est la certitude : tant qu'on n'a pas la certitude d'avoir rompu les ablutions (par un son ou une odeur pour les gaz), on considère qu'elles sont toujours valides et on poursuit la prière. Le simple doute n'annule rien.",
+      "videoId": "iFRXhoihcWc"
+    },
+    {
+      "category": "Prière",
+      "question": "J'ai oublié un pilier de la prière, ma prière est-elle valide ?",
+      "answer": "Si on se souvient avant d'être arrivé au même endroit dans l'unité suivante, on revient accomplir le pilier oublié. Sinon, l'unité (rak'a) où le pilier a été omis est annulée et remplacée par la suivante, puis on fait les prosternations d'oubli (sujûd as-sahw).",
+      "videoId": "SGG47DQDXzs"
+    },
+    {
+      "category": "Prière",
+      "question": "Qu'est-ce qui annule la prière ?",
+      "answer": "Parmi les annulatifs : parler volontairement sans raison, rire, manger ou boire, tourner la poitrine de la qibla sans excuse, découvrir la 'awra, perdre les ablutions, et beaucoup de mouvements successifs étrangers à la prière.",
+      "videoId": "bE3hp5WoZaY"
+    },
+    {
+      "category": "Croyance",
+      "question": "Quels sont les annulatifs de l'Islam ?",
+      "answer": "Ce sont les actes ou paroles qui font sortir de l'Islam, comme l'association dans l'adoration (shirk), le rejet de l'unicité, se moquer de la religion, ou tourner le dos à son apprentissage et sa pratique. C'est un sujet grave : il doit être étudié auprès de gens de science.",
+      "videoId": "m93idY4Z0a4"
+    },
+    {
+      "category": "Zakât",
+      "question": "À partir de quand dois-je payer la zakât sur mon argent ?",
+      "answer": "Quand l'épargne atteint le nisâb (équivalent de 85 g d'or) et qu'une année lunaire complète s'est écoulée sans que le montant ne descende sous ce seuil. On verse alors 2,5 % du total.",
+      "videoId": "JRQQKbO5tVA"
+    },
+    {
+      "category": "Zakât",
+      "question": "Qu'est-ce que la zakât al-fitr ?",
+      "answer": "Une aumône obligatoire pour chaque personne, versée en nourriture avant la prière de l'Aïd al-Fitr, à la fin du Ramadan. Elle purifie le jeûne des paroles vaines et nourrit les pauvres ce jour-là.",
+      "videoId": "kdo3xxgAOhM"
+    },
+    {
+      "category": "Société",
+      "question": "Est-il permis de voter dans un pays non musulman ?",
+      "answer": "Les savants divergent. Certains l'interdisent par principe, d'autres l'autorisent quand cela permet de repousser un mal plus grand ou de préserver les intérêts des musulmans. Il est recommandé de suivre l'avis de savants reconnus de son pays.",
+      "videoId": "2xkPWP-UWtc"
+    },
+    {
+      "category": "Société",
+      "question": "Puis-je continuer à résider dans un pays non musulman ?",
+      "answer": "C'est permis quand on peut pratiquer sa religion ouvertement, protéger sa foi et celle de sa famille, et qu'on ne penche pas vers ce qui contredit la religion. Si la foi est en danger et qu'un départ est possible, la hijra devient fortement recommandée.",
+      "videoId": "Ux-j433kTzA"
+    }
+  ],
+  "channels": [
+    { "name": "FatwasFr", "url": "https://youtube.com/@fatwasfr", "fatwa": true, "topics": ["fatwa", "question", "reponse", "jugement", "avis", "fiqh", "priere", "jeune", "zakat", "mariage", "divorce", "commerce", "argent", "famille"] },
+    { "name": "Islam Légiféré", "url": "https://youtube.com/@islamlegifere", "fatwa": true, "topics": ["fatwa", "jugement", "fiqh", "priere", "purete", "ablutions", "jeune", "zakat", "hajj", "vente", "riba", "interet"] },
+    { "name": "Les Savants de la Sunnah", "url": "https://www.youtube.com/@SavantsSunnah", "fatwa": true, "topics": ["fatwa", "aqida", "croyance", "manhaj", "sunnah", "innovation", "bidaa", "tawhid", "science"] },
+    { "name": "Web.Tchalabi", "url": "https://youtube.com/@webtchalabi", "fatwa": true, "topics": ["fatwa", "zakat", "fitr", "priere", "jeune", "ramadan", "purete", "fiqh", "famille"] },
+    { "name": "Islam Audio Fr", "url": "https://www.youtube.com/@IslamAudioFr", "topics": ["cours", "audio", "aqida", "croyance", "tafsir", "coran", "hadith", "science"] },
+    { "name": "Islam Sounnah", "url": "https://youtube.com/@islamsounnah", "topics": ["sunnah", "hadith", "aqida", "manhaj", "priere", "comportement"] },
+    { "name": "Sofian ibn Moubarak", "url": "https://youtube.com/@sofianibnmoubarak", "topics": ["cours", "aqida", "fiqh", "tawhid", "science", "arabe"] },
+    { "name": "Salman Bassa", "url": "https://www.youtube.com/@salmanbassa", "topics": ["aqida", "manhaj", "salafiyya", "croyance", "innovation", "bidaa"] },
+    { "name": "Muhammad Wora", "url": "https://www.youtube.com/@muhammadwora128", "topics": ["rappel", "comportement", "coeur", "repentir", "adoration"] },
+    { "name": "Abdullah Al Albani", "url": "https://www.youtube.com/@Abdullahalalbani", "topics": ["hadith", "science", "authentification", "sunnah", "aqida"] },
+    { "name": "Sentier du Salut", "url": "https://www.youtube.com/@lesentierdusalut", "topics": ["rappel", "aqida", "comportement", "repentir", "mort", "au-dela"] },
+    { "name": "Islam, les Sentiers du Savoir", "url": "https://youtube.com/@islam_les_sentiers_du_savoir", "topics": ["cours", "science", "fiqh", "aqida", "arabe"] },
+    { "name": "Ceci est notre croyance", "url": "https://www.youtube.com/@Ceciestnotrecroyance", "topics": ["aqida", "croyance", "tawhid", "noms", "attributs", "allah"] },
+    { "name": "Mosquée Abou Bakr Essedik", "url": "https://www.youtube.com/c/Mosqu%C3%A9eAbouBakrEssedik", "topics": ["cours", "conference", "priere", "fiqh", "hadith"] },
+    { "name": "Salim MCHICH", "url": "https://www.youtube.com/@SalimMCHICH", "topics": ["cours", "aqida", "fiqh", "arabe", "science"] },
+    { "name": "La Citadelle de la Foi", "url": "https://www.youtube.com/@LaCitadelledelaFoi", "topics": ["aqida", "croyance", "manhaj", "rappel", "innovation"] },
+    { "name": "Sahih of Islam", "url": "https://www.youtube.com/@sahihofislam", "topics": ["hadith", "sunnah", "authentique", "science"] },
+    { "name": "Minhaj An-Nubuwwah", "url": "https://www.youtube.com/@MinhajAnNubuwwah", "topics": ["manhaj", "aqida", "sunnah", "science", "salafiyya"] },
+    { "name": "Morjane Abu Dawud", "url": "https://www.youtube.com/@MorjaneAbuDawud", "topics": ["rappel", "comportement", "coeur", "famille", "education"] },
+    { "name": "Etud'Islamik", "url": "https://www.youtube.com/@etudislamik9925", "topics": ["cours", "science", "fiqh", "aqida", "arabe"] },
+    { "name": "Abu Junayd", "url": "https://www.youtube.com/@Abu_junayd", "topics": ["rappel", "aqida", "comportement", "manhaj"] },
+    { "name": "Omra Du Savoir", "url": "https://www.youtube.com/@omradusavoir/playlists", "topics": ["cours", "hajj", "omra", "pelerinage", "voyage", "science"] }
+  ],
+  "playlists": [
+    { "name": "Cours d'arabe en vidéo — playlists", "url": "https://www.youtube.com/@coursarabeenvideo/playlists", "category": "Arabe" },
+    { "name": "Apprendre l'arabe facilement — chaîne officielle", "url": "https://www.youtube.com/@apprendrelarabefacilement", "category": "Arabe" },
+    { "name": "Arabic101 (français)", "url": "https://www.youtube.com/@Arabic101French", "category": "Arabe" },
+    { "name": "Textes faciles en arabe", "url": "https://apprendre-larabe-facilement.com/problematiques-communes-dans-le-dialogue-et-la-comprehension/textes-faciles-en-arabe/", "category": "Arabe" },
+    { "name": "Institut du Savoir", "url": "https://www.institutdusavoir.fr", "category": "Sites" }
+  ]
+}
