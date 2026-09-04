@@ -1,0 +1,93 @@
+{
+  "_README": [
+    "Catalogue des livres PDF de la Bibliothèque. VOLONTAIREMENT séparé de",
+    "content.json. Les PDF ne sont JAMAIS dans les assets de l'app : ils sont",
+    "téléchargés à la demande depuis 'url' puis mis en cache localement.",
+    "",
+    "Où héberger les PDF :",
+    "  - GitHub Releases : créer une release sur un repo, y joindre les .pdf ;",
+    "    l'URL directe ressemble à",
+    "    https://github.com/<user>/<repo>/releases/download/<tag>/<fichier>.pdf",
+    "  - Un bucket objet (Cloudflare R2, Backblaze B2, S3, Scaleway...) avec",
+    "    accès public en lecture ; utiliser l'URL directe de l'objet.",
+    "  - Un hébergement web statique (Netlify, GitHub Pages) pour les petits PDF.",
+    "L'URL doit renvoyer le PDF en téléchargement direct (Content-Type",
+    "application/pdf), sans page intermédiaire ni redirection vers un visualiseur.",
+    "Éviter Google Drive / Dropbox 'share links' : ce sont des pages, pas des",
+    "fichiers.",
+    "",
+    "Champs d'un livre :",
+    "  id         identifiant stable et unique (sert de clé de cache + reprise)",
+    "  title      titre affiché",
+    "  author     auteur / traducteur",
+    "  category   regroupement dans la liste (ex. 'Aqida', 'Sîra', 'Fiqh')",
+    "  description résumé court",
+    "  sizeMB     taille approximative en Mo (affichée avant téléchargement)",
+    "  pageCount  nombre de pages (optionnel)",
+    "  url        lien direct du PDF (obligatoire)",
+    "  source     URL/éditeur d'origine du document (optionnel)",
+    "  coverUrl   image de couverture (optionnel)"
+  ],
+  "books": [
+    {
+      "id": "ousoul-thalatha",
+      "title": "Les Trois Fondements et leurs preuves",
+      "author": "Muhammad ibn ‘Abd al-Wahhâb",
+      "category": "Aqida",
+      "description": "Court traité sur les trois questions posées dans la tombe : connaître son Seigneur, sa religion et son Prophète ﷺ.",
+      "sizeMB": 0.1,
+      "pageCount": 21,
+      "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/al-ousoul-ath-thalatha.pdf"
+    },
+    {
+      "id": "qawaid-arbaa",
+      "title": "Les Quatre Règles (Al-Qawâ‘id al-Arba‘a)",
+      "author": "Muhammad ibn ‘Abd al-Wahhâb",
+      "category": "Aqida",
+      "description": "Quatre règles fondamentales pour distinguer le tawhîd du shirk.",
+      "sizeMB": 0.7,
+      "pageCount": 43,
+      "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/les-4-regles-qawaid-al-arbaa.pdf"
+    },
+    {
+      "id": "oussoul-sittah",
+      "title": "Les Six Fondements (Al-Oussoul as-Sittah)",
+      "author": "Muhammad ibn ‘Abd al-Wahhâb",
+      "category": "Aqida",
+      "description": "Six principes essentiels que beaucoup de gens ont méconnus, exposés avec leurs preuves.",
+      "sizeMB": 0.8,
+      "pageCount": 52,
+      "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/les-6-fondements-oussoul-sittah.pdf"
+    },
+    {
+      "id": "oussoul-sounnah",
+      "title": "Les Fondements de la Sounnah",
+      "author": "Imâm Ahmad ibn Hanbal",
+      "category": "Aqida",
+      "description": "Épître de l'imâm Ahmad fixant les bases de la croyance des gens de la Sounnah face aux innovations.",
+      "sizeMB": 1.6,
+      "pageCount": 178,
+      "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/les-fondements-de-la-sounnah.pdf"
+    },
+    {
+      "id": "lecons-importantes",
+      "title": "Commentaire des leçons importantes pour toute la communauté",
+      "author": "‘Abd ar-Razzâq al-Badr (comm.) — ‘Abd al-‘Azîz ibn Bâz (texte)",
+      "category": "Science",
+      "description": "Explication du petit traité de shaykh Ibn Bâz : tawhîd, prière, règles de conduite du musulman. Livre distribué à titre gracieux.",
+      "sizeMB": 5.4,
+      "pageCount": 236,
+      "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/commentaire-lecons-importantes.pdf"
+    },
+    {
+      "id": "conseil-avec-douceur",
+      "title": "Conseiller avec douceur",
+      "author": "—",
+      "category": "Comportement",
+      "description": "Rappel sur la manière prophétique de conseiller : douceur, discrétion et bienveillance.",
+      "sizeMB": 1.0,
+      "pageCount": 31,
+      "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/conseil-avec-douceur.pdf"
+    }
+  ]
+}
