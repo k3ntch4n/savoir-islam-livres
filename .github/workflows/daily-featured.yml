@@ -1,0 +1,31 @@
+name: Vidéo à la une du jour
+
+on:
+  schedule:
+    # 04:00 UTC chaque jour (~05-06h en France selon l'heure d'été)
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-featured:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Choisir la vidéo du jour
+        run: python3 pick_featured.py
+
+      - name: Committer si changé
+        run: |
+          if git diff --quiet -- content.json; then
+            echo "Rien à committer."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content.json
+          git commit -m "actu: vidéo à la une du jour"
+          git push
