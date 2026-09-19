@@ -221,52 +221,44 @@
       ]
     },
     {
-      "title": "La croyance (‘aqîda)",
-      "icon": "menu_book",
+      "title": "Sectes & dérives",
+      "icon": "shield_alert",
       "keywords": [
-        "aqida",
-        "aqîda",
-        "aqidah",
-        "3aqida",
-        "la croyance",
-        "notre croyance",
-        "croyance des",
-        "dogme",
-        "tawhid",
-        "tawhîd",
-        "tawheed",
-        "unicite d'allah",
-        "unicité d'allah",
-        "shirk",
-        "chirk",
-        "associationnisme",
-        "polytheisme",
-        "kitab at-tawhid",
-        "les trois fondements",
-        "usul ath-thalatha",
-        "noms et attributs",
-        "noms d'allah",
-        "attributs d'allah",
-        "asma wa sifat",
-        "annulatifs de l'islam",
-        "les fondements de la sunna",
-        "sharh as-sunna",
-        "al-aqida al-wasitiyya",
-        "aqida tahawiyya",
-        "kitab as-sunna"
+        "secte",
+        "sectes",
+        "73 sectes",
+        "derive sectaire",
+        "derives sectaires",
+        "secte egaree",
+        "groupe deviant",
+        "groupes deviants",
+        "chiisme",
+        "chiite",
+        "chiites",
+        "rawafidh",
+        "rafidites",
+        "soufisme",
+        "soufi",
+        "soufis",
+        "khawarij",
+        "kharijisme",
+        "takfiri",
+        "ash'ari",
+        "ashari",
+        "acharisme",
+        "mutazilite",
+        "mutazilisme",
+        "jahmite",
+        "jahmiyya",
+        "ikhwan",
+        "freres musulmans",
+        "coraniste",
+        "coranistes",
+        "ahbash",
+        "habashi",
+        "tabligh"
       ],
-      "videos": [
-        {
-          "title": "Les fondements de la Sunnah — cours n°1 (fondements 1 à 4)",
-          "speaker": "",
-          "videoId": "gGPsFm8jqfM"
-        },
-        {
-          "title": "Les annulatifs de l'Islam",
-          "speaker": "",
-          "videoId": "m93idY4Z0a4"
-        }
-      ]
+      "videos": []
     },
     {
       "title": "Comportement & vie du cœur",
@@ -847,6 +839,229 @@
         "juwayriya"
       ],
       "videos": []
+    }
+  ],
+  "pillarThemes": [
+    {
+      "title": "L'attestation de foi",
+      "icon": "sparkles",
+      "keywords": [
+        "chahada",
+        "shahada",
+        "attestation de foi",
+        "la ilaha illa allah",
+        "premiere attestation de foi",
+        "deuxieme attestation de foi",
+        "porte d'entree dans l'islam"
+      ],
+      "videos": [
+        {
+          "title": "La première attestation de foi",
+          "speaker": "Sofian ibn Moubarak",
+          "videoId": "p_8mXKxl7O0"
+        }
+      ]
+    },
+    {
+      "title": "La prière",
+      "icon": "mosque",
+      "keywords": [
+        "priere",
+        "prieres",
+        "prier",
+        "salat",
+        "salât",
+        "as-salat",
+        "namaz",
+        "witr",
+        "tarawih",
+        "taraweeh",
+        "qiyam al-layl",
+        "priere de nuit",
+        "priere du vendredi",
+        "priere funeraire",
+        "priere en groupe",
+        "priere surerogatoire",
+        "istikhara",
+        "priere de consultation",
+        "sujud as-sahu",
+        "prosternation d'oubli",
+        "annulatifs de la priere",
+        "description de la priere",
+        "apprendre a prier",
+        "comment prier",
+        "adhan",
+        "adhân",
+        "l'appel a la priere",
+        "iqama",
+        "sceau de la priere"
+      ],
+      "videos": [
+        {
+          "title": "Apprendre à faire la prière",
+          "speaker": "Cheikh 'Aziz Farhan Al-'Anizi",
+          "videoId": "ZhkMNpsbx4U"
+        },
+        {
+          "title": "Les annulatifs de la prière",
+          "speaker": "",
+          "videoId": "bE3hp5WoZaY"
+        },
+        {
+          "title": "Coller les pieds en prière ?",
+          "speaker": "Cheikh Souleymân Ar-Rouhayli",
+          "videoId": "4c7lz2KibQU"
+        },
+        {
+          "title": "Que faire si j'oublie un pilier dans la prière ?",
+          "speaker": "Cheikh 'Aziz Farhan Al-'Anizi",
+          "videoId": "SGG47DQDXzs"
+        },
+        {
+          "title": "Les signes après la prière de consultation (istikhâra)",
+          "speaker": "Cheikh 'Aziz Ibn Farhan Al-'Anizi",
+          "videoId": "VYm8ZUZHFX0"
+        }
+      ]
+    },
+    {
+      "title": "La zakât",
+      "icon": "volunteer_activism",
+      "keywords": [
+        "zakat",
+        "zakât",
+        "zakaat",
+        "l'aumone",
+        "aumone legale",
+        "l'aumône",
+        "sadaqa",
+        "sadaqât",
+        "nisab",
+        "nissab",
+        "nisâb",
+        "zakat al-fitr",
+        "zakat al-mal",
+        "zakat el fitr",
+        "zakat el mal",
+        "sadaqa jariya",
+        "waqf",
+        "habous"
+      ],
+      "videos": [
+        {
+          "title": "Les règles de la zakât al-fitr",
+          "speaker": "Cheikh Tchalabi",
+          "videoId": "kdo3xxgAOhM"
+        },
+        {
+          "title": "Calculer le nisâb de la zakât al-mâl",
+          "speaker": "",
+          "videoId": "JRQQKbO5tVA"
+        }
+      ]
+    },
+    {
+      "title": "Le jeûne du Ramadan",
+      "icon": "sunrise",
+      "keywords": [
+        "jeune",
+        "jeûne",
+        "sawm",
+        "ramadan",
+        "ramadhan",
+        "rupture du jeune",
+        "annulatifs du jeune",
+        "l'iftar",
+        "le sahur",
+        "s'houour",
+        "jeune surerogatoire",
+        "les six jours de chawwal",
+        "jeune du lundi et jeudi",
+        "achoura"
+      ],
+      "videos": [
+        {
+          "title": "Le mois du Ramadan : règles et enseignements",
+          "speaker": "Cheikh Ibn ʿUthaymîn",
+          "videoId": "ggWFujcdD14"
+        }
+      ]
+    },
+    {
+      "title": "Le pèlerinage",
+      "icon": "landmark",
+      "keywords": [
+        "pelerinage",
+        "hajj",
+        "omra",
+        "oumra",
+        "les rites du hajj",
+        "ihram",
+        "tawaf",
+        "sa'i",
+        "sai",
+        "arafat",
+        "muzdalifa",
+        "mina",
+        "jamarat",
+        "la kaaba",
+        "la mecque"
+      ],
+      "videos": [
+        {
+          "title": "Les rites du Hajj",
+          "speaker": "Salim MCHICH",
+          "videoId": "LTGzkBA81hg"
+        }
+      ]
+    },
+    {
+      "title": "La croyance (‘aqîda)",
+      "icon": "menu_book",
+      "keywords": [
+        "aqida",
+        "aqîda",
+        "aqidah",
+        "3aqida",
+        "la croyance",
+        "notre croyance",
+        "croyance des",
+        "dogme",
+        "tawhid",
+        "tawhîd",
+        "tawheed",
+        "unicite d'allah",
+        "unicité d'allah",
+        "shirk",
+        "chirk",
+        "associationnisme",
+        "polytheisme",
+        "kitab at-tawhid",
+        "les trois fondements",
+        "usul ath-thalatha",
+        "noms et attributs",
+        "noms d'allah",
+        "attributs d'allah",
+        "asma wa sifat",
+        "annulatifs de l'islam",
+        "les fondements de la sunna",
+        "sharh as-sunna",
+        "al-aqida al-wasitiyya",
+        "aqida tahawiyya",
+        "kitab as-sunna"
+      ],
+      "videos": [
+        {
+          "title": "Les fondements de la Sunnah — cours n°1 (fondements 1 à 4)",
+          "speaker": "",
+          "videoId": "gGPsFm8jqfM"
+        },
+        {
+          "title": "Les annulatifs de l'Islam",
+          "speaker": "",
+          "videoId": "m93idY4Z0a4"
+        }
+      ]
     }
   ]
 }
