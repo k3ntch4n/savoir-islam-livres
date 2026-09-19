@@ -68,9 +68,7 @@
       "title": "Le pèlerinage",
       "arabic": "الحج",
       "transliteration": "Al-hajj",
-      "summary": "Se rendre à la Mecque pour accomplir les rites du hajj une fois dans sa vie, pour qui en a la capacité physique et financière.",
-      "videoId": "LTGzkBA81hg",
-      "videoTitle": "Les rites du Hajj — Salim MCHICH (cours à la Mosquée du Prophète ﷺ)"
+      "summary": "Se rendre à la Mecque pour accomplir les rites du hajj une fois dans sa vie, pour qui en a la capacité physique et financière."
     }
   ],
   "themes": [
@@ -650,17 +648,6 @@
       ]
     },
     {
-      "name": "Salim MCHICH",
-      "url": "https://www.youtube.com/@SalimMCHICH",
-      "topics": [
-        "cours",
-        "aqida",
-        "fiqh",
-        "arabe",
-        "science"
-      ]
-    },
-    {
       "name": "La Citadelle de la Foi",
       "url": "https://www.youtube.com/@LaCitadelledelaFoi",
       "topics": [
@@ -957,13 +944,7 @@
         "la kaaba",
         "la mecque"
       ],
-      "videos": [
-        {
-          "title": "Les rites du Hajj",
-          "speaker": "Salim MCHICH",
-          "videoId": "LTGzkBA81hg"
-        }
-      ]
+      "videos": []
     }
   ]
 }
