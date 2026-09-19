@@ -75,68 +75,6 @@
   ],
   "themes": [
     {
-      "title": "La prière",
-      "icon": "mosque",
-      "keywords": [
-        "priere",
-        "prieres",
-        "prier",
-        "salat",
-        "salât",
-        "as-salat",
-        "namaz",
-        "witr",
-        "tarawih",
-        "taraweeh",
-        "qiyam al-layl",
-        "priere de nuit",
-        "priere du vendredi",
-        "priere funeraire",
-        "priere en groupe",
-        "priere surerogatoire",
-        "istikhara",
-        "priere de consultation",
-        "sujud as-sahu",
-        "prosternation d'oubli",
-        "annulatifs de la priere",
-        "description de la priere",
-        "apprendre a prier",
-        "comment prier",
-        "adhan",
-        "adhân",
-        "l'appel a la priere",
-        "iqama",
-        "sceau de la priere"
-      ],
-      "videos": [
-        {
-          "title": "Apprendre à faire la prière",
-          "speaker": "Cheikh 'Aziz Farhan Al-'Anizi",
-          "videoId": "ZhkMNpsbx4U"
-        },
-        {
-          "title": "Coller les pieds en prière ?",
-          "speaker": "Cheikh Souleymân Ar-Rouhayli",
-          "videoId": "4c7lz2KibQU"
-        },
-        {
-          "title": "Les annulatifs de la prière",
-          "speaker": "",
-          "videoId": "bE3hp5WoZaY"
-        },
-        {
-          "title": "Que faire si j'oublie un pilier dans la prière ?",
-          "speaker": "Cheikh 'Aziz Farhan Al-'Anizi",
-          "videoId": "SGG47DQDXzs"
-        },
-        {
-          "title": "Les signes après la prière de consultation (istikhâra)",
-          "speaker": "Cheikh 'Aziz Ibn Farhan Al-'Anizi",
-          "videoId": "VYm8ZUZHFX0"
-        }
-      ]
-    },
-    {
       "title": "Les ablutions",
       "icon": "water_drop",
       "keywords": [
@@ -181,6 +119,68 @@
           "title": "Le doute sur la perte des ablutions",
           "speaker": "Cheikh 'Aziz Farhan Al-'Anizi",
           "videoId": "iFRXhoihcWc"
+        }
+      ]
+    },
+    {
+      "title": "La prière",
+      "icon": "mosque",
+      "keywords": [
+        "priere",
+        "prieres",
+        "prier",
+        "salat",
+        "salât",
+        "as-salat",
+        "namaz",
+        "witr",
+        "tarawih",
+        "taraweeh",
+        "qiyam al-layl",
+        "priere de nuit",
+        "priere du vendredi",
+        "priere funeraire",
+        "priere en groupe",
+        "priere surerogatoire",
+        "istikhara",
+        "priere de consultation",
+        "sujud as-sahu",
+        "prosternation d'oubli",
+        "annulatifs de la priere",
+        "description de la priere",
+        "apprendre a prier",
+        "comment prier",
+        "adhan",
+        "adhân",
+        "l'appel a la priere",
+        "iqama",
+        "sceau de la priere"
+      ],
+      "videos": [
+        {
+          "title": "Apprendre à faire la prière",
+          "speaker": "Cheikh 'Aziz Farhan Al-'Anizi",
+          "videoId": "ZhkMNpsbx4U"
+        },
+        {
+          "title": "Les annulatifs de la prière",
+          "speaker": "",
+          "videoId": "bE3hp5WoZaY"
+        },
+        {
+          "title": "Coller les pieds en prière ?",
+          "speaker": "Cheikh Souleymân Ar-Rouhayli",
+          "videoId": "4c7lz2KibQU"
+        },
+        {
+          "title": "Que faire si j'oublie un pilier dans la prière ?",
+          "speaker": "Cheikh 'Aziz Farhan Al-'Anizi",
+          "videoId": "SGG47DQDXzs"
+        },
+        {
+          "title": "Les signes après la prière de consultation (istikhâra)",
+          "speaker": "Cheikh 'Aziz Ibn Farhan Al-'Anizi",
+          "videoId": "VYm8ZUZHFX0"
         }
       ]
     },
