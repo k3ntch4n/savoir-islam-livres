@@ -317,6 +317,49 @@
       ]
     },
     {
+      "title": "Épreuves & réconfort du cœur",
+      "icon": "life_buoy",
+      "keywords": [
+        "epreuve",
+        "epreuves",
+        "depression",
+        "angoisse",
+        "anxiete",
+        "anxiété",
+        "tristesse",
+        "desespoir",
+        "détresse",
+        "detresse",
+        "mal-etre",
+        "difficultes de la vie",
+        "tenir sa religion",
+        "garder la foi",
+        "force de la foi",
+        "se rapprocher d'allah",
+        "rapprochement d'allah",
+        "confiance en allah",
+        "tawakkul",
+        "la patience",
+        "sabr",
+        "patience dans l'epreuve",
+        "waswas",
+        "insufflations",
+        "obsessions religieuses",
+        "toc religieux",
+        "doutes religieux",
+        "guerir le coeur",
+        "guerison du coeur",
+        "coeur dur",
+        "durete du coeur",
+        "coeur sain",
+        "roqya",
+        "rokia",
+        "invocation contre la tristesse",
+        "invocation contre l'angoisse"
+      ],
+      "videos": []
+    },
+    {
       "title": "Vivre en Occident & hijra",
       "icon": "public",
       "keywords": [
@@ -727,6 +770,83 @@
       "name": "Institut du Savoir",
       "url": "https://www.institutdusavoir.fr",
       "category": "Sites"
+    }
+  ],
+  "biographyThemes": [
+    {
+      "title": "Le Prophète ﷺ",
+      "icon": "star",
+      "keywords": [
+        "biographie du prophete",
+        "vie du prophete",
+        "la vie du prophete",
+        "sira du prophete",
+        "naissance du prophete",
+        "l'enfance du prophete",
+        "la mission prophetique",
+        "les miracles du prophete",
+        "le sceau des prophetes",
+        "caractere du prophete",
+        "portrait du prophete"
+      ],
+      "videos": [
+        {
+          "title": "La biographie du Prophète ﷺ — Partie 1",
+          "speaker": "Cheikh Sâlih Al-Fawzân",
+          "videoId": "GVhChlh9UDE"
+        },
+        {
+          "title": "La biographie du Prophète ﷺ — Partie 2",
+          "speaker": "Cheikh Sâlih Al-Fawzân",
+          "videoId": "oqqJCGfv1K8"
+        }
+      ]
+    },
+    {
+      "title": "Les Compagnons",
+      "icon": "users",
+      "keywords": [
+        "compagnons",
+        "compagnon",
+        "sahaba",
+        "les dix compagnons",
+        "biographie des compagnons",
+        "abou bakr",
+        "abu bakr",
+        "omar ibn al-khattab",
+        "omar ibn al khattab",
+        "othman ibn affan",
+        "ali ibn abi talib",
+        "khalid ibn al-walid",
+        "bilal ibn rabah"
+      ],
+      "videos": [
+        {
+          "title": "Compagnons du Prophète ﷺ : éduqués pour éduquer",
+          "speaker": "Ilyes Abou Souheyl",
+          "videoId": "pEL-o50VanI"
+        }
+      ]
+    },
+    {
+      "title": "Les Épouses du Prophète ﷺ",
+      "icon": "heart_handshake",
+      "keywords": [
+        "les epouses du prophete",
+        "epouses du prophete",
+        "meres des croyants",
+        "khadija",
+        "khadidja",
+        "aicha",
+        "hafsa",
+        "oum salama",
+        "umm salama",
+        "zaynab bint jahsh",
+        "safiya bint houyay",
+        "maimouna bint al-harith",
+        "juwayriya"
+      ],
+      "videos": []
     }
   ]
 }
