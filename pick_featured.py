@@ -2,11 +2,11 @@
 """Choisit la vidéo « à la une » du jour et met à jour content.json.
 
 Tourne 1x/jour via GitHub Actions (voir .github/workflows/daily-featured.yml).
-Aucune clé API requise : on pioche dans videos_catalog.json, déjà construit
-par tools/build_catalog.py (côté app, avec la clé YouTube Data API) puis
-copié ici. Pense à recopier ce fichier de temps en temps pour que le vivier
-de vidéos reste frais (les vidéos plus vieilles que MAX_AGE_DAYS ne sont
-plus piochées).
+Aucune clé API requise. On pioche EN PRIORITÉ dans videos_recent.json (les
+40 dernières vidéos des chaînes, rafraîchies chaque soir par
+collect_recent.py). Repli sur videos_catalog.json (construit à la main par
+tools/build_catalog.py côté app, vidéos de moins de MAX_AGE_DAYS) si le
+fichier récent est absent ou vide.
 
 Choix déterministe par date (UTC) : même jour -> même vidéo pour tout le
 monde, et la sélection change automatiquement le lendemain.
@@ -21,12 +21,19 @@ from pathlib import Path
 MAX_AGE_DAYS = 60
 ROOT = Path(__file__).parent
 CATALOG = ROOT / "videos_catalog.json"
+RECENT = ROOT / "videos_recent.json"
 CONTENT = ROOT / "content.json"
 
 
-def load_candidates() -> list[dict]:
-    data = json.loads(CATALOG.read_text(encoding="utf-8"))
-    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+def load_candidates(path: Path, max_age_days: int | None) -> list[dict]:
+    if not path.exists():
+        return []
+    data = json.loads(path.read_text(encoding="utf-8"))
+    cutoff = (
+        datetime.now(timezone.utc) - timedelta(days=max_age_days)
+        if max_age_days is not None
+        else None
+    )
     out = []
     for chan in data.get("channels", []):
         for v in chan.get("videos", []):
@@ -37,7 +44,7 @@ def load_candidates() -> list[dict]:
                 dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
             except ValueError:
                 continue
-            if dt < cutoff:
+            if cutoff is not None and dt < cutoff:
                 continue
             out.append({
                 "videoId": v["id"],
@@ -58,7 +65,12 @@ def pick_for_today(candidates: list[dict]) -> dict:
 
 
 def main() -> None:
-    candidates = [c for c in load_candidates() if c["title"]]
+    # Priorité aux vidéos récentes (collecte du soir), repli sur le catalogue.
+    candidates = [c for c in load_candidates(RECENT, None) if c["title"]]
+    if not candidates:
+        candidates = [
+            c for c in load_candidates(CATALOG, MAX_AGE_DAYS) if c["title"]
+        ]
     if not candidates:
         print("Aucune vidéo candidate (catalogue vide ou trop ancien) -> inchangé.")
         return
