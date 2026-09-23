@@ -80,11 +80,14 @@ def plural(n: int, one: str, many: str) -> str:
     return one if n == 1 else many.format(n=n)
 
 
-def summary(titles: list[str]) -> str:
-    titles = [t for t in titles if t]
-    if len(titles) <= 3:
-        return " · ".join(titles)
-    return " · ".join(titles[:3]) + f" et {len(titles) - 3} autre(s)"
+def summary(titles: list[str], limit: int = 60) -> str:
+    """Corps de la notification : le titre du premier élément seulement,
+    coupé à `limit` caractères (sur un mot entier) avec « … »."""
+    title = next((t.strip() for t in titles if t and t.strip()), "")
+    if len(title) <= limit:
+        return title
+    cut = title[:limit].rsplit(" ", 1)[0].rstrip(" ,;:-–—·")
+    return (cut or title[:limit]) + "…"
 
 
 def build_messages(before: str, after: str) -> list[dict]:
