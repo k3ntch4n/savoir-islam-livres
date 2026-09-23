@@ -88,6 +88,16 @@
       "sizeMB": 1.0,
       "pageCount": 31,
       "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/conseil-avec-douceur.pdf"
+    },
+    {
+      "id": "test-notification",
+      "title": "Livre de test (notification)",
+      "author": "Muhammad ibn ‘Abd al-Wahhâb",
+      "category": "Aqida",
+      "description": "Livre temporaire pour tester les notifications — sera retiré.",
+      "sizeMB": 0.1,
+      "pageCount": 21,
+      "url": "https://github.com/k3ntch4n/savoir-islam-livres/releases/download/v1/al-ousoul-ath-thalatha.pdf"
     }
   ]
 }
