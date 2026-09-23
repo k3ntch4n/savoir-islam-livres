@@ -19,7 +19,11 @@ déclenche pas une avalanche d'anciennes vidéos.
 Quota YouTube : 2 unités par chaîne (channels.list + playlistItems.list),
 ~40-50 unités/jour sur 10 000 gratuites.
 
-Usage : YT_API_KEY=... python3 collect_recent.py [--dry-run]
+La notification n'est pas envoyée ici mais écrite dans PENDING : le workflow
+publie d'abord videos_recent.json, attend le cache GitHub, puis l'envoie
+(notify.py --send-pending). Avec --send, envoi immédiat (tests locaux).
+
+Usage : YT_API_KEY=... python3 collect_recent.py [--send] [--dry-run]
 """
 from __future__ import annotations
 
@@ -34,6 +38,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).parent
 CONTENT = ROOT / "content.json"
 RECENT = ROOT / "videos_recent.json"
+PENDING = ROOT / "pending_notification.json"  # non commité
 
 RECENT_COUNT = 40
 FRESH_DAYS = 3
@@ -159,12 +164,17 @@ def main() -> None:
     data = {"type": "video"}
     if n == 1:
         data |= {"videoId": added[0]["id"], "title": added[0]["title"]}
-    send_all([{
+    messages = [{
         "title": "🎬 Une nouvelle vidéo t'attend !" if n == 1
         else "🎬 De nouvelles vidéos t'attendent !",
         "body": summary([v["title"] for v in added]),
         "data": data,
-    }], dry_run=dry_run)
+    }]
+    if "--send" in sys.argv or dry_run:
+        send_all(messages, dry_run=dry_run)
+        return
+    PENDING.write_text(json.dumps(messages, ensure_ascii=False), encoding="utf-8")
+    print(f"{n} nouvelle(s) vidéo(s) : notification en attente dans {PENDING.name}.")
 
 
 if __name__ == "__main__":

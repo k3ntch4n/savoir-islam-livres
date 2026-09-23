@@ -32,4 +32,6 @@ jobs:
       - name: Envoyer la notification si nouveau contenu
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          # attente du cache GitHub (5 min), seulement s'il y a à notifier
+          NOTIFY_DELAY: "300"
         run: python3 notify.py "${{ github.event.before }}" "${{ github.sha }}"

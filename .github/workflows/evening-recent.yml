@@ -45,11 +45,10 @@ jobs:
         if: steps.slot.outputs.run == 'true'
         run: pip install --quiet google-api-python-client google-auth requests
 
-      - name: Collecter et notifier si nouvelles vidéos
+      - name: Collecter les dernières vidéos
         if: steps.slot.outputs.run == 'true'
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
-          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: python3 collect_recent.py
 
       - name: Committer videos_recent.json
@@ -65,3 +64,12 @@ jobs:
           git commit -m "actu: nouvelles vidéos du soir"
           git pull --rebase
           git push
+
+      # Après publication : attente du cache GitHub (5 min) puis envoi, pour
+      # que l'app récupère bien la nouvelle liste quand on touche la notif.
+      - name: Notifier si nouvelles vidéos
+        if: steps.slot.outputs.run == 'true'
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          NOTIFY_DELAY: "300"
+        run: python3 notify.py --send-pending pending_notification.json

@@ -24,6 +24,8 @@ FIREBASE_SERVICE_ACCOUNT (secret GitHub). Sans clé : simulation (affiche ce
 qui serait envoyé, n'envoie rien).
 
 Usage : python3 notify.py <sha_avant> <sha_apres> [--dry-run]
+        python3 notify.py --send-pending <fichier.json>
+Variable NOTIFY_DELAY : secondes d'attente avant l'envoi (cache GitHub).
 """
 from __future__ import annotations
 
@@ -31,10 +33,16 @@ import json
 import os
 import subprocess
 import sys
+import time
 
 PROJECT_ID = "savoir-islam"
 TOPIC = "nouveautes"
 FCM_URL = f"https://fcm.googleapis.com/v1/projects/{PROJECT_ID}/messages:send"
+
+# raw.githubusercontent.com garde les fichiers en cache 5 min (max-age=300,
+# impossible à contourner côté app). On attend donc avant d'envoyer, sinon
+# l'utilisateur ouvre l'app et récupère l'ancienne version du JSON.
+CDN_DELAY_SECONDS = int(os.environ.get("NOTIFY_DELAY", "0"))
 
 
 def load_at(sha: str, path: str) -> dict | None:
@@ -175,12 +183,27 @@ def send_all(messages: list[dict], dry_run: bool = False) -> None:
         print("Simulation (pas de clé ou --dry-run) : rien n'a été envoyé.")
         return
 
+    if CDN_DELAY_SECONDS:
+        print(f"Attente {CDN_DELAY_SECONDS} s (cache GitHub) avant l'envoi…",
+              flush=True)
+        time.sleep(CDN_DELAY_SECONDS)
     token = access_token(json.loads(raw_key))
     for m in messages:
         send(m, token)
 
 
 def main() -> None:
+    # Messages préparés par collect_recent.py, envoyés une fois le fichier
+    # publié : python3 notify.py --send-pending pending.json
+    if "--send-pending" in sys.argv:
+        path = sys.argv[sys.argv.index("--send-pending") + 1]
+        if not os.path.exists(path):
+            print("Aucune notification en attente.")
+            return
+        with open(path, encoding="utf-8") as f:
+            send_all(json.load(f))
+        return
+
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     if len(args) != 2:
         sys.exit(__doc__)
