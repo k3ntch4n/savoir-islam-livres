@@ -1,0 +1,35 @@
+name: Notifier les nouveautés
+
+# Push sur content.json / books.json -> notification si un livre ou une vidéo
+# a été AJOUTÉ (voir notify.py). Les commits du robot « vidéo à la une »
+# (poussés avec GITHUB_TOKEN) ne déclenchent pas ce workflow : pas de
+# notification quotidienne.
+on:
+  push:
+    branches: [main]
+    paths:
+      - content.json
+      - books.json
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # besoin de la version d'avant le push pour comparer
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install --quiet google-auth requests
+
+      - name: Envoyer la notification si nouveau contenu
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: python3 notify.py "${{ github.event.before }}" "${{ github.sha }}"
