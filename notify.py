@@ -13,7 +13,9 @@ avec la nouvelle et ne notifie que les AJOUTS :
 
 Ne notifie PAS : les retraits, corrections de texte, réordonnancements, ni
 la vidéo « à la une » du jour (bloc `featured`, changé chaque matin par
-pick_featured.py — on ne veut pas une notification par jour).
+pick_featured.py — on ne veut pas une notification par jour). Les nouvelles
+vidéos des chaînes sont annoncées par la collecte du soir (collect_recent.py,
+qui réutilise send_all ci-dessous).
 
 Envoi via Firebase Cloud Messaging (API HTTP v1) au topic « nouveautes »,
 auquel toutes les installations de l'app sont abonnées. La clé du compte de
@@ -160,9 +162,23 @@ def send(msg: dict, token: str) -> None:
     print(f"Envoyé : {res.json().get('name')}")
 
 
+def send_all(messages: list[dict], dry_run: bool = False) -> None:
+    """Affiche puis envoie les messages (simulation sans clé ou en dry-run)."""
+    for m in messages:
+        print(f"-> {m['title']}\n   {m['body']}\n   data={m['data']}")
+
+    raw_key = os.environ.get("FIREBASE_SERVICE_ACCOUNT", "").strip()
+    if dry_run or not raw_key:
+        print("Simulation (pas de clé ou --dry-run) : rien n'a été envoyé.")
+        return
+
+    token = access_token(json.loads(raw_key))
+    for m in messages:
+        send(m, token)
+
+
 def main() -> None:
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    dry_run = "--dry-run" in sys.argv
     if len(args) != 2:
         sys.exit(__doc__)
     before, after = args
@@ -175,18 +191,7 @@ def main() -> None:
     if not messages:
         print("Aucun nouveau livre ni nouvelle vidéo : pas de notification.")
         return
-
-    for m in messages:
-        print(f"-> {m['title']}\n   {m['body']}\n   data={m['data']}")
-
-    raw_key = os.environ.get("FIREBASE_SERVICE_ACCOUNT", "").strip()
-    if dry_run or not raw_key:
-        print("Simulation (pas de clé ou --dry-run) : rien n'a été envoyé.")
-        return
-
-    token = access_token(json.loads(raw_key))
-    for m in messages:
-        send(m, token)
+    send_all(messages, dry_run="--dry-run" in sys.argv)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,67 @@
+name: Collecte du soir (nouvelles vidéos)
+
+# 18h heure de Paris, toute l'année. Le cron GitHub est en UTC : on programme
+# 16h ET 17h UTC, et seul le passage qui tombe à 18h à Paris (16h l'été, 17h
+# l'hiver) fait le travail -> une seule collecte, une notification max par jour.
+on:
+  schedule:
+    - cron: "0 16 * * *"
+    - cron: "0 17 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: evening-recent
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bon créneau pour 18h à Paris ?
+        id: slot
+        run: |
+          offset=$(TZ=Europe/Paris date +%z)   # +0200 l'été, +0100 l'hiver
+          wanted="0 16 * * *"
+          [ "$offset" = "+0100" ] && wanted="0 17 * * *"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] \
+             || [ "${{ github.event.schedule }}" = "$wanted" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Pas le bon créneau (heure d'été/hiver) : on passe."
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.slot.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.slot.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        if: steps.slot.outputs.run == 'true'
+        run: pip install --quiet google-api-python-client google-auth requests
+
+      - name: Collecter et notifier si nouvelles vidéos
+        if: steps.slot.outputs.run == 'true'
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: python3 collect_recent.py
+
+      - name: Committer videos_recent.json
+        if: steps.slot.outputs.run == 'true'
+        run: |
+          git add videos_recent.json
+          if git diff --cached --quiet; then
+            echo "Rien à committer."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "actu: nouvelles vidéos du soir"
+          git pull --rebase
+          git push
