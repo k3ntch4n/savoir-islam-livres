@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-09-23T22:55:56+00:00",
+ "generated_at": "2026-09-24T19:53:10+00:00",
  "channels": [
   {
    "handle": "Ceciestnotrecroyance",
    "title": "Ceci est notre croyance",
    "videos": [
+    {
+     "id": "f6Y77lmqDYk",
+     "title": "Ils étaient différents | Chaykh Raslan",
+     "date": "2026-09-24T17:59:26Z"
+    },
     {
      "id": "3NUEIDABUlg",
      "title": "🌿 Ayez honte devant Allah",
@@ -24,11 +29,88 @@
      "id": "stj_7onpeGk",
      "title": "Casse cette routine !",
      "date": "2026-09-18T17:56:47Z"
+    }
+   ]
+  },
+  {
+   "handle": "SavantsSunnah",
+   "title": "Les Savants de la Sunnah ",
+   "videos": [
+    {
+     "id": "McLPw5L5Xlc",
+     "title": "La simplicité de ce mariage - Cheikh 'Ali Bin Zayd Al Madkhali",
+     "date": "2026-09-24T17:35:40Z"
     },
     {
-     "id": "NrSNY_Xqw8k",
-     "title": "Fais ton introspection",
-     "date": "2026-09-17T15:07:31Z"
+     "id": "Zi83GPn7tC4",
+     "title": "Montre l'exemple, tes enfants suivront ! [Foyers sereins]",
+     "date": "2026-09-23T13:57:14Z"
+    },
+    {
+     "id": "F-fZergcEyc",
+     "title": "L'hypocrisie de la franc-maçonnerie - Cheikh Sâlih Al Ach-Cheikh",
+     "date": "2026-09-21T17:44:38Z"
+    },
+    {
+     "id": "hsBxbb9gn2g",
+     "title": "Foyers sereins ! L'autorité de l'homme et la place de la femme",
+     "date": "2026-09-20T12:49:30Z"
+    },
+    {
+     "id": "2uCsjHPFiwA",
+     "title": "❗Aucun métier n'est blâmable !",
+     "date": "2026-09-19T18:40:01Z"
+    }
+   ]
+  },
+  {
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
+   "videos": [
+    {
+     "id": "Q8IVUmUbW9E",
+     "title": "43- L'explication des 3 fondements du cheikh Ibn 'outhaymin",
+     "date": "2026-09-24T15:35:38Z"
+    },
+    {
+     "id": "9_lR2RNce08",
+     "title": "42- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
+     "date": "2026-09-24T15:19:25Z"
+    },
+    {
+     "id": "G3vSqIFQUz8",
+     "title": "34- L'explication de la sunnah de l'imam Al-barbahari par cheikh Rabee'",
+     "date": "2026-09-24T15:13:14Z"
+    },
+    {
+     "id": "9BwMK7ZXMYE",
+     "title": "9- Explication résumée des fondements de la sunnah de l'imam Ahmad. Fin",
+     "date": "2026-09-20T23:15:49Z"
+    },
+    {
+     "id": "xCG9TR8fjZI",
+     "title": "8- Explication résumée des fondements de la sunnah de l'imam Ahmad.",
+     "date": "2026-09-20T22:10:50Z"
+    },
+    {
+     "id": "6NVOHxh7UkY",
+     "title": "7- Explication résumée des fondements de la sunnah de l'imam Ahmad",
+     "date": "2026-09-20T22:02:24Z"
+    },
+    {
+     "id": "5bOSdESKrpU",
+     "title": "6- Explication résumée des fondements de la sunnah de l'imam Ahmad.",
+     "date": "2026-09-20T21:50:25Z"
+    },
+    {
+     "id": "l5Z6v-8Rp_A",
+     "title": "5- Explication résumée des fondements de la sunnah par l'imam Ahmad",
+     "date": "2026-09-20T21:24:01Z"
+    },
+    {
+     "id": "AA4_Fc4I9vc",
+     "title": "4- Explication résumée des fondements de la sunnah de l'imam Ahmad",
+     "date": "2026-09-20T21:05:48Z"
     }
    ]
   },
@@ -36,6 +118,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "jHMdEw89JB0",
+     "title": "9- Rappel sur l’importance du Coran & Explication des Trois catégories de l’unicité",
+     "date": "2026-09-24T15:00:03Z"
+    },
     {
      "id": "qj3BJCTo13g",
      "title": "8- Explication du sens de l’attestation de foi ainsi que ses conditions",
@@ -65,37 +152,6 @@
      "id": "fIpgzLbsNpg",
      "title": "3- Explication de sourate Al-Zalzala, Al-Adiyat, et Al Qari’a",
      "date": "2026-09-18T15:00:07Z"
-    },
-    {
-     "id": "sC1SJdX_psg",
-     "title": "2- Explication de sourate Al-Fatiha",
-     "date": "2026-09-17T14:00:07Z"
-    }
-   ]
-  },
-  {
-   "handle": "SavantsSunnah",
-   "title": "Les Savants de la Sunnah ",
-   "videos": [
-    {
-     "id": "Zi83GPn7tC4",
-     "title": "Montre l'exemple, tes enfants suivront ! [Foyers sereins]",
-     "date": "2026-09-23T13:57:14Z"
-    },
-    {
-     "id": "F-fZergcEyc",
-     "title": "L'hypocrisie de la franc-maçonnerie - Cheikh Sâlih Al Ach-Cheikh",
-     "date": "2026-09-21T17:44:38Z"
-    },
-    {
-     "id": "hsBxbb9gn2g",
-     "title": "Foyers sereins ! L'autorité de l'homme et la place de la femme",
-     "date": "2026-09-20T12:49:30Z"
-    },
-    {
-     "id": "2uCsjHPFiwA",
-     "title": "❗Aucun métier n'est blâmable !",
-     "date": "2026-09-19T18:40:01Z"
     }
    ]
   },
@@ -112,11 +168,6 @@
      "id": "vkrp4L67RNc",
      "title": "Pourquoi les prophètes gardaient-ils des moutons ?",
      "date": "2026-09-20T10:47:35Z"
-    },
-    {
-     "id": "5pwnaLH8sVA",
-     "title": "L’état d’Ihram : quand commencent réellement les interdits ?",
-     "date": "2026-09-17T15:52:32Z"
     }
    ]
   },
@@ -133,11 +184,6 @@
      "id": "GB3pyhEEXsI",
      "title": "🚨 La tentation qui détruit beaucoup de jeunes",
      "date": "2026-09-20T17:00:43Z"
-    },
-    {
-     "id": "JBXuTMnExjU",
-     "title": "La musique : le fléau n°1 des jeunes ?",
-     "date": "2026-09-17T20:20:14Z"
     }
    ]
   },
@@ -206,58 +252,6 @@
      "id": "Ozc9IrVUwxc",
      "title": "🎙️La qiwâmah, ce n’est pas donner des ordres ! Cheikh 'Aziz Farhan Al 'Anizi",
      "date": "2026-09-19T20:48:57Z"
-    },
-    {
-     "id": "r4ft2hl68c0",
-     "title": "🎙️Signification du verset: « Les hommes ont autorité sur les femmes » Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-17T20:04:24Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "9BwMK7ZXMYE",
-     "title": "9- Explication résumée des fondements de la sunnah de l'imam Ahmad. Fin",
-     "date": "2026-09-20T23:15:49Z"
-    },
-    {
-     "id": "xCG9TR8fjZI",
-     "title": "8- Explication résumée des fondements de la sunnah de l'imam Ahmad.",
-     "date": "2026-09-20T22:10:50Z"
-    },
-    {
-     "id": "6NVOHxh7UkY",
-     "title": "7- Explication résumée des fondements de la sunnah de l'imam Ahmad",
-     "date": "2026-09-20T22:02:24Z"
-    },
-    {
-     "id": "5bOSdESKrpU",
-     "title": "6- Explication résumée des fondements de la sunnah de l'imam Ahmad.",
-     "date": "2026-09-20T21:50:25Z"
-    },
-    {
-     "id": "l5Z6v-8Rp_A",
-     "title": "5- Explication résumée des fondements de la sunnah par l'imam Ahmad",
-     "date": "2026-09-20T21:24:01Z"
-    },
-    {
-     "id": "AA4_Fc4I9vc",
-     "title": "4- Explication résumée des fondements de la sunnah de l'imam Ahmad",
-     "date": "2026-09-20T21:05:48Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "qvRwtjshMRk",
-     "title": "Yā Oukhtanā (poème sur le hijab)",
-     "date": "2026-09-17T20:23:09Z"
     }
    ]
   }
