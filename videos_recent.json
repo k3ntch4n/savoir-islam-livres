@@ -1,6 +1,141 @@
 {
- "generated_at": "2026-09-24T19:53:10+00:00",
+ "generated_at": "2026-09-25T19:54:56+00:00",
  "channels": [
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "YgUuYRDQtvU",
+     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
+     "date": "2026-09-25T19:30:38Z"
+    },
+    {
+     "id": "1GUlWL31qA8",
+     "title": "🎥 Al-Adab Al-Mufrad #240 - Sentiments provoqués",
+     "date": "2026-09-22T14:00:10Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "Tgry33iSjw4",
+     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
+     "date": "2026-09-25T17:24:27Z"
+    },
+    {
+     "id": "v5oYGFjkBlg",
+     "title": "L’histoire d’Abû Lahab que beaucoup ne connaissent pas",
+     "date": "2026-09-23T11:05:52Z"
+    },
+    {
+     "id": "vkrp4L67RNc",
+     "title": "Pourquoi les prophètes gardaient-ils des moutons ?",
+     "date": "2026-09-20T10:47:35Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "G8v_-nBvIic",
+     "title": "10- Rappel sur quelques comportements concernant la science et sur les 3 types de Tawhid",
+     "date": "2026-09-25T15:00:21Z"
+    },
+    {
+     "id": "jHMdEw89JB0",
+     "title": "9- Rappel sur l’importance du Coran & Explication des Trois catégories de l’unicité",
+     "date": "2026-09-24T15:00:03Z"
+    },
+    {
+     "id": "qj3BJCTo13g",
+     "title": "8- Explication du sens de l’attestation de foi ainsi que ses conditions",
+     "date": "2026-09-23T15:00:01Z"
+    },
+    {
+     "id": "rOu51MqBNMU",
+     "title": "7- Explication de sourate An-Nasr jusqu’à sourate An-nas",
+     "date": "2026-09-22T15:00:18Z"
+    },
+    {
+     "id": "QOP5nFW_AzY",
+     "title": "6- Explication de sourate Al-Ma’oun, Al-Kawthar et Al-Kafiroun",
+     "date": "2026-09-21T15:00:12Z"
+    },
+    {
+     "id": "cE_PSkAalb0",
+     "title": "5- Explication de sourate Al-Humaza, Al-Fil et Quraysh",
+     "date": "2026-09-20T14:00:28Z"
+    }
+   ]
+  },
+  {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "muucaQcPIm8",
+     "title": "Rappelle-toi de la mort - Abdullah Al Albani",
+     "date": "2026-09-25T06:54:21Z"
+    },
+    {
+     "id": "jRCj3AtN6wI",
+     "title": "Ne prends la science que de celui dont il connaît son attachement à la Sounnah",
+     "date": "2026-09-25T06:09:15Z"
+    },
+    {
+     "id": "7kX_NL5K6Xg",
+     "title": "Les dangers du laxisme - Abdullah Al Albani",
+     "date": "2026-09-22T07:09:08Z"
+    },
+    {
+     "id": "y4oRM-Sykp8",
+     "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
+     "date": "2026-09-21T09:51:05Z"
+    },
+    {
+     "id": "kF0rUoIytXI",
+     "title": "03 - Les signes du cœur sain - Abdullah Al Albani",
+     "date": "2026-09-21T09:38:22Z"
+    },
+    {
+     "id": "ozvFIrt99zQ",
+     "title": "02 - Les signes du coeur sain - Abdullah Al Albani",
+     "date": "2026-09-21T09:19:17Z"
+    },
+    {
+     "id": "Wr_n2k_GMSg",
+     "title": "01 - Les signes du coeur sain - Abdullah Al Albani",
+     "date": "2026-09-21T08:53:43Z"
+    }
+   ]
+  },
+  {
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
+   "videos": [
+    {
+     "id": "ysKsKIwlLtU",
+     "title": "La tentation de la fornication n’a jamais été aussi proche",
+     "date": "2026-09-24T21:33:39Z"
+    },
+    {
+     "id": "PBctMQdybcM",
+     "title": "Le regard du Coran sur les passions",
+     "date": "2026-09-22T19:31:34Z"
+    },
+    {
+     "id": "GB3pyhEEXsI",
+     "title": "🚨 La tentation qui détruit beaucoup de jeunes",
+     "date": "2026-09-20T17:00:43Z"
+    }
+   ]
+  },
   {
    "handle": "Ceciestnotrecroyance",
    "title": "Ceci est notre croyance",
@@ -24,11 +159,6 @@
      "id": "Kcn2-G_6kV4",
      "title": "Pourquoi tu n’arrives pas à te maîtriser ?",
      "date": "2026-09-20T15:49:27Z"
-    },
-    {
-     "id": "stj_7onpeGk",
-     "title": "Casse cette routine !",
-     "date": "2026-09-18T17:56:47Z"
     }
    ]
   },
@@ -55,11 +185,6 @@
      "id": "hsBxbb9gn2g",
      "title": "Foyers sereins ! L'autorité de l'homme et la place de la femme",
      "date": "2026-09-20T12:49:30Z"
-    },
-    {
-     "id": "2uCsjHPFiwA",
-     "title": "❗Aucun métier n'est blâmable !",
-     "date": "2026-09-19T18:40:01Z"
     }
    ]
   },
@@ -111,131 +236,6 @@
      "id": "AA4_Fc4I9vc",
      "title": "4- Explication résumée des fondements de la sunnah de l'imam Ahmad",
      "date": "2026-09-20T21:05:48Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "jHMdEw89JB0",
-     "title": "9- Rappel sur l’importance du Coran & Explication des Trois catégories de l’unicité",
-     "date": "2026-09-24T15:00:03Z"
-    },
-    {
-     "id": "qj3BJCTo13g",
-     "title": "8- Explication du sens de l’attestation de foi ainsi que ses conditions",
-     "date": "2026-09-23T15:00:01Z"
-    },
-    {
-     "id": "rOu51MqBNMU",
-     "title": "7- Explication de sourate An-Nasr jusqu’à sourate An-nas",
-     "date": "2026-09-22T15:00:18Z"
-    },
-    {
-     "id": "QOP5nFW_AzY",
-     "title": "6- Explication de sourate Al-Ma’oun, Al-Kawthar et Al-Kafiroun",
-     "date": "2026-09-21T15:00:12Z"
-    },
-    {
-     "id": "cE_PSkAalb0",
-     "title": "5- Explication de sourate Al-Humaza, Al-Fil et Quraysh",
-     "date": "2026-09-20T14:00:28Z"
-    },
-    {
-     "id": "sduVxoic1QU",
-     "title": "4- Explication de sourate At-takathur et Al-asr",
-     "date": "2026-09-19T15:00:03Z"
-    },
-    {
-     "id": "fIpgzLbsNpg",
-     "title": "3- Explication de sourate Al-Zalzala, Al-Adiyat, et Al Qari’a",
-     "date": "2026-09-18T15:00:07Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "v5oYGFjkBlg",
-     "title": "L’histoire d’Abû Lahab que beaucoup ne connaissent pas",
-     "date": "2026-09-23T11:05:52Z"
-    },
-    {
-     "id": "vkrp4L67RNc",
-     "title": "Pourquoi les prophètes gardaient-ils des moutons ?",
-     "date": "2026-09-20T10:47:35Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "PBctMQdybcM",
-     "title": "Le regard du Coran sur les passions",
-     "date": "2026-09-22T19:31:34Z"
-    },
-    {
-     "id": "GB3pyhEEXsI",
-     "title": "🚨 La tentation qui détruit beaucoup de jeunes",
-     "date": "2026-09-20T17:00:43Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "1GUlWL31qA8",
-     "title": "🎥 Al-Adab Al-Mufrad #240 - Sentiments provoqués",
-     "date": "2026-09-22T14:00:10Z"
-    },
-    {
-     "id": "HT1GZlNoJ2c",
-     "title": "🎥 ‘Umdat al-Ahkam - Cours n°46 - Prier en état de janabah par ignorance",
-     "date": "2026-09-19T14:00:23Z"
-    }
-   ]
-  },
-  {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "7kX_NL5K6Xg",
-     "title": "Les dangers du laxisme - Abdullah Al Albani",
-     "date": "2026-09-22T07:09:08Z"
-    },
-    {
-     "id": "y4oRM-Sykp8",
-     "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-09-21T09:51:05Z"
-    },
-    {
-     "id": "kF0rUoIytXI",
-     "title": "03 - Les signes du cœur sain - Abdullah Al Albani",
-     "date": "2026-09-21T09:38:22Z"
-    },
-    {
-     "id": "ozvFIrt99zQ",
-     "title": "02 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-09-21T09:19:17Z"
-    },
-    {
-     "id": "Wr_n2k_GMSg",
-     "title": "01 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-09-21T08:53:43Z"
-    },
-    {
-     "id": "lL82inoXwTY",
-     "title": "Le désaveu à l'égard des non musulmans - Abdullah Al Albani",
-     "date": "2026-09-19T13:08:43Z"
     }
    ]
   },
