@@ -1,40 +1,19 @@
 {
- "generated_at": "2026-09-25T19:54:56+00:00",
+ "generated_at": "2026-09-26T19:07:02+00:00",
  "channels": [
   {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
    "videos": [
     {
-     "id": "YgUuYRDQtvU",
-     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
-     "date": "2026-09-25T19:30:38Z"
+     "id": "z7Mkg3teGMs",
+     "title": "🎙️Ne détruis pas l’autorité du père devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-26T18:39:03Z"
     },
     {
-     "id": "1GUlWL31qA8",
-     "title": "🎥 Al-Adab Al-Mufrad #240 - Sentiments provoqués",
-     "date": "2026-09-22T14:00:10Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "Tgry33iSjw4",
-     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
-     "date": "2026-09-25T17:24:27Z"
-    },
-    {
-     "id": "v5oYGFjkBlg",
-     "title": "L’histoire d’Abû Lahab que beaucoup ne connaissent pas",
-     "date": "2026-09-23T11:05:52Z"
-    },
-    {
-     "id": "vkrp4L67RNc",
-     "title": "Pourquoi les prophètes gardaient-ils des moutons ?",
-     "date": "2026-09-20T10:47:35Z"
+     "id": "dkPd14iloX8",
+     "title": "🎙️La qiwâmah, ce n’est pas décider seul ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-21T17:38:54Z"
     }
    ]
   },
@@ -42,6 +21,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "0AkgcSPRu3U",
+     "title": "11- Les catégories du Shirk",
+     "date": "2026-09-26T15:00:22Z"
+    },
     {
      "id": "G8v_-nBvIic",
      "title": "10- Rappel sur quelques comportements concernant la science et sur les 3 types de Tawhid",
@@ -71,6 +55,43 @@
      "id": "cE_PSkAalb0",
      "title": "5- Explication de sourate Al-Humaza, Al-Fil et Quraysh",
      "date": "2026-09-20T14:00:28Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "Ra40xM_vT10",
+     "title": "🎥 Kitab At-Tawhid #176 - Le suivi fanatique",
+     "date": "2026-09-26T14:00:07Z"
+    },
+    {
+     "id": "YgUuYRDQtvU",
+     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
+     "date": "2026-09-25T19:30:38Z"
+    },
+    {
+     "id": "1GUlWL31qA8",
+     "title": "🎥 Al-Adab Al-Mufrad #240 - Sentiments provoqués",
+     "date": "2026-09-22T14:00:10Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "Tgry33iSjw4",
+     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
+     "date": "2026-09-25T17:24:27Z"
+    },
+    {
+     "id": "v5oYGFjkBlg",
+     "title": "L’histoire d’Abû Lahab que beaucoup ne connaissent pas",
+     "date": "2026-09-23T11:05:52Z"
     }
    ]
   },
@@ -180,11 +201,6 @@
      "id": "F-fZergcEyc",
      "title": "L'hypocrisie de la franc-maçonnerie - Cheikh Sâlih Al Ach-Cheikh",
      "date": "2026-09-21T17:44:38Z"
-    },
-    {
-     "id": "hsBxbb9gn2g",
-     "title": "Foyers sereins ! L'autorité de l'homme et la place de la femme",
-     "date": "2026-09-20T12:49:30Z"
     }
    ]
   },
@@ -236,22 +252,6 @@
      "id": "AA4_Fc4I9vc",
      "title": "4- Explication résumée des fondements de la sunnah de l'imam Ahmad",
      "date": "2026-09-20T21:05:48Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "dkPd14iloX8",
-     "title": "🎙️La qiwâmah, ce n’est pas décider seul ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-21T17:38:54Z"
-    },
-    {
-     "id": "Ozc9IrVUwxc",
-     "title": "🎙️La qiwâmah, ce n’est pas donner des ordres ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-19T20:48:57Z"
     }
    ]
   }
