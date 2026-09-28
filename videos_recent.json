@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-09-27T19:38:46+00:00",
+ "generated_at": "2026-09-28T21:41:33+00:00",
  "channels": [
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "ndFuHQaVB24",
+     "title": "Qârûn : l’homme que sa richesse a perdu",
+     "date": "2026-09-28T19:15:42Z"
+    },
     {
      "id": "sMkIDJIJyNA",
      "title": "Tawaf : tu ne sais plus combien de tours tu as faits ?",
@@ -28,49 +33,28 @@
    ]
   },
   {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
    "videos": [
     {
-     "id": "I8_hFIo7NAM",
-     "title": "Un péché lui a fait oublier le Coran en entier | Chaykh Raslan",
-     "date": "2026-09-27T17:49:05Z"
+     "id": "NXJ-Vlkag0w",
+     "title": "🎙️Quel avenir crains-tu vraiment pour ton enfant ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-28T18:02:28Z"
     },
     {
-     "id": "f6Y77lmqDYk",
-     "title": "Ils étaient différents | Chaykh Raslan",
-     "date": "2026-09-24T17:59:26Z"
+     "id": "ez8GPCgOB-c",
+     "title": "🎙️Ne rabaisse pas la mère devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-27T08:40:46Z"
     },
     {
-     "id": "3NUEIDABUlg",
-     "title": "🌿 Ayez honte devant Allah",
-     "date": "2026-09-23T18:03:17Z"
+     "id": "z7Mkg3teGMs",
+     "title": "🎙️Ne détruis pas l’autorité du père devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-26T18:39:03Z"
     },
     {
-     "id": "iltqT9izjzA",
-     "title": "💡 Mais pourquoi suis-je autant éprouvé",
-     "date": "2026-09-22T18:26:48Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "hdA1Kc4LdJo",
-     "title": "PODCAST — LE COMPORTEMENT DE L’ÉTUDIANT EN SCIENCE | LA CITADELLE DE LA FOI",
-     "date": "2026-09-27T16:43:51Z"
-    },
-    {
-     "id": "ysKsKIwlLtU",
-     "title": "La tentation de la fornication n’a jamais été aussi proche",
-     "date": "2026-09-24T21:33:39Z"
-    },
-    {
-     "id": "PBctMQdybcM",
-     "title": "Le regard du Coran sur les passions",
-     "date": "2026-09-22T19:31:34Z"
+     "id": "dkPd14iloX8",
+     "title": "🎙️La qiwâmah, ce n’est pas décider seul ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-21T17:38:54Z"
     }
    ]
   },
@@ -78,6 +62,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "cViLXQ8XaTQ",
+     "title": "13- Les conditions de la prière (2)",
+     "date": "2026-09-28T15:00:26Z"
+    },
     {
      "id": "X28eK7CcAyc",
      "title": "12- Les conditions de la prière",
@@ -116,6 +105,64 @@
    ]
   },
   {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "94FzX_sy_1Q",
+     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
+     "date": "2026-09-28T08:38:26Z"
+    }
+   ]
+  },
+  {
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
+   "videos": [
+    {
+     "id": "I8_hFIo7NAM",
+     "title": "Un péché lui a fait oublier le Coran en entier | Chaykh Raslan",
+     "date": "2026-09-27T17:49:05Z"
+    },
+    {
+     "id": "f6Y77lmqDYk",
+     "title": "Ils étaient différents | Chaykh Raslan",
+     "date": "2026-09-24T17:59:26Z"
+    },
+    {
+     "id": "3NUEIDABUlg",
+     "title": "🌿 Ayez honte devant Allah",
+     "date": "2026-09-23T18:03:17Z"
+    },
+    {
+     "id": "iltqT9izjzA",
+     "title": "💡 Mais pourquoi suis-je autant éprouvé",
+     "date": "2026-09-22T18:26:48Z"
+    }
+   ]
+  },
+  {
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
+   "videos": [
+    {
+     "id": "hdA1Kc4LdJo",
+     "title": "PODCAST — LES CLASHS ENTRE LES ÉTUDIANTS EN SCIENCE | LA CITADELLE DE LA FOI",
+     "date": "2026-09-27T16:43:51Z"
+    },
+    {
+     "id": "ysKsKIwlLtU",
+     "title": "La tentation de la fornication n’a jamais été aussi proche",
+     "date": "2026-09-24T21:33:39Z"
+    },
+    {
+     "id": "PBctMQdybcM",
+     "title": "Le regard du Coran sur les passions",
+     "date": "2026-09-22T19:31:34Z"
+    }
+   ]
+  },
+  {
    "handle": "sofianibnmoubarak",
    "title": "Sofian ibn Moubarak - سفيان بن مبارك",
    "videos": [
@@ -123,27 +170,6 @@
      "id": "9CllMPf_UMw",
      "title": "La foi en Allah (partie 1) (Niveau 2 - Cours n°1)",
      "date": "2026-09-27T11:36:59Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "ez8GPCgOB-c",
-     "title": "🎙️Ne rabaisse pas la mère devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-27T08:40:46Z"
-    },
-    {
-     "id": "z7Mkg3teGMs",
-     "title": "🎙️Ne détruis pas l’autorité du père devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-26T18:39:03Z"
-    },
-    {
-     "id": "dkPd14iloX8",
-     "title": "🎙️La qiwâmah, ce n’est pas décider seul ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-21T17:38:54Z"
     }
    ]
   },
@@ -196,16 +222,6 @@
      "id": "kF0rUoIytXI",
      "title": "03 - Les signes du cœur sain - Abdullah Al Albani",
      "date": "2026-09-21T09:38:22Z"
-    },
-    {
-     "id": "ozvFIrt99zQ",
-     "title": "02 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-09-21T09:19:17Z"
-    },
-    {
-     "id": "Wr_n2k_GMSg",
-     "title": "01 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-09-21T08:53:43Z"
     }
    ]
   },
@@ -248,16 +264,6 @@
      "id": "G3vSqIFQUz8",
      "title": "34- L'explication de la sunnah de l'imam Al-barbahari par cheikh Rabee'",
      "date": "2026-09-24T15:13:14Z"
-    },
-    {
-     "id": "9BwMK7ZXMYE",
-     "title": "9- Explication résumée des fondements de la sunnah de l'imam Ahmad. Fin",
-     "date": "2026-09-20T23:15:49Z"
-    },
-    {
-     "id": "xCG9TR8fjZI",
-     "title": "8- Explication résumée des fondements de la sunnah de l'imam Ahmad.",
-     "date": "2026-09-20T22:10:50Z"
     }
    ]
   }
