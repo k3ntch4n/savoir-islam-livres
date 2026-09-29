@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-09-28T21:41:33+00:00",
+ "generated_at": "2026-09-29T20:32:39+00:00",
  "channels": [
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "7YQSC5bzI9g",
+     "title": "La Kaaba comme vous l’avez rarement vue",
+     "date": "2026-09-29T15:40:19Z"
+    },
     {
      "id": "ndFuHQaVB24",
      "title": "Qârûn : l’homme que sa richesse a perdu",
@@ -33,35 +38,14 @@
    ]
   },
   {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "NXJ-Vlkag0w",
-     "title": "🎙️Quel avenir crains-tu vraiment pour ton enfant ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-28T18:02:28Z"
-    },
-    {
-     "id": "ez8GPCgOB-c",
-     "title": "🎙️Ne rabaisse pas la mère devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-27T08:40:46Z"
-    },
-    {
-     "id": "z7Mkg3teGMs",
-     "title": "🎙️Ne détruis pas l’autorité du père devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-26T18:39:03Z"
-    },
-    {
-     "id": "dkPd14iloX8",
-     "title": "🎙️La qiwâmah, ce n’est pas décider seul ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-21T17:38:54Z"
-    }
-   ]
-  },
-  {
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "ZwqElDQEJVw",
+     "title": "14- Les piliers de la prière",
+     "date": "2026-09-29T15:00:04Z"
+    },
     {
      "id": "cViLXQ8XaTQ",
      "title": "13- Les conditions de la prière (2)",
@@ -96,22 +80,32 @@
      "id": "rOu51MqBNMU",
      "title": "7- Explication de sourate An-Nasr jusqu’à sourate An-nas",
      "date": "2026-09-22T15:00:18Z"
-    },
-    {
-     "id": "QOP5nFW_AzY",
-     "title": "6- Explication de sourate Al-Ma’oun, Al-Kawthar et Al-Kafiroun",
-     "date": "2026-09-21T15:00:12Z"
     }
    ]
   },
   {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
    "videos": [
     {
-     "id": "94FzX_sy_1Q",
-     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
-     "date": "2026-09-28T08:38:26Z"
+     "id": "mBGqUEckpTY",
+     "title": "🎥 Les leçons importantes pour toute la communauté #49 - Les gens prioritaires du lavage mortuaire",
+     "date": "2026-09-29T14:00:03Z"
+    },
+    {
+     "id": "Ra40xM_vT10",
+     "title": "🎥 Kitab At-Tawhid #176 - Le suivi fanatique",
+     "date": "2026-09-26T14:00:07Z"
+    },
+    {
+     "id": "YgUuYRDQtvU",
+     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
+     "date": "2026-09-25T19:30:38Z"
+    },
+    {
+     "id": "1GUlWL31qA8",
+     "title": "🎥 Al-Adab Al-Mufrad #240 - Sentiments provoqués",
+     "date": "2026-09-22T14:00:10Z"
     }
    ]
   },
@@ -119,6 +113,11 @@
    "handle": "Ceciestnotrecroyance",
    "title": "Ceci est notre croyance",
    "videos": [
+    {
+     "id": "9c_YQvY66uE",
+     "title": "🌿 Un problème de couple pas comme les autres !",
+     "date": "2026-09-29T13:53:30Z"
+    },
     {
      "id": "I8_hFIo7NAM",
      "title": "Un péché lui a fait oublier le Coran en entier | Chaykh Raslan",
@@ -138,6 +137,38 @@
      "id": "iltqT9izjzA",
      "title": "💡 Mais pourquoi suis-je autant éprouvé",
      "date": "2026-09-22T18:26:48Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "NXJ-Vlkag0w",
+     "title": "🎙️Quel avenir crains-tu vraiment pour ton enfant ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-28T18:02:28Z"
+    },
+    {
+     "id": "ez8GPCgOB-c",
+     "title": "🎙️Ne rabaisse pas la mère devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-27T08:40:46Z"
+    },
+    {
+     "id": "z7Mkg3teGMs",
+     "title": "🎙️Ne détruis pas l’autorité du père devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-26T18:39:03Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "94FzX_sy_1Q",
+     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
+     "date": "2026-09-28T08:38:26Z"
     }
    ]
   },
@@ -174,27 +205,6 @@
    ]
   },
   {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "Ra40xM_vT10",
-     "title": "🎥 Kitab At-Tawhid #176 - Le suivi fanatique",
-     "date": "2026-09-26T14:00:07Z"
-    },
-    {
-     "id": "YgUuYRDQtvU",
-     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
-     "date": "2026-09-25T19:30:38Z"
-    },
-    {
-     "id": "1GUlWL31qA8",
-     "title": "🎥 Al-Adab Al-Mufrad #240 - Sentiments provoqués",
-     "date": "2026-09-22T14:00:10Z"
-    }
-   ]
-  },
-  {
    "handle": "Abdullahalalbani",
    "title": "Abdullah Al Albani",
    "videos": [
@@ -212,16 +222,6 @@
      "id": "7kX_NL5K6Xg",
      "title": "Les dangers du laxisme - Abdullah Al Albani",
      "date": "2026-09-22T07:09:08Z"
-    },
-    {
-     "id": "y4oRM-Sykp8",
-     "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-09-21T09:51:05Z"
-    },
-    {
-     "id": "kF0rUoIytXI",
-     "title": "03 - Les signes du cœur sain - Abdullah Al Albani",
-     "date": "2026-09-21T09:38:22Z"
     }
    ]
   },
