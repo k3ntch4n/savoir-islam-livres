@@ -1,39 +1,29 @@
 {
- "generated_at": "2026-09-29T20:32:39+00:00",
+ "generated_at": "2026-09-30T20:39:27+00:00",
  "channels": [
   {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
    "videos": [
     {
-     "id": "7YQSC5bzI9g",
-     "title": "La Kaaba comme vous l’avez rarement vue",
-     "date": "2026-09-29T15:40:19Z"
+     "id": "4ruLFT-NX9c",
+     "title": "🎙️Le danger entre désormais directement dans leur chambre !Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-30T17:29:03Z"
     },
     {
-     "id": "ndFuHQaVB24",
-     "title": "Qârûn : l’homme que sa richesse a perdu",
-     "date": "2026-09-28T19:15:42Z"
+     "id": "NXJ-Vlkag0w",
+     "title": "🎙️Quel avenir crains-tu vraiment pour ton enfant ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-28T18:02:28Z"
     },
     {
-     "id": "sMkIDJIJyNA",
-     "title": "Tawaf : tu ne sais plus combien de tours tu as faits ?",
-     "date": "2026-09-27T18:10:14Z"
+     "id": "ez8GPCgOB-c",
+     "title": "🎙️Ne rabaisse pas la mère devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-27T08:40:46Z"
     },
     {
-     "id": "dmdcW6L8AhA",
-     "title": "L’histoire de l’homme qui a voulu écraser le cou du Messager d’Allah (paix sur lui)",
-     "date": "2026-09-26T19:40:40Z"
-    },
-    {
-     "id": "Tgry33iSjw4",
-     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
-     "date": "2026-09-25T17:24:27Z"
-    },
-    {
-     "id": "v5oYGFjkBlg",
-     "title": "L’histoire d’Abû Lahab que beaucoup ne connaissent pas",
-     "date": "2026-09-23T11:05:52Z"
+     "id": "z7Mkg3teGMs",
+     "title": "🎙️Ne détruis pas l’autorité du père devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-26T18:39:03Z"
     }
    ]
   },
@@ -41,6 +31,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "r22oajJsQEY",
+     "title": "15- Les obligations de la prière",
+     "date": "2026-09-30T15:00:16Z"
+    },
     {
      "id": "ZwqElDQEJVw",
      "title": "14- Les piliers de la prière",
@@ -80,6 +75,37 @@
      "id": "rOu51MqBNMU",
      "title": "7- Explication de sourate An-Nasr jusqu’à sourate An-nas",
      "date": "2026-09-22T15:00:18Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "7YQSC5bzI9g",
+     "title": "La Kaaba comme vous l’avez rarement vue",
+     "date": "2026-09-29T15:40:19Z"
+    },
+    {
+     "id": "sMkIDJIJyNA",
+     "title": "Tawaf : tu ne sais plus combien de tours tu as faits ?",
+     "date": "2026-09-27T18:10:14Z"
+    },
+    {
+     "id": "dmdcW6L8AhA",
+     "title": "L’histoire de l’homme qui a voulu écraser le cou du Messager d’Allah (paix sur lui)",
+     "date": "2026-09-26T19:40:40Z"
+    },
+    {
+     "id": "Tgry33iSjw4",
+     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
+     "date": "2026-09-25T17:24:27Z"
+    },
+    {
+     "id": "v5oYGFjkBlg",
+     "title": "L’histoire d’Abû Lahab que beaucoup ne connaissent pas",
+     "date": "2026-09-23T11:05:52Z"
     }
    ]
   },
@@ -137,27 +163,6 @@
      "id": "iltqT9izjzA",
      "title": "💡 Mais pourquoi suis-je autant éprouvé",
      "date": "2026-09-22T18:26:48Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "NXJ-Vlkag0w",
-     "title": "🎙️Quel avenir crains-tu vraiment pour ton enfant ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-28T18:02:28Z"
-    },
-    {
-     "id": "ez8GPCgOB-c",
-     "title": "🎙️Ne rabaisse pas la mère devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-27T08:40:46Z"
-    },
-    {
-     "id": "z7Mkg3teGMs",
-     "title": "🎙️Ne détruis pas l’autorité du père devant tes enfants ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-26T18:39:03Z"
     }
    ]
   },
@@ -238,11 +243,6 @@
      "id": "Zi83GPn7tC4",
      "title": "Montre l'exemple, tes enfants suivront ! [Foyers sereins]",
      "date": "2026-09-23T13:57:14Z"
-    },
-    {
-     "id": "F-fZergcEyc",
-     "title": "L'hypocrisie de la franc-maçonnerie - Cheikh Sâlih Al Ach-Cheikh",
-     "date": "2026-09-21T17:44:38Z"
     }
    ]
   },
