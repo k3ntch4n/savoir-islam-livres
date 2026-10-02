@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-10-01T20:53:34+00:00",
+ "generated_at": "2026-10-02T20:29:49+00:00",
  "channels": [
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "5wCJXGeCG-w",
+     "title": "Près d’un million de  hadiths… comment l’imam Ahmad a-t-il pu en mémoriser autant ?",
+     "date": "2026-10-02T18:51:13Z"
+    },
     {
      "id": "p4AU8pGG9QY",
      "title": "Ash-Shubayka : le cimetière à la sombre histoire #makkah",
@@ -29,11 +34,6 @@
      "id": "Tgry33iSjw4",
      "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
      "date": "2026-09-25T17:24:27Z"
-    },
-    {
-     "id": "v5oYGFjkBlg",
-     "title": "L’histoire d’Abû Lahab que beaucoup ne connaissent pas",
-     "date": "2026-09-23T11:05:52Z"
     }
    ]
   },
@@ -41,6 +41,11 @@
    "handle": "fatwasfr",
    "title": "FatwasFr",
    "videos": [
+    {
+     "id": "YbsVZrBqwzo",
+     "title": "🎙️Arrête de comparer ta vie à celle des autres ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-02T18:15:27Z"
+    },
     {
      "id": "tP3ZeM3psCU",
      "title": "🎙️Et si tes dépenses du quotidien devenaient des actes d’adoration ?Cheikh 'Aziz Farhan Al 'Anizi",
@@ -72,6 +77,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "v5n0pzZ59LM",
+     "title": "17 - Les sunan de la prière (partie 1)",
+     "date": "2026-10-02T15:00:25Z"
+    },
     {
      "id": "bW27zTaHZsQ",
      "title": "16- Le tachahhoud",
@@ -163,11 +173,6 @@
      "id": "3NUEIDABUlg",
      "title": "🌿 Ayez honte devant Allah",
      "date": "2026-09-23T18:03:17Z"
-    },
-    {
-     "id": "iltqT9izjzA",
-     "title": "💡 Mais pourquoi suis-je autant éprouvé",
-     "date": "2026-09-22T18:26:48Z"
     }
    ]
   },
@@ -195,11 +200,6 @@
      "id": "ysKsKIwlLtU",
      "title": "La tentation de la fornication n’a jamais été aussi proche",
      "date": "2026-09-24T21:33:39Z"
-    },
-    {
-     "id": "PBctMQdybcM",
-     "title": "Le regard du Coran sur les passions",
-     "date": "2026-09-22T19:31:34Z"
     }
    ]
   },
