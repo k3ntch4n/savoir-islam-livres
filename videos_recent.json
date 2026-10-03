@@ -1,6 +1,115 @@
 {
- "generated_at": "2026-10-02T20:29:49+00:00",
+ "generated_at": "2026-10-03T19:06:08+00:00",
  "channels": [
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "3vRzgcF0JCk",
+     "title": "18- Les sunan de la prière (partie 2)",
+     "date": "2026-10-03T15:00:38Z"
+    },
+    {
+     "id": "v5n0pzZ59LM",
+     "title": "17 - Les sunan de la prière (partie 1)",
+     "date": "2026-10-02T15:00:25Z"
+    },
+    {
+     "id": "bW27zTaHZsQ",
+     "title": "16- Le tachahhoud",
+     "date": "2026-10-01T15:00:00Z"
+    },
+    {
+     "id": "r22oajJsQEY",
+     "title": "15- Les obligations de la prière",
+     "date": "2026-09-30T15:00:16Z"
+    },
+    {
+     "id": "ZwqElDQEJVw",
+     "title": "14- Les piliers de la prière",
+     "date": "2026-09-29T15:00:04Z"
+    },
+    {
+     "id": "cViLXQ8XaTQ",
+     "title": "13- Les conditions de la prière (2)",
+     "date": "2026-09-28T15:00:26Z"
+    },
+    {
+     "id": "X28eK7CcAyc",
+     "title": "12- Les conditions de la prière",
+     "date": "2026-09-27T15:00:23Z"
+    },
+    {
+     "id": "0AkgcSPRu3U",
+     "title": "11- Les catégories du Shirk",
+     "date": "2026-09-26T15:00:22Z"
+    },
+    {
+     "id": "G8v_-nBvIic",
+     "title": "10- Rappel sur quelques comportements concernant la science et sur les 3 types de Tawhid",
+     "date": "2026-09-25T15:00:21Z"
+    },
+    {
+     "id": "jHMdEw89JB0",
+     "title": "9- Rappel sur l’importance du Coran & Explication des Trois catégories de l’unicité",
+     "date": "2026-09-24T15:00:03Z"
+    },
+    {
+     "id": "qj3BJCTo13g",
+     "title": "8- Explication du sens de l’attestation de foi ainsi que ses conditions",
+     "date": "2026-09-23T15:00:01Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "_LFxPXOGxhg",
+     "title": "🎥 Tafsir sourate An-Najm n°20 - Faire ses propres éloges ?",
+     "date": "2026-10-03T14:00:28Z"
+    },
+    {
+     "id": "mBGqUEckpTY",
+     "title": "🎥 Les leçons importantes pour toute la communauté #49 - Les gens prioritaires du lavage mortuaire",
+     "date": "2026-09-29T14:00:03Z"
+    },
+    {
+     "id": "Ra40xM_vT10",
+     "title": "🎥 Kitab At-Tawhid #176 - Le suivi fanatique",
+     "date": "2026-09-26T14:00:07Z"
+    },
+    {
+     "id": "YgUuYRDQtvU",
+     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
+     "date": "2026-09-25T19:30:38Z"
+    }
+   ]
+  },
+  {
+   "handle": "islam_les_sentiers_du_savoir",
+   "title": "Islam Les Sentiers du Savoir",
+   "videos": [
+    {
+     "id": "NBFnEC5Wwps",
+     "title": "MISE EN GARDE CONTRE LE SUIVI AVEUGLE (L'IMAM AS SHAFI'I)",
+     "date": "2026-10-03T12:10:08Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "3g5Uyhs0Kd8",
+     "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
+     "date": "2026-10-03T04:54:28Z"
+    }
+   ]
+  },
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
@@ -74,83 +183,6 @@
    ]
   },
   {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "v5n0pzZ59LM",
-     "title": "17 - Les sunan de la prière (partie 1)",
-     "date": "2026-10-02T15:00:25Z"
-    },
-    {
-     "id": "bW27zTaHZsQ",
-     "title": "16- Le tachahhoud",
-     "date": "2026-10-01T15:00:00Z"
-    },
-    {
-     "id": "r22oajJsQEY",
-     "title": "15- Les obligations de la prière",
-     "date": "2026-09-30T15:00:16Z"
-    },
-    {
-     "id": "ZwqElDQEJVw",
-     "title": "14- Les piliers de la prière",
-     "date": "2026-09-29T15:00:04Z"
-    },
-    {
-     "id": "cViLXQ8XaTQ",
-     "title": "13- Les conditions de la prière (2)",
-     "date": "2026-09-28T15:00:26Z"
-    },
-    {
-     "id": "X28eK7CcAyc",
-     "title": "12- Les conditions de la prière",
-     "date": "2026-09-27T15:00:23Z"
-    },
-    {
-     "id": "0AkgcSPRu3U",
-     "title": "11- Les catégories du Shirk",
-     "date": "2026-09-26T15:00:22Z"
-    },
-    {
-     "id": "G8v_-nBvIic",
-     "title": "10- Rappel sur quelques comportements concernant la science et sur les 3 types de Tawhid",
-     "date": "2026-09-25T15:00:21Z"
-    },
-    {
-     "id": "jHMdEw89JB0",
-     "title": "9- Rappel sur l’importance du Coran & Explication des Trois catégories de l’unicité",
-     "date": "2026-09-24T15:00:03Z"
-    },
-    {
-     "id": "qj3BJCTo13g",
-     "title": "8- Explication du sens de l’attestation de foi ainsi que ses conditions",
-     "date": "2026-09-23T15:00:01Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "mBGqUEckpTY",
-     "title": "🎥 Les leçons importantes pour toute la communauté #49 - Les gens prioritaires du lavage mortuaire",
-     "date": "2026-09-29T14:00:03Z"
-    },
-    {
-     "id": "Ra40xM_vT10",
-     "title": "🎥 Kitab At-Tawhid #176 - Le suivi fanatique",
-     "date": "2026-09-26T14:00:07Z"
-    },
-    {
-     "id": "YgUuYRDQtvU",
-     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
-     "date": "2026-09-25T19:30:38Z"
-    }
-   ]
-  },
-  {
    "handle": "Ceciestnotrecroyance",
    "title": "Ceci est notre croyance",
    "videos": [
@@ -173,17 +205,6 @@
      "id": "3NUEIDABUlg",
      "title": "🌿 Ayez honte devant Allah",
      "date": "2026-09-23T18:03:17Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "94FzX_sy_1Q",
-     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
-     "date": "2026-09-28T08:38:26Z"
     }
    ]
   },
@@ -215,22 +236,6 @@
    ]
   },
   {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "muucaQcPIm8",
-     "title": "Rappelle-toi de la mort - Abdullah Al Albani",
-     "date": "2026-09-25T06:54:21Z"
-    },
-    {
-     "id": "jRCj3AtN6wI",
-     "title": "Ne prends la science que de celui dont il connaît son attachement à la Sounnah",
-     "date": "2026-09-25T06:09:15Z"
-    }
-   ]
-  },
-  {
    "handle": "SavantsSunnah",
    "title": "Les Savants de la Sunnah ",
    "videos": [
@@ -238,11 +243,6 @@
      "id": "McLPw5L5Xlc",
      "title": "La simplicité de ce mariage - Cheikh 'Ali Bin Zayd Al Madkhali",
      "date": "2026-09-24T17:35:40Z"
-    },
-    {
-     "id": "Zi83GPn7tC4",
-     "title": "Montre l'exemple, tes enfants suivront ! [Foyers sereins]",
-     "date": "2026-09-23T13:57:14Z"
     }
    ]
   },
