@@ -1,10 +1,61 @@
 {
- "generated_at": "2026-10-03T19:06:08+00:00",
+ "generated_at": "2026-10-04T19:19:30+00:00",
  "channels": [
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "4KnEqaCEc1g",
+     "title": "Pourquoi découvre-t-on l’épaule droite pendant le tawaf ?",
+     "date": "2026-10-04T16:01:13Z"
+    },
+    {
+     "id": "Qv_aqSPgnCY",
+     "title": "N’attends pas de devenir meilleur pour venir à la Mecque !￼",
+     "date": "2026-10-04T09:05:02Z"
+    },
+    {
+     "id": "5wCJXGeCG-w",
+     "title": "Près d’un million de  hadiths… comment l’imam Ahmad a-t-il pu en mémoriser autant ?",
+     "date": "2026-10-02T18:51:13Z"
+    },
+    {
+     "id": "p4AU8pGG9QY",
+     "title": "Ash-Shubayka : le cimetière à la sombre histoire #makkah",
+     "date": "2026-10-01T18:56:07Z"
+    },
+    {
+     "id": "7YQSC5bzI9g",
+     "title": "La Kaaba comme vous l’avez rarement vue",
+     "date": "2026-09-29T15:40:19Z"
+    },
+    {
+     "id": "sMkIDJIJyNA",
+     "title": "Tawaf : tu ne sais plus combien de tours tu as faits ?",
+     "date": "2026-09-27T18:10:14Z"
+    },
+    {
+     "id": "dmdcW6L8AhA",
+     "title": "L’histoire de l’homme qui a voulu écraser le cou du Messager d’Allah (paix sur lui)",
+     "date": "2026-09-26T19:40:40Z"
+    },
+    {
+     "id": "Tgry33iSjw4",
+     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
+     "date": "2026-09-25T17:24:27Z"
+    }
+   ]
+  },
   {
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "UdUZX2K4t28",
+     "title": "19- Les annulatifs de la prière & les conditions des ablutions",
+     "date": "2026-10-04T15:00:34Z"
+    },
     {
      "id": "3vRzgcF0JCk",
      "title": "18- Les sunan de la prière (partie 2)",
@@ -49,16 +100,6 @@
      "id": "G8v_-nBvIic",
      "title": "10- Rappel sur quelques comportements concernant la science et sur les 3 types de Tawhid",
      "date": "2026-09-25T15:00:21Z"
-    },
-    {
-     "id": "jHMdEw89JB0",
-     "title": "9- Rappel sur l’importance du Coran & Explication des Trois catégories de l’unicité",
-     "date": "2026-09-24T15:00:03Z"
-    },
-    {
-     "id": "qj3BJCTo13g",
-     "title": "8- Explication du sens de l’attestation de foi ainsi que ses conditions",
-     "date": "2026-09-23T15:00:01Z"
     }
    ]
   },
@@ -107,42 +148,11 @@
      "id": "3g5Uyhs0Kd8",
      "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
      "date": "2026-10-03T04:54:28Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "5wCJXGeCG-w",
-     "title": "Près d’un million de  hadiths… comment l’imam Ahmad a-t-il pu en mémoriser autant ?",
-     "date": "2026-10-02T18:51:13Z"
     },
     {
-     "id": "p4AU8pGG9QY",
-     "title": "Ash-Shubayka : le cimetière à la sombre histoire #makkah",
-     "date": "2026-10-01T18:56:07Z"
-    },
-    {
-     "id": "7YQSC5bzI9g",
-     "title": "La Kaaba comme vous l’avez rarement vue",
-     "date": "2026-09-29T15:40:19Z"
-    },
-    {
-     "id": "sMkIDJIJyNA",
-     "title": "Tawaf : tu ne sais plus combien de tours tu as faits ?",
-     "date": "2026-09-27T18:10:14Z"
-    },
-    {
-     "id": "dmdcW6L8AhA",
-     "title": "L’histoire de l’homme qui a voulu écraser le cou du Messager d’Allah (paix sur lui)",
-     "date": "2026-09-26T19:40:40Z"
-    },
-    {
-     "id": "Tgry33iSjw4",
-     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
-     "date": "2026-09-25T17:24:27Z"
+     "id": "94FzX_sy_1Q",
+     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
+     "date": "2026-09-28T08:38:26Z"
     }
    ]
   },
@@ -200,11 +210,6 @@
      "id": "f6Y77lmqDYk",
      "title": "Ils étaient différents | Chaykh Raslan",
      "date": "2026-09-24T17:59:26Z"
-    },
-    {
-     "id": "3NUEIDABUlg",
-     "title": "🌿 Ayez honte devant Allah",
-     "date": "2026-09-23T18:03:17Z"
     }
    ]
   },
@@ -236,6 +241,22 @@
    ]
   },
   {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "muucaQcPIm8",
+     "title": "Rappelle-toi de la mort - Abdullah Al Albani",
+     "date": "2026-09-25T06:54:21Z"
+    },
+    {
+     "id": "jRCj3AtN6wI",
+     "title": "Ne prends la science que de celui dont il connaît son attachement à la Sounnah",
+     "date": "2026-09-25T06:09:15Z"
+    }
+   ]
+  },
+  {
    "handle": "SavantsSunnah",
    "title": "Les Savants de la Sunnah ",
    "videos": [
@@ -243,27 +264,6 @@
      "id": "McLPw5L5Xlc",
      "title": "La simplicité de ce mariage - Cheikh 'Ali Bin Zayd Al Madkhali",
      "date": "2026-09-24T17:35:40Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "Q8IVUmUbW9E",
-     "title": "43- L'explication des 3 fondements du cheikh Ibn 'outhaymin",
-     "date": "2026-09-24T15:35:38Z"
-    },
-    {
-     "id": "9_lR2RNce08",
-     "title": "42- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
-     "date": "2026-09-24T15:19:25Z"
-    },
-    {
-     "id": "G3vSqIFQUz8",
-     "title": "34- L'explication de la sunnah de l'imam Al-barbahari par cheikh Rabee'",
-     "date": "2026-09-24T15:13:14Z"
     }
    ]
   }
