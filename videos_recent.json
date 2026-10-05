@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-10-04T19:19:30+00:00",
+ "generated_at": "2026-10-05T22:23:08+00:00",
  "channels": [
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "Nnnggs-6pGU",
+     "title": "Que fait cet homme à la Kaaba ?!",
+     "date": "2026-10-05T15:53:01Z"
+    },
     {
      "id": "4KnEqaCEc1g",
      "title": "Pourquoi découvre-t-on l’épaule droite pendant le tawaf ?",
@@ -39,11 +44,6 @@
      "id": "dmdcW6L8AhA",
      "title": "L’histoire de l’homme qui a voulu écraser le cou du Messager d’Allah (paix sur lui)",
      "date": "2026-09-26T19:40:40Z"
-    },
-    {
-     "id": "Tgry33iSjw4",
-     "title": "Le fils de Nûh face au déluge et le fils d’Ibrâhîm face au sacrifice : deux réponses opposées",
-     "date": "2026-09-25T17:24:27Z"
     }
    ]
   },
@@ -51,6 +51,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "Wr5JW-0ihFY",
+     "title": "20 - Les piliers des ablutions",
+     "date": "2026-10-05T15:00:13Z"
+    },
     {
      "id": "UdUZX2K4t28",
      "title": "19- Les annulatifs de la prière & les conditions des ablutions",
@@ -95,11 +100,6 @@
      "id": "0AkgcSPRu3U",
      "title": "11- Les catégories du Shirk",
      "date": "2026-09-26T15:00:22Z"
-    },
-    {
-     "id": "G8v_-nBvIic",
-     "title": "10- Rappel sur quelques comportements concernant la science et sur les 3 types de Tawhid",
-     "date": "2026-09-25T15:00:21Z"
     }
    ]
   },
@@ -107,6 +107,11 @@
    "handle": "lesentierdusalut",
    "title": "Sentier du Salut",
    "videos": [
+    {
+     "id": "Jl1EwyNKIMw",
+     "title": "🎥 Rahmah",
+     "date": "2026-10-05T12:30:03Z"
+    },
     {
      "id": "_LFxPXOGxhg",
      "title": "🎥 Tafsir sourate An-Najm n°20 - Faire ses propres éloges ?",
@@ -121,11 +126,64 @@
      "id": "Ra40xM_vT10",
      "title": "🎥 Kitab At-Tawhid #176 - Le suivi fanatique",
      "date": "2026-09-26T14:00:07Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "YrAY0qm_QtI",
+     "title": "Les deux Volontés d'Allahﷻ 🎙️ Salman Bassa",
+     "date": "2026-10-05T05:43:14Z"
     },
     {
-     "id": "YgUuYRDQtvU",
-     "title": "🎥 Le Prophète ﷺ et les gens du Livre",
-     "date": "2026-09-25T19:30:38Z"
+     "id": "3g5Uyhs0Kd8",
+     "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
+     "date": "2026-10-03T04:54:28Z"
+    },
+    {
+     "id": "94FzX_sy_1Q",
+     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
+     "date": "2026-09-28T08:38:26Z"
+    }
+   ]
+  },
+  {
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
+   "videos": [
+    {
+     "id": "HpggYFiGiNE",
+     "title": "35- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee' Ibn Hādi",
+     "date": "2026-10-04T20:41:16Z"
+    },
+    {
+     "id": "bCslKyqJkFU",
+     "title": "38- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-04T20:31:22Z"
+    },
+    {
+     "id": "Z-KtQnLHHA0",
+     "title": "37- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-04T20:23:50Z"
+    }
+   ]
+  },
+  {
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
+   "videos": [
+    {
+     "id": "X6DRAQfXYn8",
+     "title": "La vision d’un jeune sur le MMA 🥊",
+     "date": "2026-10-04T19:22:59Z"
+    },
+    {
+     "id": "hdA1Kc4LdJo",
+     "title": "PODCAST — LES CLASHS ENTRE LES ÉTUDIANTS EN SCIENCE | LA CITADELLE DE LA FOI",
+     "date": "2026-09-27T16:43:51Z"
     }
    ]
   },
@@ -137,22 +195,6 @@
      "id": "NBFnEC5Wwps",
      "title": "MISE EN GARDE CONTRE LE SUIVI AVEUGLE (L'IMAM AS SHAFI'I)",
      "date": "2026-10-03T12:10:08Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "3g5Uyhs0Kd8",
-     "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
-     "date": "2026-10-03T04:54:28Z"
-    },
-    {
-     "id": "94FzX_sy_1Q",
-     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
-     "date": "2026-09-28T08:38:26Z"
     }
    ]
   },
@@ -205,27 +247,6 @@
      "id": "I8_hFIo7NAM",
      "title": "Un péché lui a fait oublier le Coran en entier | Chaykh Raslan",
      "date": "2026-09-27T17:49:05Z"
-    },
-    {
-     "id": "f6Y77lmqDYk",
-     "title": "Ils étaient différents | Chaykh Raslan",
-     "date": "2026-09-24T17:59:26Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "hdA1Kc4LdJo",
-     "title": "PODCAST — LES CLASHS ENTRE LES ÉTUDIANTS EN SCIENCE | LA CITADELLE DE LA FOI",
-     "date": "2026-09-27T16:43:51Z"
-    },
-    {
-     "id": "ysKsKIwlLtU",
-     "title": "La tentation de la fornication n’a jamais été aussi proche",
-     "date": "2026-09-24T21:33:39Z"
     }
    ]
   },
@@ -237,33 +258,6 @@
      "id": "9CllMPf_UMw",
      "title": "La foi en Allah (partie 1) (Niveau 2 - Cours n°1)",
      "date": "2026-09-27T11:36:59Z"
-    }
-   ]
-  },
-  {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "muucaQcPIm8",
-     "title": "Rappelle-toi de la mort - Abdullah Al Albani",
-     "date": "2026-09-25T06:54:21Z"
-    },
-    {
-     "id": "jRCj3AtN6wI",
-     "title": "Ne prends la science que de celui dont il connaît son attachement à la Sounnah",
-     "date": "2026-09-25T06:09:15Z"
-    }
-   ]
-  },
-  {
-   "handle": "SavantsSunnah",
-   "title": "Les Savants de la Sunnah ",
-   "videos": [
-    {
-     "id": "McLPw5L5Xlc",
-     "title": "La simplicité de ce mariage - Cheikh 'Ali Bin Zayd Al Madkhali",
-     "date": "2026-09-24T17:35:40Z"
     }
    ]
   }
