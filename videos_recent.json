@@ -1,24 +1,117 @@
 {
- "generated_at": "2026-10-07T21:06:22+00:00",
+ "generated_at": "2026-10-08T21:09:46+00:00",
  "channels": [
   {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
    "videos": [
     {
-     "id": "V18cwQh9lxs",
-     "title": "La passion : un chemin vers l’enfer ?",
-     "date": "2026-10-07T20:05:17Z"
+     "id": "mGEJ6xlNqIQ",
+     "title": "Quel est le jugement de s'en prendre aux lieux saints ? | Chaykh Raslan",
+     "date": "2026-10-08T18:04:42Z"
     },
     {
-     "id": "X6DRAQfXYn8",
-     "title": "La vision d’un jeune sur le MMA 🥊",
-     "date": "2026-10-04T19:22:59Z"
+     "id": "9c_YQvY66uE",
+     "title": "🌿 Un problème de couple pas comme les autres !",
+     "date": "2026-09-29T13:53:30Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "QTq0H6Lj6sI",
+     "title": "Une femme peut-elle faire sa Omra pendant ses menstrues ?",
+     "date": "2026-10-08T17:57:53Z"
     },
     {
-     "id": "hdA1Kc4LdJo",
-     "title": "PODCAST — LES CLASHS ENTRE LES ÉTUDIANTS EN SCIENCE | LA CITADELLE DE LA FOI",
-     "date": "2026-09-27T16:43:51Z"
+     "id": "ExA3SVKHDuo",
+     "title": "Abraha : l’homme qui voulait détruire la Kaaba",
+     "date": "2026-10-08T08:12:21Z"
+    },
+    {
+     "id": "YrhXGE4MVas",
+     "title": "Peut-on faire sa propre ‘Aqiqa à l’âge adulte ?",
+     "date": "2026-10-07T09:30:17Z"
+    },
+    {
+     "id": "4KnEqaCEc1g",
+     "title": "Pourquoi découvre-t-on l’épaule droite pendant le tawaf ?",
+     "date": "2026-10-04T16:01:13Z"
+    },
+    {
+     "id": "Qv_aqSPgnCY",
+     "title": "N’attends pas de devenir meilleur pour venir à la Mecque !￼",
+     "date": "2026-10-04T09:05:02Z"
+    },
+    {
+     "id": "5wCJXGeCG-w",
+     "title": "Près d’un million de  hadiths… comment l’imam Ahmad a-t-il pu en mémoriser autant ?",
+     "date": "2026-10-02T18:51:13Z"
+    },
+    {
+     "id": "p4AU8pGG9QY",
+     "title": "Ash-Shubayka : le cimetière à la sombre histoire #makkah",
+     "date": "2026-10-01T18:56:07Z"
+    },
+    {
+     "id": "7YQSC5bzI9g",
+     "title": "La Kaaba comme vous l’avez rarement vue",
+     "date": "2026-09-29T15:40:19Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "FyIDwAqnzbQ",
+     "title": "🎙️Serons-nous réunis avec notre famille au paradis ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-08T17:52:09Z"
+    },
+    {
+     "id": "YbsVZrBqwzo",
+     "title": "🎙️Arrête de comparer ta vie à celle des autres ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-02T18:15:27Z"
+    },
+    {
+     "id": "tP3ZeM3psCU",
+     "title": "🎙️Et si tes dépenses du quotidien devenaient des actes d’adoration ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-01T17:31:12Z"
+    },
+    {
+     "id": "4ruLFT-NX9c",
+     "title": "🎙️Le danger entre désormais directement dans leur chambre !Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-09-30T17:29:03Z"
+    }
+   ]
+  },
+  {
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
+   "videos": [
+    {
+     "id": "4kgwdRB_Y0A",
+     "title": "36- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee'",
+     "date": "2026-10-08T17:00:11Z"
+    },
+    {
+     "id": "HpggYFiGiNE",
+     "title": "35- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee' Ibn Hādi",
+     "date": "2026-10-04T20:41:16Z"
+    },
+    {
+     "id": "bCslKyqJkFU",
+     "title": "38- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-04T20:31:22Z"
+    },
+    {
+     "id": "Z-KtQnLHHA0",
+     "title": "37- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-04T20:23:50Z"
     }
    ]
   },
@@ -26,6 +119,11 @@
    "handle": "salmanbassa",
    "title": "Salman Bassa (da'wah salafiyyah)",
    "videos": [
+    {
+     "id": "9w_6hYQGHMo",
+     "title": "Une da‘wah sans Tawḥīd est une da‘wah morte et inutile 🎙️ Salman Bassa",
+     "date": "2026-10-08T15:58:48Z"
+    },
     {
      "id": "ZBNnSaDBSpE",
      "title": "Dans quel pilier de la Foi entre la croyance aux djinn? 🎙️ Salman Bassa",
@@ -45,11 +143,38 @@
      "id": "3g5Uyhs0Kd8",
      "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
      "date": "2026-10-03T04:54:28Z"
+    }
+   ]
+  },
+  {
+   "handle": "islam_les_sentiers_du_savoir",
+   "title": "Islam Les Sentiers du Savoir",
+   "videos": [
+    {
+     "id": "I2h6IHsCu94",
+     "title": "CE BAS-MONDE EST COMPARABLE A UNE ÎLE (IBN QOUDAMAH)",
+     "date": "2026-10-08T13:21:53Z"
     },
     {
-     "id": "94FzX_sy_1Q",
-     "title": "Où se trouve notre raison 🎙️ Salman Bassa",
-     "date": "2026-09-28T08:38:26Z"
+     "id": "NBFnEC5Wwps",
+     "title": "MISE EN GARDE CONTRE LE SUIVI AVEUGLE (L'IMAM AS SHAFI'I)",
+     "date": "2026-10-03T12:10:08Z"
+    }
+   ]
+  },
+  {
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
+   "videos": [
+    {
+     "id": "V18cwQh9lxs",
+     "title": "La passion : un chemin vers l’enfer ?",
+     "date": "2026-10-07T20:05:17Z"
+    },
+    {
+     "id": "X6DRAQfXYn8",
+     "title": "La vision d’un jeune sur le MMA 🥊",
+     "date": "2026-10-04T19:22:59Z"
     }
    ]
   },
@@ -101,57 +226,6 @@
      "id": "ZwqElDQEJVw",
      "title": "14- Les piliers de la prière",
      "date": "2026-09-29T15:00:04Z"
-    },
-    {
-     "id": "cViLXQ8XaTQ",
-     "title": "13- Les conditions de la prière (2)",
-     "date": "2026-09-28T15:00:26Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "YrhXGE4MVas",
-     "title": "Peut-on faire sa propre ‘Aqiqa à l’âge adulte ?",
-     "date": "2026-10-07T09:30:17Z"
-    },
-    {
-     "id": "Nnnggs-6pGU",
-     "title": "Que fait cet homme à la Kaaba ?!",
-     "date": "2026-10-05T15:53:01Z"
-    },
-    {
-     "id": "4KnEqaCEc1g",
-     "title": "Pourquoi découvre-t-on l’épaule droite pendant le tawaf ?",
-     "date": "2026-10-04T16:01:13Z"
-    },
-    {
-     "id": "Qv_aqSPgnCY",
-     "title": "N’attends pas de devenir meilleur pour venir à la Mecque !￼",
-     "date": "2026-10-04T09:05:02Z"
-    },
-    {
-     "id": "5wCJXGeCG-w",
-     "title": "Près d’un million de  hadiths… comment l’imam Ahmad a-t-il pu en mémoriser autant ?",
-     "date": "2026-10-02T18:51:13Z"
-    },
-    {
-     "id": "p4AU8pGG9QY",
-     "title": "Ash-Shubayka : le cimetière à la sombre histoire #makkah",
-     "date": "2026-10-01T18:56:07Z"
-    },
-    {
-     "id": "7YQSC5bzI9g",
-     "title": "La Kaaba comme vous l’avez rarement vue",
-     "date": "2026-09-29T15:40:19Z"
-    },
-    {
-     "id": "sMkIDJIJyNA",
-     "title": "Tawaf : tu ne sais plus combien de tours tu as faits ?",
-     "date": "2026-09-27T18:10:14Z"
     }
    ]
   },
@@ -178,80 +252,6 @@
      "id": "mBGqUEckpTY",
      "title": "🎥 Les leçons importantes pour toute la communauté #49 - Les gens prioritaires du lavage mortuaire",
      "date": "2026-09-29T14:00:03Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "HpggYFiGiNE",
-     "title": "35- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee' Ibn Hādi",
-     "date": "2026-10-04T20:41:16Z"
-    },
-    {
-     "id": "bCslKyqJkFU",
-     "title": "38- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-04T20:31:22Z"
-    },
-    {
-     "id": "Z-KtQnLHHA0",
-     "title": "37- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-04T20:23:50Z"
-    }
-   ]
-  },
-  {
-   "handle": "islam_les_sentiers_du_savoir",
-   "title": "Islam Les Sentiers du Savoir",
-   "videos": [
-    {
-     "id": "NBFnEC5Wwps",
-     "title": "MISE EN GARDE CONTRE LE SUIVI AVEUGLE (L'IMAM AS SHAFI'I)",
-     "date": "2026-10-03T12:10:08Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "YbsVZrBqwzo",
-     "title": "🎙️Arrête de comparer ta vie à celle des autres ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-02T18:15:27Z"
-    },
-    {
-     "id": "tP3ZeM3psCU",
-     "title": "🎙️Et si tes dépenses du quotidien devenaient des actes d’adoration ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-01T17:31:12Z"
-    },
-    {
-     "id": "4ruLFT-NX9c",
-     "title": "🎙️Le danger entre désormais directement dans leur chambre !Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-30T17:29:03Z"
-    },
-    {
-     "id": "NXJ-Vlkag0w",
-     "title": "🎙️Quel avenir crains-tu vraiment pour ton enfant ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-28T18:02:28Z"
-    }
-   ]
-  },
-  {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
-   "videos": [
-    {
-     "id": "9c_YQvY66uE",
-     "title": "🌿 Un problème de couple pas comme les autres !",
-     "date": "2026-09-29T13:53:30Z"
-    },
-    {
-     "id": "I8_hFIo7NAM",
-     "title": "Un péché lui a fait oublier le Coran en entier | Chaykh Raslan",
-     "date": "2026-09-27T17:49:05Z"
     }
    ]
   }
