@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-10-08T21:09:46+00:00",
+ "generated_at": "2026-10-09T20:40:31+00:00",
  "channels": [
+  {
+   "handle": "MinhajAnNubuwwah",
+   "title": "Minhaj An-Nubuwwah",
+   "videos": [
+    {
+     "id": "sI5pYAc9VIo",
+     "title": "LES RÈGLES RELATIVES À LA ZAKAT - Cheikh 'Abd As-Salam Ash-Shuwayer (1/2)",
+     "date": "2026-10-09T16:59:30Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "PjIEZSER9-s",
+     "title": "Affirmer qu'une personne précise ira au Paradis ou en Enfer? 🎙️ Salman Bassa",
+     "date": "2026-10-09T13:14:33Z"
+    },
+    {
+     "id": "9w_6hYQGHMo",
+     "title": "Une da‘wah sans Tawḥīd est une da‘wah morte et inutile 🎙️ Salman Bassa",
+     "date": "2026-10-08T15:58:48Z"
+    },
+    {
+     "id": "ZBNnSaDBSpE",
+     "title": "Dans quel pilier de la Foi entre la croyance aux djinn? 🎙️ Salman Bassa",
+     "date": "2026-10-07T15:18:36Z"
+    },
+    {
+     "id": "QtDfv329fuI",
+     "title": "Allah créa Ādam a Son image 🎙️ Salman Bassa",
+     "date": "2026-10-06T05:40:19Z"
+    },
+    {
+     "id": "YrAY0qm_QtI",
+     "title": "Les deux Volontés d'Allahﷻ 🎙️ Salman Bassa",
+     "date": "2026-10-05T05:43:14Z"
+    },
+    {
+     "id": "3g5Uyhs0Kd8",
+     "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
+     "date": "2026-10-03T04:54:28Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "lI4WHnh3Z8w",
+     "title": "La purification du coeur + Cheikh 'AbdAllâh El 'Adanî #islam",
+     "date": "2026-10-09T11:43:37Z"
+    },
+    {
+     "id": "DbyPDoXuKmk",
+     "title": "22 -",
+     "date": "2026-10-07T15:00:04Z"
+    },
+    {
+     "id": "TkjJKtyKB-E",
+     "title": "21-",
+     "date": "2026-10-06T14:00:25Z"
+    },
+    {
+     "id": "Wr5JW-0ihFY",
+     "title": "20 - Les piliers des ablutions",
+     "date": "2026-10-05T15:00:13Z"
+    },
+    {
+     "id": "UdUZX2K4t28",
+     "title": "19- Les annulatifs de la prière & les conditions des ablutions",
+     "date": "2026-10-04T15:00:34Z"
+    },
+    {
+     "id": "3vRzgcF0JCk",
+     "title": "18- Les sunan de la prière (partie 2)",
+     "date": "2026-10-03T15:00:38Z"
+    },
+    {
+     "id": "v5n0pzZ59LM",
+     "title": "17 - Les sunan de la prière (partie 1)",
+     "date": "2026-10-02T15:00:25Z"
+    },
+    {
+     "id": "bW27zTaHZsQ",
+     "title": "16- Le tachahhoud",
+     "date": "2026-10-01T15:00:00Z"
+    },
+    {
+     "id": "r22oajJsQEY",
+     "title": "15- Les obligations de la prière",
+     "date": "2026-09-30T15:00:16Z"
+    }
+   ]
+  },
   {
    "handle": "Ceciestnotrecroyance",
    "title": "Ceci est notre croyance",
@@ -9,11 +107,6 @@
      "id": "mGEJ6xlNqIQ",
      "title": "Quel est le jugement de s'en prendre aux lieux saints ? | Chaykh Raslan",
      "date": "2026-10-08T18:04:42Z"
-    },
-    {
-     "id": "9c_YQvY66uE",
-     "title": "🌿 Un problème de couple pas comme les autres !",
-     "date": "2026-09-29T13:53:30Z"
     }
    ]
   },
@@ -116,37 +209,6 @@
    ]
   },
   {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "9w_6hYQGHMo",
-     "title": "Une da‘wah sans Tawḥīd est une da‘wah morte et inutile 🎙️ Salman Bassa",
-     "date": "2026-10-08T15:58:48Z"
-    },
-    {
-     "id": "ZBNnSaDBSpE",
-     "title": "Dans quel pilier de la Foi entre la croyance aux djinn? 🎙️ Salman Bassa",
-     "date": "2026-10-07T15:18:36Z"
-    },
-    {
-     "id": "QtDfv329fuI",
-     "title": "Allah créa Ādam a Son image 🎙️ Salman Bassa",
-     "date": "2026-10-06T05:40:19Z"
-    },
-    {
-     "id": "YrAY0qm_QtI",
-     "title": "Les deux Volontés d'Allahﷻ 🎙️ Salman Bassa",
-     "date": "2026-10-05T05:43:14Z"
-    },
-    {
-     "id": "3g5Uyhs0Kd8",
-     "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
-     "date": "2026-10-03T04:54:28Z"
-    }
-   ]
-  },
-  {
    "handle": "islam_les_sentiers_du_savoir",
    "title": "Islam Les Sentiers du Savoir",
    "videos": [
@@ -179,57 +241,6 @@
    ]
   },
   {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "DbyPDoXuKmk",
-     "title": "22 -",
-     "date": "2026-10-07T15:00:04Z"
-    },
-    {
-     "id": "TkjJKtyKB-E",
-     "title": "21-",
-     "date": "2026-10-06T14:00:25Z"
-    },
-    {
-     "id": "Wr5JW-0ihFY",
-     "title": "20 - Les piliers des ablutions",
-     "date": "2026-10-05T15:00:13Z"
-    },
-    {
-     "id": "UdUZX2K4t28",
-     "title": "19- Les annulatifs de la prière & les conditions des ablutions",
-     "date": "2026-10-04T15:00:34Z"
-    },
-    {
-     "id": "3vRzgcF0JCk",
-     "title": "18- Les sunan de la prière (partie 2)",
-     "date": "2026-10-03T15:00:38Z"
-    },
-    {
-     "id": "v5n0pzZ59LM",
-     "title": "17 - Les sunan de la prière (partie 1)",
-     "date": "2026-10-02T15:00:25Z"
-    },
-    {
-     "id": "bW27zTaHZsQ",
-     "title": "16- Le tachahhoud",
-     "date": "2026-10-01T15:00:00Z"
-    },
-    {
-     "id": "r22oajJsQEY",
-     "title": "15- Les obligations de la prière",
-     "date": "2026-09-30T15:00:16Z"
-    },
-    {
-     "id": "ZwqElDQEJVw",
-     "title": "14- Les piliers de la prière",
-     "date": "2026-09-29T15:00:04Z"
-    }
-   ]
-  },
-  {
    "handle": "lesentierdusalut",
    "title": "Sentier du Salut",
    "videos": [
@@ -247,11 +258,6 @@
      "id": "_LFxPXOGxhg",
      "title": "🎥 Tafsir sourate An-Najm n°20 - Faire ses propres éloges ?",
      "date": "2026-10-03T14:00:28Z"
-    },
-    {
-     "id": "mBGqUEckpTY",
-     "title": "🎥 Les leçons importantes pour toute la communauté #49 - Les gens prioritaires du lavage mortuaire",
-     "date": "2026-09-29T14:00:03Z"
     }
    ]
   }
