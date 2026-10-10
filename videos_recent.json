@@ -1,14 +1,107 @@
 {
- "generated_at": "2026-10-09T20:40:31+00:00",
+ "generated_at": "2026-10-10T19:53:49+00:00",
  "channels": [
   {
-   "handle": "MinhajAnNubuwwah",
-   "title": "Minhaj An-Nubuwwah",
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
    "videos": [
     {
-     "id": "sI5pYAc9VIo",
-     "title": "LES RÈGLES RELATIVES À LA ZAKAT - Cheikh 'Abd As-Salam Ash-Shuwayer (1/2)",
-     "date": "2026-10-09T16:59:30Z"
+     "id": "kbULBn5mLjs",
+     "title": "Une femme peut-elle partir en Omra sans mahram ?",
+     "date": "2026-10-10T18:13:03Z"
+    },
+    {
+     "id": "sm1ko9HxWu4",
+     "title": "VLOG OMRADUSAVOIR - Teaser #01",
+     "date": "2026-10-10T13:17:47Z"
+    },
+    {
+     "id": "QTq0H6Lj6sI",
+     "title": "Une femme peut-elle faire sa Omra pendant ses menstrues ?",
+     "date": "2026-10-08T17:57:53Z"
+    },
+    {
+     "id": "ExA3SVKHDuo",
+     "title": "Abraha : l’homme qui voulait détruire la Kaaba",
+     "date": "2026-10-08T08:12:21Z"
+    },
+    {
+     "id": "YrhXGE4MVas",
+     "title": "Peut-on faire sa propre ‘Aqiqa à l’âge adulte ?",
+     "date": "2026-10-07T09:30:17Z"
+    },
+    {
+     "id": "4KnEqaCEc1g",
+     "title": "Pourquoi découvre-t-on l’épaule droite pendant le tawaf ?",
+     "date": "2026-10-04T16:01:13Z"
+    },
+    {
+     "id": "Qv_aqSPgnCY",
+     "title": "N’attends pas de devenir meilleur pour venir à la Mecque !￼",
+     "date": "2026-10-04T09:05:02Z"
+    },
+    {
+     "id": "5wCJXGeCG-w",
+     "title": "Près d’un million de  hadiths… comment l’imam Ahmad a-t-il pu en mémoriser autant ?",
+     "date": "2026-10-02T18:51:13Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "jqnHpIGoD_c",
+     "title": "🎙️Faut-il enterrer le défunt là où il décède ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-10T17:07:56Z"
+    },
+    {
+     "id": "FyIDwAqnzbQ",
+     "title": "🎙️Serons-nous réunis avec notre famille au paradis ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-08T17:52:09Z"
+    },
+    {
+     "id": "YbsVZrBqwzo",
+     "title": "🎙️Arrête de comparer ta vie à celle des autres ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-02T18:15:27Z"
+    }
+   ]
+  },
+  {
+   "handle": "SavantsSunnah",
+   "title": "Les Savants de la Sunnah ",
+   "videos": [
+    {
+     "id": "X9qgQ7iHjQA",
+     "title": "La conversion inattendue de ce compagnon !",
+     "date": "2026-10-10T16:43:59Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "OBfwGdwJYg4",
+     "title": "🎥 Al-Adab Al-Mufrad #241 - Souhaiter la disparition d’un bienfait sur autrui",
+     "date": "2026-10-10T14:00:22Z"
+    },
+    {
+     "id": "9gnzKJCsJqU",
+     "title": "🎥 ‘Umdat al-Ahkam - Cours n°47 - Se réveiller avec un liquide sur soi",
+     "date": "2026-10-06T14:00:11Z"
+    },
+    {
+     "id": "Jl1EwyNKIMw",
+     "title": "🎥 Rahmah",
+     "date": "2026-10-05T12:30:03Z"
+    },
+    {
+     "id": "_LFxPXOGxhg",
+     "title": "🎥 Tafsir sourate An-Najm n°20 - Faire ses propres éloges ?",
+     "date": "2026-10-03T14:00:28Z"
     }
    ]
   },
@@ -16,6 +109,11 @@
    "handle": "salmanbassa",
    "title": "Salman Bassa (da'wah salafiyyah)",
    "videos": [
+    {
+     "id": "VybR0C1JEUw",
+     "title": "Le Mahdī chez Ahl as-Sounnah 🎙️ Salman Bassa",
+     "date": "2026-10-10T11:44:42Z"
+    },
     {
      "id": "PjIEZSER9-s",
      "title": "Affirmer qu'une personne précise ira au Paradis ou en Enfer? 🎙️ Salman Bassa",
@@ -45,6 +143,17 @@
      "id": "3g5Uyhs0Kd8",
      "title": "La Croyance avant tout ! العقيدة أوّلًا 🎙️ Salman Bassa",
      "date": "2026-10-03T04:54:28Z"
+    }
+   ]
+  },
+  {
+   "handle": "MinhajAnNubuwwah",
+   "title": "Minhaj An-Nubuwwah",
+   "videos": [
+    {
+     "id": "sI5pYAc9VIo",
+     "title": "LES RÈGLES RELATIVES À LA ZAKAT - Cheikh 'Abd As-Salam Ash-Shuwayer (1/2)",
+     "date": "2026-10-09T16:59:30Z"
     }
    ]
   },
@@ -86,16 +195,6 @@
      "id": "v5n0pzZ59LM",
      "title": "17 - Les sunan de la prière (partie 1)",
      "date": "2026-10-02T15:00:25Z"
-    },
-    {
-     "id": "bW27zTaHZsQ",
-     "title": "16- Le tachahhoud",
-     "date": "2026-10-01T15:00:00Z"
-    },
-    {
-     "id": "r22oajJsQEY",
-     "title": "15- Les obligations de la prière",
-     "date": "2026-09-30T15:00:16Z"
     }
    ]
   },
@@ -107,78 +206,6 @@
      "id": "mGEJ6xlNqIQ",
      "title": "Quel est le jugement de s'en prendre aux lieux saints ? | Chaykh Raslan",
      "date": "2026-10-08T18:04:42Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "QTq0H6Lj6sI",
-     "title": "Une femme peut-elle faire sa Omra pendant ses menstrues ?",
-     "date": "2026-10-08T17:57:53Z"
-    },
-    {
-     "id": "ExA3SVKHDuo",
-     "title": "Abraha : l’homme qui voulait détruire la Kaaba",
-     "date": "2026-10-08T08:12:21Z"
-    },
-    {
-     "id": "YrhXGE4MVas",
-     "title": "Peut-on faire sa propre ‘Aqiqa à l’âge adulte ?",
-     "date": "2026-10-07T09:30:17Z"
-    },
-    {
-     "id": "4KnEqaCEc1g",
-     "title": "Pourquoi découvre-t-on l’épaule droite pendant le tawaf ?",
-     "date": "2026-10-04T16:01:13Z"
-    },
-    {
-     "id": "Qv_aqSPgnCY",
-     "title": "N’attends pas de devenir meilleur pour venir à la Mecque !￼",
-     "date": "2026-10-04T09:05:02Z"
-    },
-    {
-     "id": "5wCJXGeCG-w",
-     "title": "Près d’un million de  hadiths… comment l’imam Ahmad a-t-il pu en mémoriser autant ?",
-     "date": "2026-10-02T18:51:13Z"
-    },
-    {
-     "id": "p4AU8pGG9QY",
-     "title": "Ash-Shubayka : le cimetière à la sombre histoire #makkah",
-     "date": "2026-10-01T18:56:07Z"
-    },
-    {
-     "id": "7YQSC5bzI9g",
-     "title": "La Kaaba comme vous l’avez rarement vue",
-     "date": "2026-09-29T15:40:19Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "FyIDwAqnzbQ",
-     "title": "🎙️Serons-nous réunis avec notre famille au paradis ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-08T17:52:09Z"
-    },
-    {
-     "id": "YbsVZrBqwzo",
-     "title": "🎙️Arrête de comparer ta vie à celle des autres ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-02T18:15:27Z"
-    },
-    {
-     "id": "tP3ZeM3psCU",
-     "title": "🎙️Et si tes dépenses du quotidien devenaient des actes d’adoration ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-01T17:31:12Z"
-    },
-    {
-     "id": "4ruLFT-NX9c",
-     "title": "🎙️Le danger entre désormais directement dans leur chambre !Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-09-30T17:29:03Z"
     }
    ]
   },
@@ -237,27 +264,6 @@
      "id": "X6DRAQfXYn8",
      "title": "La vision d’un jeune sur le MMA 🥊",
      "date": "2026-10-04T19:22:59Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "9gnzKJCsJqU",
-     "title": "🎥 ‘Umdat al-Ahkam - Cours n°47 - Se réveiller avec un liquide sur soi",
-     "date": "2026-10-06T14:00:11Z"
-    },
-    {
-     "id": "Jl1EwyNKIMw",
-     "title": "🎥 Rahmah",
-     "date": "2026-10-05T12:30:03Z"
-    },
-    {
-     "id": "_LFxPXOGxhg",
-     "title": "🎥 Tafsir sourate An-Najm n°20 - Faire ses propres éloges ?",
-     "date": "2026-10-03T14:00:28Z"
     }
    ]
   }
