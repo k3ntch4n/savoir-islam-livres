@@ -1,10 +1,56 @@
 {
- "generated_at": "2026-10-11T20:02:11+00:00",
+ "generated_at": "2026-10-12T22:48:17+00:00",
  "channels": [
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "tnyvNAqrqyA",
+     "title": "VLOG OMRADUSAVOIR - Teaser #02",
+     "date": "2026-10-12T20:17:21Z"
+    },
+    {
+     "id": "Bvfz2Sld3y0",
+     "title": "Le Voyage d'une Vie - VLOG OmraDuSavoir",
+     "date": "2026-10-11T17:55:06Z"
+    },
+    {
+     "id": "kbULBn5mLjs",
+     "title": "Une femme peut-elle partir en Omra sans mahram ?",
+     "date": "2026-10-10T18:13:03Z"
+    },
+    {
+     "id": "sm1ko9HxWu4",
+     "title": "VLOG OMRADUSAVOIR - Teaser #01",
+     "date": "2026-10-10T13:17:47Z"
+    },
+    {
+     "id": "QTq0H6Lj6sI",
+     "title": "Une femme peut-elle faire sa Omra pendant ses menstrues ?",
+     "date": "2026-10-08T17:57:53Z"
+    },
+    {
+     "id": "ExA3SVKHDuo",
+     "title": "Abraha : l’homme qui voulait détruire la Kaaba",
+     "date": "2026-10-08T08:12:21Z"
+    },
+    {
+     "id": "YrhXGE4MVas",
+     "title": "Peut-on faire sa propre ‘Aqiqa à l’âge adulte ?",
+     "date": "2026-10-07T09:30:17Z"
+    }
+   ]
+  },
   {
    "handle": "fatwasfr",
    "title": "FatwasFr",
    "videos": [
+    {
+     "id": "5BSrJ8pBq0M",
+     "title": "🎙️Comment accomplir la prière funéraire (Salat Al Janaza) ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-12T17:39:38Z"
+    },
     {
      "id": "I7a_bmuA4nE",
      "title": "🎙️Faut-il attendre les proches avant d'enterrer le défunt ? Cheikh 'Aziz Farhan Al 'Anizi",
@@ -23,54 +69,34 @@
    ]
   },
   {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
+   "handle": "MinhajAnNubuwwah",
+   "title": "Minhaj An-Nubuwwah",
    "videos": [
     {
-     "id": "EE5qlur4V6E",
-     "title": "🎥 inna lillah wa inna ilayhi raji'un",
-     "date": "2026-10-11T13:30:10Z"
+     "id": "0kPeCaEGykk",
+     "title": "Réfuter les gens de l’innovation est un immense combat",
+     "date": "2026-10-12T17:18:20Z"
     },
     {
-     "id": "OBfwGdwJYg4",
-     "title": "🎥 Al-Adab Al-Mufrad #241 - Souhaiter la disparition d’un bienfait sur autrui",
-     "date": "2026-10-10T14:00:22Z"
-    },
-    {
-     "id": "9gnzKJCsJqU",
-     "title": "🎥 ‘Umdat al-Ahkam - Cours n°47 - Se réveiller avec un liquide sur soi",
-     "date": "2026-10-06T14:00:11Z"
-    },
-    {
-     "id": "Jl1EwyNKIMw",
-     "title": "🎥 Rahmah",
-     "date": "2026-10-05T12:30:03Z"
-    },
-    {
-     "id": "_LFxPXOGxhg",
-     "title": "🎥 Tafsir sourate An-Najm n°20 - Faire ses propres éloges ?",
-     "date": "2026-10-03T14:00:28Z"
+     "id": "sI5pYAc9VIo",
+     "title": "LES RÈGLES RELATIVES À LA ZAKAT - Cheikh 'Abd As-Salam Ash-Shuwayer (1/2)",
+     "date": "2026-10-09T16:59:30Z"
     }
    ]
   },
   {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
+   "handle": "SavantsSunnah",
+   "title": "Les Savants de la Sunnah ",
    "videos": [
     {
-     "id": "4kDpX07nfAg",
-     "title": "BASSEM SE RÉJOUIT DE LA VENUE DU PAPE : RÉFUTATION ET MISE AU POINT | la citadelle de la foi",
-     "date": "2026-10-11T09:49:54Z"
+     "id": "-y1ZJNDP0c4",
+     "title": "Le combat contre les Houthis - Cheikh Ar-Rouheyli",
+     "date": "2026-10-12T15:49:51Z"
     },
     {
-     "id": "V18cwQh9lxs",
-     "title": "La passion : un chemin vers l’enfer ?",
-     "date": "2026-10-07T20:05:17Z"
-    },
-    {
-     "id": "X6DRAQfXYn8",
-     "title": "La vision d’un jeune sur le MMA 🥊",
-     "date": "2026-10-04T19:22:59Z"
+     "id": "X9qgQ7iHjQA",
+     "title": "La conversion inattendue de ce compagnon !",
+     "date": "2026-10-10T16:43:59Z"
     }
    ]
   },
@@ -78,6 +104,11 @@
    "handle": "salmanbassa",
    "title": "Salman Bassa (da'wah salafiyyah)",
    "videos": [
+    {
+     "id": "f0FdFpkhaas",
+     "title": "La descente de ʿĪsā ﷺ et la sortie de Ya'joū et Ma'joūj 🎙️ Salman Bassa",
+     "date": "2026-10-12T13:03:28Z"
+    },
     {
      "id": "zYw7atwyO50",
      "title": "Y a-t-il eu des femmes et des enfants prophètes? 🎙️ Salman Bassa",
@@ -116,65 +147,49 @@
    ]
   },
   {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
    "videos": [
     {
-     "id": "kbULBn5mLjs",
-     "title": "Une femme peut-elle partir en Omra sans mahram ?",
-     "date": "2026-10-10T18:13:03Z"
+     "id": "EE5qlur4V6E",
+     "title": "🎥 inna lillah wa inna ilayhi raji'un",
+     "date": "2026-10-11T13:30:10Z"
     },
     {
-     "id": "sm1ko9HxWu4",
-     "title": "VLOG OMRADUSAVOIR - Teaser #01",
-     "date": "2026-10-10T13:17:47Z"
+     "id": "OBfwGdwJYg4",
+     "title": "🎥 Al-Adab Al-Mufrad #241 - Souhaiter la disparition d’un bienfait sur autrui",
+     "date": "2026-10-10T14:00:22Z"
     },
     {
-     "id": "QTq0H6Lj6sI",
-     "title": "Une femme peut-elle faire sa Omra pendant ses menstrues ?",
-     "date": "2026-10-08T17:57:53Z"
+     "id": "9gnzKJCsJqU",
+     "title": "🎥 ‘Umdat al-Ahkam - Cours n°47 - Se réveiller avec un liquide sur soi",
+     "date": "2026-10-06T14:00:11Z"
     },
     {
-     "id": "ExA3SVKHDuo",
-     "title": "Abraha : l’homme qui voulait détruire la Kaaba",
-     "date": "2026-10-08T08:12:21Z"
-    },
-    {
-     "id": "YrhXGE4MVas",
-     "title": "Peut-on faire sa propre ‘Aqiqa à l’âge adulte ?",
-     "date": "2026-10-07T09:30:17Z"
-    },
-    {
-     "id": "4KnEqaCEc1g",
-     "title": "Pourquoi découvre-t-on l’épaule droite pendant le tawaf ?",
-     "date": "2026-10-04T16:01:13Z"
-    },
-    {
-     "id": "Qv_aqSPgnCY",
-     "title": "N’attends pas de devenir meilleur pour venir à la Mecque !￼",
-     "date": "2026-10-04T09:05:02Z"
+     "id": "Jl1EwyNKIMw",
+     "title": "🎥 Rahmah",
+     "date": "2026-10-05T12:30:03Z"
     }
    ]
   },
   {
-   "handle": "SavantsSunnah",
-   "title": "Les Savants de la Sunnah ",
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
    "videos": [
     {
-     "id": "X9qgQ7iHjQA",
-     "title": "La conversion inattendue de ce compagnon !",
-     "date": "2026-10-10T16:43:59Z"
-    }
-   ]
-  },
-  {
-   "handle": "MinhajAnNubuwwah",
-   "title": "Minhaj An-Nubuwwah",
-   "videos": [
+     "id": "4kDpX07nfAg",
+     "title": "BASSEM SE RÉJOUIT DE LA VENUE DU PAPE : RÉFUTATION ET MISE AU POINT | la citadelle de la foi",
+     "date": "2026-10-11T09:49:54Z"
+    },
     {
-     "id": "sI5pYAc9VIo",
-     "title": "LES RÈGLES RELATIVES À LA ZAKAT - Cheikh 'Abd As-Salam Ash-Shuwayer (1/2)",
-     "date": "2026-10-09T16:59:30Z"
+     "id": "V18cwQh9lxs",
+     "title": "La passion : un chemin vers l’enfer ?",
+     "date": "2026-10-07T20:05:17Z"
+    },
+    {
+     "id": "X6DRAQfXYn8",
+     "title": "La vision d’un jeune sur le MMA 🥊",
+     "date": "2026-10-04T19:22:59Z"
     }
    ]
   },
@@ -201,16 +216,6 @@
      "id": "Wr5JW-0ihFY",
      "title": "20 - Les piliers des ablutions",
      "date": "2026-10-05T15:00:13Z"
-    },
-    {
-     "id": "UdUZX2K4t28",
-     "title": "19- Les annulatifs de la prière & les conditions des ablutions",
-     "date": "2026-10-04T15:00:34Z"
-    },
-    {
-     "id": "3vRzgcF0JCk",
-     "title": "18- Les sunan de la prière (partie 2)",
-     "date": "2026-10-03T15:00:38Z"
     }
    ]
   },
@@ -259,11 +264,6 @@
      "id": "I2h6IHsCu94",
      "title": "CE BAS-MONDE EST COMPARABLE A UNE ÎLE (IBN QOUDAMAH)",
      "date": "2026-10-08T13:21:53Z"
-    },
-    {
-     "id": "NBFnEC5Wwps",
-     "title": "MISE EN GARDE CONTRE LE SUIVI AVEUGLE (L'IMAM AS SHAFI'I)",
-     "date": "2026-10-03T12:10:08Z"
     }
    ]
   }
