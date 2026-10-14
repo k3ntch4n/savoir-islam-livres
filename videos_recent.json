@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-10-13T21:03:45+00:00",
+ "generated_at": "2026-10-14T20:03:14+00:00",
  "channels": [
   {
    "handle": "fatwasfr",
    "title": "FatwasFr",
    "videos": [
+    {
+     "id": "RAfp-YbTMxM",
+     "title": "🎙️Les condoléances ne sont pas une fête ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-14T18:06:08Z"
+    },
     {
      "id": "Njcjr5K4X3w",
      "title": "🎙️Quel est le jugement de l'enterrement dans un cercueil ?Cheikh 'Aziz Farhan Al 'Anizi",
@@ -29,6 +34,89 @@
      "id": "FyIDwAqnzbQ",
      "title": "🎙️Serons-nous réunis avec notre famille au paradis ? Cheikh 'Aziz Farhan Al 'Anizi",
      "date": "2026-10-08T17:52:09Z"
+    }
+   ]
+  },
+  {
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
+   "videos": [
+    {
+     "id": "37AV4sYJfFI",
+     "title": "1- Comment tout a commencé ? | Chaykh Raslan",
+     "date": "2026-10-14T18:00:25Z"
+    },
+    {
+     "id": "mGEJ6xlNqIQ",
+     "title": "Quel est le jugement de s'en prendre aux lieux saints ? | Chaykh Raslan",
+     "date": "2026-10-08T18:04:42Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "K49MD2iK-z8",
+     "title": "Concernant le chrétien à Médine",
+     "date": "2026-10-14T07:05:56Z"
+    },
+    {
+     "id": "SKqMP6BZLyU",
+     "title": "La patience de Noūḥ ﷺ dans la daʿwah 🎙️ Salman Bassa",
+     "date": "2026-10-14T05:26:03Z"
+    },
+    {
+     "id": "f0FdFpkhaas",
+     "title": "La descente de ʿĪsā ﷺ et la sortie de Ya'joū et Ma'joūj 🎙️ Salman Bassa",
+     "date": "2026-10-12T13:03:28Z"
+    },
+    {
+     "id": "zYw7atwyO50",
+     "title": "Y a-t-il eu des femmes et des enfants prophètes? 🎙️ Salman Bassa",
+     "date": "2026-10-11T09:43:12Z"
+    },
+    {
+     "id": "VybR0C1JEUw",
+     "title": "Le Mahdī chez Ahl as-Sounnah 🎙️ Salman Bassa",
+     "date": "2026-10-10T11:44:42Z"
+    },
+    {
+     "id": "PjIEZSER9-s",
+     "title": "Affirmer qu'une personne précise ira au Paradis ou en Enfer? 🎙️ Salman Bassa",
+     "date": "2026-10-09T13:14:33Z"
+    },
+    {
+     "id": "9w_6hYQGHMo",
+     "title": "Une da‘wah sans Tawḥīd est une da‘wah morte et inutile 🎙️ Salman Bassa",
+     "date": "2026-10-08T15:58:48Z"
+    },
+    {
+     "id": "ZBNnSaDBSpE",
+     "title": "Dans quel pilier de la Foi entre la croyance aux djinn? 🎙️ Salman Bassa",
+     "date": "2026-10-07T15:18:36Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "Bcivk2R1rGM",
+     "title": "🎥 Ils sont la génération d’or - Cheikh Farhan Al Anizi #islam",
+     "date": "2026-10-13T21:44:51Z"
+    },
+    {
+     "id": "lI4WHnh3Z8w",
+     "title": "La purification du coeur + Cheikh 'AbdAllâh El 'Adanî #islam",
+     "date": "2026-10-09T11:43:37Z"
+    },
+    {
+     "id": "DbyPDoXuKmk",
+     "title": "22 -",
+     "date": "2026-10-07T15:00:04Z"
     }
    ]
   },
@@ -117,16 +205,6 @@
      "id": "OBfwGdwJYg4",
      "title": "🎥 Al-Adab Al-Mufrad #241 - Souhaiter la disparition d’un bienfait sur autrui",
      "date": "2026-10-10T14:00:22Z"
-    },
-    {
-     "id": "9gnzKJCsJqU",
-     "title": "🎥 ‘Umdat al-Ahkam - Cours n°47 - Se réveiller avec un liquide sur soi",
-     "date": "2026-10-06T14:00:11Z"
-    },
-    {
-     "id": "Jl1EwyNKIMw",
-     "title": "🎥 Rahmah",
-     "date": "2026-10-05T12:30:03Z"
     }
    ]
   },
@@ -163,47 +241,6 @@
    ]
   },
   {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "f0FdFpkhaas",
-     "title": "La descente de ʿĪsā ﷺ et la sortie de Ya'joū et Ma'joūj 🎙️ Salman Bassa",
-     "date": "2026-10-12T13:03:28Z"
-    },
-    {
-     "id": "zYw7atwyO50",
-     "title": "Y a-t-il eu des femmes et des enfants prophètes? 🎙️ Salman Bassa",
-     "date": "2026-10-11T09:43:12Z"
-    },
-    {
-     "id": "VybR0C1JEUw",
-     "title": "Le Mahdī chez Ahl as-Sounnah 🎙️ Salman Bassa",
-     "date": "2026-10-10T11:44:42Z"
-    },
-    {
-     "id": "PjIEZSER9-s",
-     "title": "Affirmer qu'une personne précise ira au Paradis ou en Enfer? 🎙️ Salman Bassa",
-     "date": "2026-10-09T13:14:33Z"
-    },
-    {
-     "id": "9w_6hYQGHMo",
-     "title": "Une da‘wah sans Tawḥīd est une da‘wah morte et inutile 🎙️ Salman Bassa",
-     "date": "2026-10-08T15:58:48Z"
-    },
-    {
-     "id": "ZBNnSaDBSpE",
-     "title": "Dans quel pilier de la Foi entre la croyance aux djinn? 🎙️ Salman Bassa",
-     "date": "2026-10-07T15:18:36Z"
-    },
-    {
-     "id": "QtDfv329fuI",
-     "title": "Allah créa Ādam a Son image 🎙️ Salman Bassa",
-     "date": "2026-10-06T05:40:19Z"
-    }
-   ]
-  },
-  {
    "handle": "LaCitadelledelaFoi",
    "title": "La Citadelle de la Foi",
    "videos": [
@@ -216,43 +253,6 @@
      "id": "V18cwQh9lxs",
      "title": "La passion : un chemin vers l’enfer ?",
      "date": "2026-10-07T20:05:17Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "lI4WHnh3Z8w",
-     "title": "La purification du coeur + Cheikh 'AbdAllâh El 'Adanî #islam",
-     "date": "2026-10-09T11:43:37Z"
-    },
-    {
-     "id": "DbyPDoXuKmk",
-     "title": "22 -",
-     "date": "2026-10-07T15:00:04Z"
-    },
-    {
-     "id": "TkjJKtyKB-E",
-     "title": "21-",
-     "date": "2026-10-06T14:00:25Z"
-    },
-    {
-     "id": "Wr5JW-0ihFY",
-     "title": "20 - Les piliers des ablutions",
-     "date": "2026-10-05T15:00:13Z"
-    }
-   ]
-  },
-  {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
-   "videos": [
-    {
-     "id": "mGEJ6xlNqIQ",
-     "title": "Quel est le jugement de s'en prendre aux lieux saints ? | Chaykh Raslan",
-     "date": "2026-10-08T18:04:42Z"
     }
    ]
   },
