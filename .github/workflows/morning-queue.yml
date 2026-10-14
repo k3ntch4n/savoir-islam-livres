@@ -1,0 +1,55 @@
+name: Notifications en attente (matin)
+
+# 8h30 heure de Paris : envoie les ajouts de contenu poussés pendant la nuit
+# (22h-8h), mis en file d'attente par notify.py. Le cron GitHub est en UTC :
+# 6h30 ET 7h30 UTC, seul le passage qui tombe à 8h30 à Paris fait le travail.
+on:
+  schedule:
+    - cron: "30 6 * * *"
+    - cron: "30 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  send-queued:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bon créneau pour 8h30 à Paris ?
+        id: slot
+        run: |
+          offset=$(TZ=Europe/Paris date +%z)   # +0200 l'été, +0100 l'hiver
+          wanted="30 6 * * *"
+          [ "$offset" = "+0100" ] && wanted="30 7 * * *"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]              || [ "${{ github.event.schedule }}" = "$wanted" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Pas le bon créneau (heure d'été/hiver) : on passe."
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.slot.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.slot.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        if: steps.slot.outputs.run == 'true'
+        run: pip install --quiet google-auth requests
+
+      - name: Envoyer la file d'attente
+        if: steps.slot.outputs.run == 'true'
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          python3 notify.py --send-queued
+          git add -A queued_notifications.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "notif: file d'attente envoyée"
+          git pull --rebase
+          git push

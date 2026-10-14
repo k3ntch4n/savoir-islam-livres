@@ -23,8 +23,14 @@ service Firebase est lue dans la variable d'environnement
 FIREBASE_SERVICE_ACCOUNT (secret GitHub). Sans clé : simulation (affiche ce
 qui serait envoyé, n'envoie rien).
 
-Usage : python3 notify.py <sha_avant> <sha_apres> [--dry-run]
+Créneaux d'envoi : uniquement 8h-12h et 18h-22h (heure de Paris). Un ajout
+poussé hors créneau est mis en file d'attente dans QUEUE (fichier commité),
+envoyée par --send-queued : à 8h30 (morning-queue.yml) et avec la collecte de
+20h30 (evening-recent.yml). --now force l'envoi immédiat.
+
+Usage : python3 notify.py <sha_avant> <sha_apres> [--dry-run] [--now]
         python3 notify.py --send-pending <fichier.json>
+        python3 notify.py --send-queued
 Variable NOTIFY_DELAY : secondes d'attente avant l'envoi (cache GitHub).
 """
 from __future__ import annotations
@@ -34,6 +40,9 @@ import os
 import subprocess
 import sys
 import time
+from datetime import datetime
+from pathlib import Path
+from zoneinfo import ZoneInfo
 
 PROJECT_ID = "savoir-islam"
 TOPIC = "nouveautes"
@@ -43,6 +52,27 @@ FCM_URL = f"https://fcm.googleapis.com/v1/projects/{PROJECT_ID}/messages:send"
 # impossible à contourner côté app). On attend donc avant d'envoyer, sinon
 # l'utilisateur ouvre l'app et récupère l'ancienne version du JSON.
 CDN_DELAY_SECONDS = int(os.environ.get("NOTIFY_DELAY", "0"))
+
+# Pas de notification la nuit ni en pleine journée : 8h-12h et 18h-22h.
+PARIS = ZoneInfo("Europe/Paris")
+SEND_WINDOWS = [(8, 12), (18, 22)]  # heures [début, fin[
+QUEUE = Path(__file__).resolve().parent / "queued_notifications.json"
+
+
+def in_send_window(now: datetime | None = None) -> bool:
+    """Vrai si l'heure de Paris tombe dans un créneau d'envoi."""
+    h = (now or datetime.now(PARIS)).astimezone(PARIS).hour
+    return any(start <= h < end for start, end in SEND_WINDOWS)
+
+
+def queue_messages(messages: list[dict]) -> None:
+    """Ajoute des messages à la file d'attente (envoyée au prochain créneau)."""
+    queued = json.loads(QUEUE.read_text(encoding="utf-8")) if QUEUE.exists() else []
+    queued.extend(messages)
+    QUEUE.write_text(json.dumps(queued, ensure_ascii=False, indent=2) + "\n",
+                     encoding="utf-8")
+    for m in messages:
+        print(f"En attente (hors créneau) : {m['title']} / {m['body']}")
 
 
 def load_at(sha: str, path: str) -> dict | None:
@@ -204,6 +234,19 @@ def main() -> None:
             send_all(json.load(f))
         return
 
+    # File d'attente des ajouts poussés hors créneau : envoi puis vidage
+    # (le workflow committe la suppression du fichier).
+    if "--send-queued" in sys.argv:
+        if not QUEUE.exists():
+            print("File d'attente vide.")
+            return
+        queued = json.loads(QUEUE.read_text(encoding="utf-8"))
+        if queued:
+            send_all(queued, dry_run="--dry-run" in sys.argv)
+        if "--dry-run" not in sys.argv:
+            QUEUE.unlink()
+        return
+
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     if len(args) != 2:
         sys.exit(__doc__)
@@ -216,6 +259,9 @@ def main() -> None:
     messages = build_messages(before, after)
     if not messages:
         print("Aucun nouveau livre ni nouvelle vidéo : pas de notification.")
+        return
+    if not in_send_window() and "--now" not in sys.argv:
+        queue_messages(messages)
         return
     send_all(messages, dry_run="--dry-run" in sys.argv)
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Collecte du soir : dernières vidéos des chaînes fiables -> videos_recent.json.
 
-Tourne 1x/jour vers 18h (heure de Paris) via GitHub Actions (voir
+Tourne 1x/jour vers 20h30 (heure de Paris) via GitHub Actions (voir
 .github/workflows/evening-recent.yml). Pour chaque chaîne listée dans
 content.json, lit la 1re page (50 vidéos les plus récentes) de sa playlist
 « uploads », puis garde les RECENT_COUNT vidéos les plus récentes toutes

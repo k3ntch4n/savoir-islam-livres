@@ -4,6 +4,8 @@ name: Notifier les nouveautés
 # a été AJOUTÉ (voir notify.py). Les commits du robot « vidéo à la une »
 # (poussés avec GITHUB_TOKEN) ne déclenchent pas ce workflow : pas de
 # notification quotidienne.
+# Hors créneau (8h-12h / 18h-22h à Paris), la notification est mise en file
+# d'attente (queued_notifications.json, committé ici) et partira à 8h30 ou 20h30.
 on:
   push:
     branches: [main]
@@ -12,7 +14,7 @@ on:
       - books.json
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   notify:
@@ -35,3 +37,13 @@ jobs:
           # attente du cache GitHub (5 min), seulement s'il y a à notifier
           NOTIFY_DELAY: "300"
         run: python3 notify.py "${{ github.event.before }}" "${{ github.sha }}"
+
+      - name: Committer la file d'attente (si hors créneau)
+        run: |
+          git add -A queued_notifications.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "notif: mise en attente (hors créneau)"
+          git pull --rebase
+          git push
