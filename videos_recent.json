@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-10-14T20:03:14+00:00",
+ "generated_at": "2026-10-15T21:34:12+00:00",
  "channels": [
   {
    "handle": "fatwasfr",
    "title": "FatwasFr",
    "videos": [
+    {
+     "id": "KLxW0nTuc2g",
+     "title": "🎙️Rapporter les paroles peut détruire des relations ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-15T18:15:15Z"
+    },
     {
      "id": "RAfp-YbTMxM",
      "title": "🎙️Les condoléances ne sont pas une fête ! Cheikh 'Aziz Farhan Al 'Anizi",
@@ -38,25 +43,14 @@
    ]
   },
   {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
-   "videos": [
-    {
-     "id": "37AV4sYJfFI",
-     "title": "1- Comment tout a commencé ? | Chaykh Raslan",
-     "date": "2026-10-14T18:00:25Z"
-    },
-    {
-     "id": "mGEJ6xlNqIQ",
-     "title": "Quel est le jugement de s'en prendre aux lieux saints ? | Chaykh Raslan",
-     "date": "2026-10-08T18:04:42Z"
-    }
-   ]
-  },
-  {
    "handle": "salmanbassa",
    "title": "Salman Bassa (da'wah salafiyyah)",
    "videos": [
+    {
+     "id": "FfaPfHVR0OE",
+     "title": "L'auteur de grands péchés 🎙️ Salman Bassa",
+     "date": "2026-10-15T18:02:54Z"
+    },
     {
      "id": "K49MD2iK-z8",
      "title": "Concernant le chrétien à Médine",
@@ -91,11 +85,6 @@
      "id": "9w_6hYQGHMo",
      "title": "Une da‘wah sans Tawḥīd est une da‘wah morte et inutile 🎙️ Salman Bassa",
      "date": "2026-10-08T15:58:48Z"
-    },
-    {
-     "id": "ZBNnSaDBSpE",
-     "title": "Dans quel pilier de la Foi entre la croyance aux djinn? 🎙️ Salman Bassa",
-     "date": "2026-10-07T15:18:36Z"
     }
    ]
   },
@@ -103,6 +92,16 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "aDdyItD9d-U",
+     "title": "Les Ṣaḥāba : ce sont les meilleurs de la communauté - Cheikh Farhan Al Anizi #islam",
+     "date": "2026-10-15T13:00:13Z"
+    },
+    {
+     "id": "JJk0Mq0VVao",
+     "title": "La péninsule arabique à l'époque de cheikh Mohamed Ibn Abdil Wahhab",
+     "date": "2026-10-14T20:06:33Z"
+    },
     {
      "id": "Bcivk2R1rGM",
      "title": "🎥 Ils sont la génération d’or - Cheikh Farhan Al Anizi #islam",
@@ -112,11 +111,22 @@
      "id": "lI4WHnh3Z8w",
      "title": "La purification du coeur + Cheikh 'AbdAllâh El 'Adanî #islam",
      "date": "2026-10-09T11:43:37Z"
+    }
+   ]
+  },
+  {
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
+   "videos": [
+    {
+     "id": "mtn6MChJHpg",
+     "title": "1- Comment tout a commencé ? | Chaykh Raslan",
+     "date": "2026-10-15T09:04:17Z"
     },
     {
-     "id": "DbyPDoXuKmk",
-     "title": "22 -",
-     "date": "2026-10-07T15:00:04Z"
+     "id": "mGEJ6xlNqIQ",
+     "title": "Quel est le jugement de s'en prendre aux lieux saints ? | Chaykh Raslan",
+     "date": "2026-10-08T18:04:42Z"
     }
    ]
   },
@@ -158,11 +168,6 @@
      "id": "ExA3SVKHDuo",
      "title": "Abraha : l’homme qui voulait détruire la Kaaba",
      "date": "2026-10-08T08:12:21Z"
-    },
-    {
-     "id": "YrhXGE4MVas",
-     "title": "Peut-on faire sa propre ‘Aqiqa à l’âge adulte ?",
-     "date": "2026-10-07T09:30:17Z"
     }
    ]
   },
@@ -248,11 +253,6 @@
      "id": "4kDpX07nfAg",
      "title": "BASSEM SE RÉJOUIT DE LA VENUE DU PAPE : RÉFUTATION ET MISE AU POINT | la citadelle de la foi",
      "date": "2026-10-11T09:49:54Z"
-    },
-    {
-     "id": "V18cwQh9lxs",
-     "title": "La passion : un chemin vers l’enfer ?",
-     "date": "2026-10-07T20:05:17Z"
     }
    ]
   },
