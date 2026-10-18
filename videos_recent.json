@@ -1,6 +1,115 @@
 {
- "generated_at": "2026-10-17T20:46:47+00:00",
+ "generated_at": "2026-10-18T20:55:39+00:00",
  "channels": [
+  {
+   "handle": "SavantsSunnah",
+   "title": "Les Savants de la Sunnah ",
+   "videos": [
+    {
+     "id": "5nS9xiJabrA",
+     "title": "FOYERS SEREINS : L'indulgence, pas l'insouciance",
+     "date": "2026-10-18T16:58:45Z"
+    },
+    {
+     "id": "-y1ZJNDP0c4",
+     "title": "Le combat contre les Houthis - Cheikh Ar-Rouheyli",
+     "date": "2026-10-12T15:49:51Z"
+    }
+   ]
+  },
+  {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "Adr2Ty8CulM",
+     "title": "L'importance de l'étape de la jeunesse | Abdullah al Albani",
+     "date": "2026-10-18T13:51:04Z"
+    },
+    {
+     "id": "Nj014HyEzY8",
+     "title": "Reconnaître les bienfaits d'Allah sur soi | Abdullah al Albani",
+     "date": "2026-10-18T11:58:49Z"
+    },
+    {
+     "id": "YoQIyEpoDI0",
+     "title": "L'union est obligatoire, à condition qu'elle soit sur la vérité | Sheykh Ali Ar-Ramlî",
+     "date": "2026-10-18T11:48:24Z"
+    },
+    {
+     "id": "_oFfGTIEMmU",
+     "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
+     "date": "2026-10-18T09:50:04Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "fvY1bZ4Ky80",
+     "title": "La Balance et le Ṣirāṭ 🎙️ Salman Bassa",
+     "date": "2026-10-18T10:05:36Z"
+    },
+    {
+     "id": "jgTOa7ev4nA",
+     "title": "Défense de notre Cheikh Ṣāliḥ al-Fawzān (qu'Allah le préserve)",
+     "date": "2026-10-16T07:45:12Z"
+    },
+    {
+     "id": "FfaPfHVR0OE",
+     "title": "L'auteur de grands péchés 🎙️ Salman Bassa",
+     "date": "2026-10-15T18:02:54Z"
+    },
+    {
+     "id": "K49MD2iK-z8",
+     "title": "Concernant le chrétien à Médine",
+     "date": "2026-10-14T07:05:56Z"
+    },
+    {
+     "id": "SKqMP6BZLyU",
+     "title": "La patience de Noūḥ ﷺ dans la daʿwah 🎙️ Salman Bassa",
+     "date": "2026-10-14T05:26:03Z"
+    },
+    {
+     "id": "f0FdFpkhaas",
+     "title": "La descente de ʿĪsā ﷺ et la sortie de Ya'joū et Ma'joūj 🎙️ Salman Bassa",
+     "date": "2026-10-12T13:03:28Z"
+    }
+   ]
+  },
+  {
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
+   "videos": [
+    {
+     "id": "V882xSoQEVc",
+     "title": "37- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee'",
+     "date": "2026-10-17T22:54:22Z"
+    },
+    {
+     "id": "1Ukt1vlfPMA",
+     "title": "40- Annotation à l'introduction du recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-17T22:35:51Z"
+    },
+    {
+     "id": "XjdcOJLjV5w",
+     "title": "39- Annotation à l'introduction du recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-17T22:23:01Z"
+    },
+    {
+     "id": "xrFyb76J404",
+     "title": "45- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-13T15:49:58Z"
+    },
+    {
+     "id": "WNNGCBkEUIM",
+     "title": "44- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-13T15:38:39Z"
+    }
+   ]
+  },
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
@@ -34,16 +143,6 @@
      "id": "tnyvNAqrqyA",
      "title": "VLOG OMRADUSAVOIR - Teaser #02",
      "date": "2026-10-12T20:17:21Z"
-    },
-    {
-     "id": "kbULBn5mLjs",
-     "title": "Une femme peut-elle partir en Omra sans mahram ?",
-     "date": "2026-10-10T18:13:03Z"
-    },
-    {
-     "id": "sm1ko9HxWu4",
-     "title": "VLOG OMRADUSAVOIR - Teaser #01",
-     "date": "2026-10-10T13:17:47Z"
     }
    ]
   },
@@ -65,11 +164,6 @@
      "id": "EE5qlur4V6E",
      "title": "🎥 inna lillah wa inna ilayhi raji'un",
      "date": "2026-10-11T13:30:10Z"
-    },
-    {
-     "id": "OBfwGdwJYg4",
-     "title": "🎥 Al-Adab Al-Mufrad #241 - Souhaiter la disparition d’un bienfait sur autrui",
-     "date": "2026-10-10T14:00:22Z"
     }
    ]
   },
@@ -91,11 +185,6 @@
      "id": "0kPeCaEGykk",
      "title": "Réfuter les gens de l’innovation est un immense combat",
      "date": "2026-10-12T17:18:20Z"
-    },
-    {
-     "id": "sI5pYAc9VIo",
-     "title": "LES RÈGLES RELATIVES À LA ZAKAT - Cheikh 'Abd As-Salam Ash-Shuwayer (1/2)",
-     "date": "2026-10-09T16:59:30Z"
     }
    ]
   },
@@ -132,57 +221,6 @@
      "id": "I7a_bmuA4nE",
      "title": "🎙️Faut-il attendre les proches avant d'enterrer le défunt ? Cheikh 'Aziz Farhan Al 'Anizi",
      "date": "2026-10-11T19:00:47Z"
-    },
-    {
-     "id": "jqnHpIGoD_c",
-     "title": "🎙️Faut-il enterrer le défunt là où il décède ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-10T17:07:56Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "jgTOa7ev4nA",
-     "title": "Défense de notre Cheikh Ṣāliḥ al-Fawzān (qu'Allah le préserve)",
-     "date": "2026-10-16T07:45:12Z"
-    },
-    {
-     "id": "FfaPfHVR0OE",
-     "title": "L'auteur de grands péchés 🎙️ Salman Bassa",
-     "date": "2026-10-15T18:02:54Z"
-    },
-    {
-     "id": "K49MD2iK-z8",
-     "title": "Concernant le chrétien à Médine",
-     "date": "2026-10-14T07:05:56Z"
-    },
-    {
-     "id": "SKqMP6BZLyU",
-     "title": "La patience de Noūḥ ﷺ dans la daʿwah 🎙️ Salman Bassa",
-     "date": "2026-10-14T05:26:03Z"
-    },
-    {
-     "id": "f0FdFpkhaas",
-     "title": "La descente de ʿĪsā ﷺ et la sortie de Ya'joū et Ma'joūj 🎙️ Salman Bassa",
-     "date": "2026-10-12T13:03:28Z"
-    },
-    {
-     "id": "zYw7atwyO50",
-     "title": "Y a-t-il eu des femmes et des enfants prophètes? 🎙️ Salman Bassa",
-     "date": "2026-10-11T09:43:12Z"
-    },
-    {
-     "id": "VybR0C1JEUw",
-     "title": "Le Mahdī chez Ahl as-Sounnah 🎙️ Salman Bassa",
-     "date": "2026-10-10T11:44:42Z"
-    },
-    {
-     "id": "PjIEZSER9-s",
-     "title": "Affirmer qu'une personne précise ira au Paradis ou en Enfer? 🎙️ Salman Bassa",
-     "date": "2026-10-09T13:14:33Z"
     }
    ]
   },
@@ -215,38 +253,6 @@
      "id": "mtn6MChJHpg",
      "title": "1- Comment tout a commencé ? | Chaykh Raslan",
      "date": "2026-10-15T09:04:17Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "xrFyb76J404",
-     "title": "45- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-13T15:49:58Z"
-    },
-    {
-     "id": "WNNGCBkEUIM",
-     "title": "44- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-13T15:38:39Z"
-    }
-   ]
-  },
-  {
-   "handle": "SavantsSunnah",
-   "title": "Les Savants de la Sunnah ",
-   "videos": [
-    {
-     "id": "-y1ZJNDP0c4",
-     "title": "Le combat contre les Houthis - Cheikh Ar-Rouheyli",
-     "date": "2026-10-12T15:49:51Z"
-    },
-    {
-     "id": "X9qgQ7iHjQA",
-     "title": "La conversion inattendue de ce compagnon !",
-     "date": "2026-10-10T16:43:59Z"
     }
    ]
   },
