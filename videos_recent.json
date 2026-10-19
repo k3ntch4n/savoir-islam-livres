@@ -1,26 +1,15 @@
 {
- "generated_at": "2026-10-18T20:55:39+00:00",
+ "generated_at": "2026-10-19T22:31:18+00:00",
  "channels": [
-  {
-   "handle": "SavantsSunnah",
-   "title": "Les Savants de la Sunnah ",
-   "videos": [
-    {
-     "id": "5nS9xiJabrA",
-     "title": "FOYERS SEREINS : L'indulgence, pas l'insouciance",
-     "date": "2026-10-18T16:58:45Z"
-    },
-    {
-     "id": "-y1ZJNDP0c4",
-     "title": "Le combat contre les Houthis - Cheikh Ar-Rouheyli",
-     "date": "2026-10-12T15:49:51Z"
-    }
-   ]
-  },
   {
    "handle": "Abdullahalalbani",
    "title": "Abdullah Al Albani",
    "videos": [
+    {
+     "id": "A52scqk0-OQ",
+     "title": "La gravité de la médisance | Sheykh Ali Ar-Ramlî",
+     "date": "2026-10-19T06:38:56Z"
+    },
     {
      "id": "Adr2Ty8CulM",
      "title": "L'importance de l'étape de la jeunesse | Abdullah al Albani",
@@ -40,6 +29,22 @@
      "id": "_oFfGTIEMmU",
      "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
      "date": "2026-10-18T09:50:04Z"
+    }
+   ]
+  },
+  {
+   "handle": "SavantsSunnah",
+   "title": "Les Savants de la Sunnah ",
+   "videos": [
+    {
+     "id": "5nS9xiJabrA",
+     "title": "FOYERS SEREINS : L'indulgence, pas l'insouciance",
+     "date": "2026-10-18T16:58:45Z"
+    },
+    {
+     "id": "-y1ZJNDP0c4",
+     "title": "Le combat contre les Houthis - Cheikh Ar-Rouheyli",
+     "date": "2026-10-12T15:49:51Z"
     }
    ]
   },
@@ -253,17 +258,6 @@
      "id": "mtn6MChJHpg",
      "title": "1- Comment tout a commencé ? | Chaykh Raslan",
      "date": "2026-10-15T09:04:17Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "4kDpX07nfAg",
-     "title": "BASSEM SE RÉJOUIT DE LA VENUE DU PAPE : RÉFUTATION ET MISE AU POINT | la citadelle de la foi",
-     "date": "2026-10-11T09:49:54Z"
     }
    ]
   }
