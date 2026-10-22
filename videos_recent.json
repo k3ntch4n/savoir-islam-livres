@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-10-21T21:52:02+00:00",
+ "generated_at": "2026-10-22T21:47:39+00:00",
  "channels": [
   {
    "handle": "fatwasfr",
    "title": "FatwasFr",
    "videos": [
+    {
+     "id": "c8ujSPB_F_I",
+     "title": "🎙️Peut-on entrer dans une église pour les funérailles d’un non-musulman ? Cheikh 'Aziz Farhan",
+     "date": "2026-10-22T17:41:38Z"
+    },
     {
      "id": "W5uVcFsZJik",
      "title": "🎙️Peut-on prier quelques minutes avant l’heure ? Cheikh 'Aziz Farhan Al 'Anizi",
@@ -24,11 +29,73 @@
      "id": "RAfp-YbTMxM",
      "title": "🎙️Les condoléances ne sont pas une fête ! Cheikh 'Aziz Farhan Al 'Anizi",
      "date": "2026-10-14T18:06:08Z"
+    }
+   ]
+  },
+  {
+   "handle": "MinhajAnNubuwwah",
+   "title": "Minhaj An-Nubuwwah",
+   "videos": [
+    {
+     "id": "3ypTRmywTjc",
+     "title": "LE VOILE : NI UN CHOIX PERSONNEL NI UN CHEMINEMENT, MAIS UN ORDRE DIVIN",
+     "date": "2026-10-22T15:00:12Z"
     },
     {
-     "id": "Njcjr5K4X3w",
-     "title": "🎙️Quel est le jugement de l'enterrement dans un cercueil ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-13T18:22:47Z"
+     "id": "iNIfNTDam28",
+     "title": "LES CONSEILS DES SAVANTS AUX ÉTUDIANTS MUSULMANS CONCERNANT LES BLOCUS",
+     "date": "2026-10-17T11:08:12Z"
+    },
+    {
+     "id": "lJurPqV0ICw",
+     "title": "LES RÈGLES RELATIVES À LA ZAKAT - La distribution de la Zakat | Cheikh Ash-Shuwayer (2/2)",
+     "date": "2026-10-16T15:00:26Z"
+    }
+   ]
+  },
+  {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "HDZf-0HFkfA",
+     "title": "11 - Les 40 Nawawi - Abdullah Al Albani",
+     "date": "2026-10-22T09:34:28Z"
+    },
+    {
+     "id": "9AbJ3QBrhC4",
+     "title": "10 - Les 40 Nawawi - Abdullah al Albani",
+     "date": "2026-10-22T08:43:47Z"
+    },
+    {
+     "id": "Ua5yynXzVIU",
+     "title": "Diffusion en direct de Abdullah Al Albani",
+     "date": "2026-10-21T16:44:50Z"
+    },
+    {
+     "id": "A52scqk0-OQ",
+     "title": "La gravité de la médisance | Sheykh Ali Ar-Ramlî",
+     "date": "2026-10-19T06:38:56Z"
+    },
+    {
+     "id": "Adr2Ty8CulM",
+     "title": "L'importance de l'étape de la jeunesse | Abdullah al Albani",
+     "date": "2026-10-18T13:51:04Z"
+    },
+    {
+     "id": "Nj014HyEzY8",
+     "title": "Reconnaître les bienfaits d'Allah sur soi | Abdullah al Albani",
+     "date": "2026-10-18T11:58:49Z"
+    },
+    {
+     "id": "YoQIyEpoDI0",
+     "title": "L'union est obligatoire, à condition qu'elle soit sur la vérité | Sheykh Ali Ar-Ramlî",
+     "date": "2026-10-18T11:48:24Z"
+    },
+    {
+     "id": "_oFfGTIEMmU",
+     "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
+     "date": "2026-10-18T09:50:04Z"
     }
    ]
   },
@@ -76,11 +143,6 @@
      "id": "K49MD2iK-z8",
      "title": "Concernant le chrétien à Médine",
      "date": "2026-10-14T07:05:56Z"
-    },
-    {
-     "id": "SKqMP6BZLyU",
-     "title": "La patience de Noūḥ ﷺ dans la daʿwah 🎙️ Salman Bassa",
-     "date": "2026-10-14T05:26:03Z"
     }
    ]
   },
@@ -117,47 +179,6 @@
      "id": "SX-OZg3aMX4",
      "title": "VLOG OMRADUSAVOIR - Teaser #03 Final",
      "date": "2026-10-16T13:45:56Z"
-    },
-    {
-     "id": "kQh9r9PmHUU",
-     "title": "Tu crains le Feu de l’Enfer ? Écoute ceci.",
-     "date": "2026-10-13T17:26:32Z"
-    }
-   ]
-  },
-  {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "Ua5yynXzVIU",
-     "title": "Diffusion en direct de Abdullah Al Albani",
-     "date": "2026-10-21T16:44:50Z"
-    },
-    {
-     "id": "A52scqk0-OQ",
-     "title": "La gravité de la médisance | Sheykh Ali Ar-Ramlî",
-     "date": "2026-10-19T06:38:56Z"
-    },
-    {
-     "id": "Adr2Ty8CulM",
-     "title": "L'importance de l'étape de la jeunesse | Abdullah al Albani",
-     "date": "2026-10-18T13:51:04Z"
-    },
-    {
-     "id": "Nj014HyEzY8",
-     "title": "Reconnaître les bienfaits d'Allah sur soi | Abdullah al Albani",
-     "date": "2026-10-18T11:58:49Z"
-    },
-    {
-     "id": "YoQIyEpoDI0",
-     "title": "L'union est obligatoire, à condition qu'elle soit sur la vérité | Sheykh Ali Ar-Ramlî",
-     "date": "2026-10-18T11:48:24Z"
-    },
-    {
-     "id": "_oFfGTIEMmU",
-     "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-10-18T09:50:04Z"
     }
    ]
   },
@@ -220,22 +241,6 @@
    ]
   },
   {
-   "handle": "MinhajAnNubuwwah",
-   "title": "Minhaj An-Nubuwwah",
-   "videos": [
-    {
-     "id": "iNIfNTDam28",
-     "title": "LES CONSEILS DES SAVANTS AUX ÉTUDIANTS MUSULMANS CONCERNANT LES BLOCUS",
-     "date": "2026-10-17T11:08:12Z"
-    },
-    {
-     "id": "lJurPqV0ICw",
-     "title": "LES RÈGLES RELATIVES À LA ZAKAT - La distribution de la Zakat | Cheikh Ash-Shuwayer (2/2)",
-     "date": "2026-10-16T15:00:26Z"
-    }
-   ]
-  },
-  {
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
@@ -248,11 +253,6 @@
      "id": "JJk0Mq0VVao",
      "title": "La péninsule arabique à l'époque de cheikh Mohamed Ibn Abdil Wahhab",
      "date": "2026-10-14T20:06:33Z"
-    },
-    {
-     "id": "Bcivk2R1rGM",
-     "title": "🎥 Ils sont la génération d’or - Cheikh Farhan Al Anizi #islam",
-     "date": "2026-10-13T21:44:51Z"
     }
    ]
   },
