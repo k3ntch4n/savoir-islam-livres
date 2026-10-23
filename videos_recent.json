@@ -1,55 +1,161 @@
 {
- "generated_at": "2026-10-22T21:47:39+00:00",
+ "generated_at": "2026-10-23T21:32:51+00:00",
  "channels": [
   {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
    "videos": [
     {
-     "id": "c8ujSPB_F_I",
-     "title": "🎙️Peut-on entrer dans une église pour les funérailles d’un non-musulman ? Cheikh 'Aziz Farhan",
-     "date": "2026-10-22T17:41:38Z"
+     "id": "9kF62vS7MIM",
+     "title": "Un principe de manhaj à connaître : sermon du 02/10/2026",
+     "date": "2026-10-23T21:00:46Z"
     },
     {
-     "id": "W5uVcFsZJik",
-     "title": "🎙️Peut-on prier quelques minutes avant l’heure ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-21T18:43:31Z"
+     "id": "Vcy_--zkjEk",
+     "title": "39- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee'",
+     "date": "2026-10-23T20:50:22Z"
     },
     {
-     "id": "M5IpllmikV4",
-     "title": "🎙️L’imam ajoute une rak‘a : faut-il le suivre ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-16T18:23:29Z"
+     "id": "75DKhJgkqtY",
+     "title": "46- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-23T20:32:38Z"
     },
     {
-     "id": "KLxW0nTuc2g",
-     "title": "🎙️Rapporter les paroles peut détruire des relations ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-15T18:15:15Z"
-    },
-    {
-     "id": "RAfp-YbTMxM",
-     "title": "🎙️Les condoléances ne sont pas une fête ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-14T18:06:08Z"
+     "id": "KOg94o0EPnw",
+     "title": "41- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-23T20:17:18Z"
     }
    ]
   },
   {
-   "handle": "MinhajAnNubuwwah",
-   "title": "Minhaj An-Nubuwwah",
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
    "videos": [
     {
-     "id": "3ypTRmywTjc",
-     "title": "LE VOILE : NI UN CHOIX PERSONNEL NI UN CHEMINEMENT, MAIS UN ORDRE DIVIN",
-     "date": "2026-10-22T15:00:12Z"
+     "id": "Rbdi245qC4w",
+     "title": "Halloween : pourquoi est-ce interdit en Islam ? Ce que tu dois savoir ! - Podcast #02",
+     "date": "2026-10-23T16:29:24Z"
     },
     {
-     "id": "iNIfNTDam28",
-     "title": "LES CONSEILS DES SAVANTS AUX ÉTUDIANTS MUSULMANS CONCERNANT LES BLOCUS",
-     "date": "2026-10-17T11:08:12Z"
+     "id": "gCmT6z_JAqU",
+     "title": "Ce que l'imam Mâlik n'avait pas honte de dire",
+     "date": "2026-10-21T16:48:11Z"
     },
     {
-     "id": "lJurPqV0ICw",
-     "title": "LES RÈGLES RELATIVES À LA ZAKAT - La distribution de la Zakat | Cheikh Ash-Shuwayer (2/2)",
-     "date": "2026-10-16T15:00:26Z"
+     "id": "aczgdoZM7Zo",
+     "title": "Elle a enfermé un chat… et a fini en Enfer",
+     "date": "2026-10-21T09:02:07Z"
+    }
+   ]
+  },
+  {
+   "handle": "gghuraba",
+   "title": "ghuraba",
+   "videos": [
+    {
+     "id": "EQlxDDLFMWc",
+     "title": "Tristesse, ANGOISSE, inquiétude : COMMENT retrouver l'APAISEMENT ? | Cheikh Ash-Shuway'ir",
+     "date": "2026-10-23T16:08:49Z"
+    },
+    {
+     "id": "RTfdtX8mW7k",
+     "title": "Comment invoquer Allah pour être exaucé ? | Cheikh 'Abd as-Salam ash-Shouway'ir",
+     "date": "2026-10-23T10:09:05Z"
+    },
+    {
+     "id": "zvbqlL3YmQc",
+     "title": "Tu n'es peut-être PAS atteint du MAUVAIS OEIL | Cheikh Abd ar-Razzaq al-Badr",
+     "date": "2026-10-22T20:15:09Z"
+    },
+    {
+     "id": "DktR_H9Qe94",
+     "title": "Comment demander à Allah un COMPAGNON PIEUX ? | Cheikh ʿAbd ar-Razzâq Al-Badr",
+     "date": "2026-10-22T19:49:13Z"
+    },
+    {
+     "id": "Y5cgLMJmvck",
+     "title": "Ne néglige JAMAIS les ADHKÂRS du matin et du soir ! | Cheikh Aziz Farhan Al-Anizi",
+     "date": "2026-10-22T19:00:28Z"
+    },
+    {
+     "id": "sMkKQDgJiIY",
+     "title": "Tu as péché ? Allah aime ceux qui se repentent ! | Cheikh Ar-Rouhaylî",
+     "date": "2026-10-22T17:28:06Z"
+    },
+    {
+     "id": "mHXzfuzFig8",
+     "title": "Peut-on demander une FATWA à ChatGPT ? | Cheikh ʿAbd ar-Razzâq Al-Badr",
+     "date": "2026-10-22T15:32:47Z"
+    },
+    {
+     "id": "536q1OWWmWQ",
+     "title": "Accro aux RESEAUX sociaux ? Voici un conseil sincère | Cheikh Ibn al-‘Uthaymîn",
+     "date": "2026-10-22T13:15:31Z"
+    },
+    {
+     "id": "QLVM4R4xotk",
+     "title": "Tu n’es PLUS motivé à obéir à Allah ? | Cheikh Raslân",
+     "date": "2026-10-22T12:15:16Z"
+    },
+    {
+     "id": "7cfPg5IpSNw",
+     "title": "Faire l’ISTIGHFÂR en ne visant QUE ce bas-monde ? | Cheikh Sâlih al-Fawzân",
+     "date": "2026-10-22T07:00:37Z"
+    },
+    {
+     "id": "OivQfvbI8Zg",
+     "title": "Comment avoir la BARAKA dans ton ARGENT ? | Cheikh Sâlih al-Fawzân #barakah   #islam  #argent",
+     "date": "2026-10-21T23:26:54Z"
+    },
+    {
+     "id": "KzjVXZE4kiY",
+     "title": "Demander pardon QUE pour ce bas-monde ? #rappelislamique #ghuraba #coran #hadith #sounnah #halal",
+     "date": "2026-10-21T22:58:45Z"
+    },
+    {
+     "id": "sjZcMI77JxY",
+     "title": "Les RICHES seront les plus PAUVRES au Jour du Jugement SAUF ... | Cheikh ar-Rouhaylî",
+     "date": "2026-10-21T20:24:40Z"
+    },
+    {
+     "id": "iWtXjR_ghT8",
+     "title": "3 CLÉS pour obtenir les BIENFAITS d'Allah ! | Cheikh Soulaymân ar-Rouhaylî",
+     "date": "2026-10-21T19:57:34Z"
+    },
+    {
+     "id": "TbdmW8DE56A",
+     "title": "Comment avoir la BARAKA dans ton ARGENT ? | Cheikh Sâlih al-Fawzân",
+     "date": "2026-10-21T16:39:40Z"
+    },
+    {
+     "id": "PVLSyxSCZ5o",
+     "title": "DEUX ÉPOUSES dans le MÊME LIT ? La réponse du Cheikh ‘Aziz Farhan !",
+     "date": "2026-10-21T16:01:14Z"
+    },
+    {
+     "id": "u5aPuM93C50",
+     "title": "TA FOI EST FAIBLE ? Voici comment la RENFORCER ! | Cheikh Sâlih al-Fawzân",
+     "date": "2026-10-21T15:36:31Z"
+    },
+    {
+     "id": "vMBUymhrUXw",
+     "title": "Délaisser UNE SEULE PRIÈRE volontairement : quelle gravité ? | Cheikh Sâlih al-Fawzân",
+     "date": "2026-10-21T15:10:06Z"
+    },
+    {
+     "id": "0Xj3BIz_B_A",
+     "title": "Le CHAPELET est-il une INNOVATION en Islam ? | Cheikh Sâlih al-Fawzân",
+     "date": "2026-10-21T14:36:37Z"
+    },
+    {
+     "id": "L8jeTxrbnT8",
+     "title": "TA FOI S'AFFAIBLIT ? Voici QUOI faire ! | Cheikh Sâlih al-Fawzân",
+     "date": "2026-10-21T14:14:39Z"
+    },
+    {
+     "id": "vLBByAkjXxQ",
+     "title": "TU CHERCHES LA RICHESSE ? N'oublie pas ce HADITH ! | Cheikh Sâlih al-Fawzân",
+     "date": "2026-10-21T13:47:09Z"
     }
    ]
   },
@@ -57,6 +163,16 @@
    "handle": "Abdullahalalbani",
    "title": "Abdullah Al Albani",
    "videos": [
+    {
+     "id": "jrnuv0RKqc0",
+     "title": "09 - Les trois fondements - Abdullah Al Albani",
+     "date": "2026-10-23T09:25:27Z"
+    },
+    {
+     "id": "l4eJ3g3SFGo",
+     "title": "Remets toi en question avant d'être jugé !",
+     "date": "2026-10-23T07:16:00Z"
+    },
     {
      "id": "HDZf-0HFkfA",
      "title": "11 - Les 40 Nawawi - Abdullah Al Albani",
@@ -71,31 +187,54 @@
      "id": "Ua5yynXzVIU",
      "title": "Diffusion en direct de Abdullah Al Albani",
      "date": "2026-10-21T16:44:50Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "VZ4t49Y41C0",
+     "title": "Concernant les houris du Paradis 🎙️ Salman Bassa",
+     "date": "2026-10-23T08:57:48Z"
     },
     {
-     "id": "A52scqk0-OQ",
-     "title": "La gravité de la médisance | Sheykh Ali Ar-Ramlî",
-     "date": "2026-10-19T06:38:56Z"
+     "id": "WuA-mikwHWg",
+     "title": "Poème sur la croyance pour enfants (extrait)",
+     "date": "2026-10-21T16:49:48Z"
     },
     {
-     "id": "Adr2Ty8CulM",
-     "title": "L'importance de l'étape de la jeunesse | Abdullah al Albani",
-     "date": "2026-10-18T13:51:04Z"
+     "id": "fro0pl6Wztc",
+     "title": "Poème sur la croyance (pour enfants)",
+     "date": "2026-10-21T16:31:54Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "c8ujSPB_F_I",
+     "title": "🎙️Peut-on entrer dans une église pour les funérailles d’un non-musulman ? Cheikh 'Aziz Farhan",
+     "date": "2026-10-22T17:41:38Z"
     },
     {
-     "id": "Nj014HyEzY8",
-     "title": "Reconnaître les bienfaits d'Allah sur soi | Abdullah al Albani",
-     "date": "2026-10-18T11:58:49Z"
-    },
+     "id": "W5uVcFsZJik",
+     "title": "🎙️Peut-on prier quelques minutes avant l’heure ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-21T18:43:31Z"
+    }
+   ]
+  },
+  {
+   "handle": "MinhajAnNubuwwah",
+   "title": "Minhaj An-Nubuwwah",
+   "videos": [
     {
-     "id": "YoQIyEpoDI0",
-     "title": "L'union est obligatoire, à condition qu'elle soit sur la vérité | Sheykh Ali Ar-Ramlî",
-     "date": "2026-10-18T11:48:24Z"
-    },
-    {
-     "id": "_oFfGTIEMmU",
-     "title": "04 - Les signes du coeur sain - Abdullah Al Albani",
-     "date": "2026-10-18T09:50:04Z"
+     "id": "3ypTRmywTjc",
+     "title": "LE VOILE : NI UN CHOIX PERSONNEL NI UN CHEMINEMENT, MAIS UN ORDRE DIVIN",
+     "date": "2026-10-22T15:00:12Z"
     }
    ]
   },
@@ -107,163 +246,6 @@
      "id": "gSkpNNkBugA",
      "title": "La science religieuse doit porter ses fruits",
      "date": "2026-10-21T17:54:12Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "WuA-mikwHWg",
-     "title": "Poème sur la croyance pour enfants (extrait)",
-     "date": "2026-10-21T16:49:48Z"
-    },
-    {
-     "id": "fro0pl6Wztc",
-     "title": "Poème sur la croyance (pour enfants)",
-     "date": "2026-10-21T16:31:54Z"
-    },
-    {
-     "id": "fvY1bZ4Ky80",
-     "title": "La Balance et le Ṣirāṭ 🎙️ Salman Bassa",
-     "date": "2026-10-18T10:05:36Z"
-    },
-    {
-     "id": "jgTOa7ev4nA",
-     "title": "Défense de notre Cheikh Ṣāliḥ al-Fawzān (qu'Allah le préserve)",
-     "date": "2026-10-16T07:45:12Z"
-    },
-    {
-     "id": "FfaPfHVR0OE",
-     "title": "L'auteur de grands péchés 🎙️ Salman Bassa",
-     "date": "2026-10-15T18:02:54Z"
-    },
-    {
-     "id": "K49MD2iK-z8",
-     "title": "Concernant le chrétien à Médine",
-     "date": "2026-10-14T07:05:56Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "gCmT6z_JAqU",
-     "title": "Ce que l'imam Mâlik n'avait pas honte de dire",
-     "date": "2026-10-21T16:48:11Z"
-    },
-    {
-     "id": "aczgdoZM7Zo",
-     "title": "Elle a enfermé un chat… et a fini en Enfer",
-     "date": "2026-10-21T09:02:07Z"
-    },
-    {
-     "id": "Bvfz2Sld3y0",
-     "title": "Le Voyage d'une Vie - VLOG OmraDuSavoir",
-     "date": "2026-10-17T16:25:11Z"
-    },
-    {
-     "id": "mIy_xe00T3k",
-     "title": "Une femme peut-elle accomplir la Omra si elle est enceinte ?",
-     "date": "2026-10-17T10:50:47Z"
-    },
-    {
-     "id": "HQXermlNK5Y",
-     "title": "La Femme en Omra - Podcast #01",
-     "date": "2026-10-16T18:13:26Z"
-    },
-    {
-     "id": "SX-OZg3aMX4",
-     "title": "VLOG OMRADUSAVOIR - Teaser #03 Final",
-     "date": "2026-10-16T13:45:56Z"
-    }
-   ]
-  },
-  {
-   "handle": "SavantsSunnah",
-   "title": "Les Savants de la Sunnah ",
-   "videos": [
-    {
-     "id": "33zkNigK0Vw",
-     "title": "Ceux-là ne craignent pas Allâh ! Cheikh 'Abd Ar-Razzâq Al Badr",
-     "date": "2026-10-20T17:52:39Z"
-    },
-    {
-     "id": "5nS9xiJabrA",
-     "title": "FOYERS SEREINS : L'indulgence, pas l'insouciance",
-     "date": "2026-10-18T16:58:45Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "gxcPdEvR1tg",
-     "title": "38- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-20T16:26:45Z"
-    },
-    {
-     "id": "V882xSoQEVc",
-     "title": "37- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee'",
-     "date": "2026-10-17T22:54:22Z"
-    },
-    {
-     "id": "1Ukt1vlfPMA",
-     "title": "40- Annotation à l'introduction du recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-17T22:35:51Z"
-    },
-    {
-     "id": "XjdcOJLjV5w",
-     "title": "39- Annotation à l'introduction du recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-17T22:23:01Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "AVOmoQllg6Y",
-     "title": "🎥 Tafsir sourate An-Najm n°21 - Les écrits d’Ibrahim et de Mūsa",
-     "date": "2026-10-20T14:00:11Z"
-    },
-    {
-     "id": "3MSCdeLI3Ko",
-     "title": "🎥 Les leçons importantes pour toute la communauté #50 - L’explication de l’invocation pour le mort",
-     "date": "2026-10-17T14:00:29Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "aDdyItD9d-U",
-     "title": "Les Ṣaḥāba : ce sont les meilleurs de la communauté - Cheikh Farhan Al Anizi #islam",
-     "date": "2026-10-15T13:00:13Z"
-    },
-    {
-     "id": "JJk0Mq0VVao",
-     "title": "La péninsule arabique à l'époque de cheikh Mohamed Ibn Abdil Wahhab",
-     "date": "2026-10-14T20:06:33Z"
-    }
-   ]
-  },
-  {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
-   "videos": [
-    {
-     "id": "mtn6MChJHpg",
-     "title": "1- Comment tout a commencé ? | Chaykh Raslan",
-     "date": "2026-10-15T09:04:17Z"
     }
    ]
   }
