@@ -1,10 +1,35 @@
 {
- "generated_at": "2026-10-24T21:00:38+00:00",
+ "generated_at": "2026-10-25T21:57:20+00:00",
  "channels": [
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "l5rIJlxTcRk",
+     "title": "Prières manquées : sujet à divergences ? | Cheikh Aziz Farhan Al-Anizi",
+     "date": "2026-10-25T21:41:14Z"
+    },
+    {
+     "id": "MLdc-DW48hY",
+     "title": "Prières manquées : pouvons-nous les rattraper ? | Cheikh Ibn ʿUthaymîn",
+     "date": "2026-10-25T21:21:30Z"
+    },
+    {
+     "id": "CSpCysbAUVc",
+     "title": "Un HADITH absolument MAGNIFIQUE | Cheikh ʿAbd ar-Razzâq Al-Badr",
+     "date": "2026-10-25T14:40:29Z"
+    },
+    {
+     "id": "xQoUefOjaQI",
+     "title": "Un DJINN BOUDDHISTE se convertit à l'ISLAM devant le Cheikh Ibn Bāz ! Récit étonnant",
+     "date": "2026-10-25T13:34:13Z"
+    },
+    {
+     "id": "xPl50kEVReU",
+     "title": "Le Cheikh Al-Albânî fond EN LARMES face aux éloges d'un étudiant ! Un rappel émouvant",
+     "date": "2026-10-25T13:09:22Z"
+    },
     {
      "id": "GeVomNpl8l4",
      "title": "Manger ou boire debout en Islam : PERMIS ou INTERDIT ? | Cheikh Al-Albânî",
@@ -49,67 +74,17 @@
      "id": "Y5cgLMJmvck",
      "title": "Ne néglige JAMAIS les ADHKÂRS du matin et du soir ! | Cheikh Aziz Farhan Al-Anizi",
      "date": "2026-10-22T19:00:28Z"
-    },
-    {
-     "id": "sMkKQDgJiIY",
-     "title": "Tu as péché ? Allah aime ceux qui se repentent ! | Cheikh Ar-Rouhaylî",
-     "date": "2026-10-22T17:28:06Z"
-    },
-    {
-     "id": "mHXzfuzFig8",
-     "title": "Peut-on demander une FATWA à ChatGPT ? | Cheikh ʿAbd ar-Razzâq Al-Badr",
-     "date": "2026-10-22T15:32:47Z"
-    },
-    {
-     "id": "536q1OWWmWQ",
-     "title": "Accro aux RESEAUX sociaux ? Voici un conseil sincère | Cheikh Ibn al-‘Uthaymîn",
-     "date": "2026-10-22T13:15:31Z"
-    },
-    {
-     "id": "QLVM4R4xotk",
-     "title": "Tu n’es PLUS motivé à obéir à Allah ? | Cheikh Raslân",
-     "date": "2026-10-22T12:15:16Z"
-    },
-    {
-     "id": "7cfPg5IpSNw",
-     "title": "Faire l’ISTIGHFÂR en ne visant QUE ce bas-monde ? | Cheikh Sâlih al-Fawzân",
-     "date": "2026-10-22T07:00:37Z"
-    },
-    {
-     "id": "OivQfvbI8Zg",
-     "title": "Comment avoir la BARAKA dans ton ARGENT ? | Cheikh Sâlih al-Fawzân #barakah   #islam  #argent",
-     "date": "2026-10-21T23:26:54Z"
-    },
-    {
-     "id": "KzjVXZE4kiY",
-     "title": "Demander pardon QUE pour ce bas-monde ? #rappelislamique #ghuraba #coran #hadith #sounnah #halal",
-     "date": "2026-10-21T22:58:45Z"
-    },
-    {
-     "id": "sjZcMI77JxY",
-     "title": "Les RICHES seront les plus PAUVRES au Jour du Jugement SAUF ... | Cheikh ar-Rouhaylî",
-     "date": "2026-10-21T20:24:40Z"
-    },
-    {
-     "id": "iWtXjR_ghT8",
-     "title": "3 CLÉS pour obtenir les BIENFAITS d'Allah ! | Cheikh Soulaymân ar-Rouhaylî",
-     "date": "2026-10-21T19:57:34Z"
-    },
-    {
-     "id": "TbdmW8DE56A",
-     "title": "Comment avoir la BARAKA dans ton ARGENT ? | Cheikh Sâlih al-Fawzân",
-     "date": "2026-10-21T16:39:40Z"
     }
    ]
   },
   {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
    "videos": [
     {
-     "id": "NkYdMhiXLfk",
-     "title": "🎥 ‘Umdat al-Ahkam - Cours n°48 - Prépare ton conseil ou ta question",
-     "date": "2026-10-24T14:00:41Z"
+     "id": "vsqdAB946fE",
+     "title": "L'Égypte va-t-elle entrer en guerre ? | Chaykh Raslan",
+     "date": "2026-10-25T20:17:19Z"
     }
    ]
   },
@@ -117,6 +92,61 @@
    "handle": "Abdullahalalbani",
    "title": "Abdullah Al Albani",
    "videos": [
+    {
+     "id": "ocP5CwaUAdc",
+     "title": "fiqh",
+     "date": "2026-10-25T17:17:53Z"
+    },
+    {
+     "id": "WEfbdqnZwXA",
+     "title": "f",
+     "date": "2026-10-25T16:24:17Z"
+    },
+    {
+     "id": "86meOtMoKVE",
+     "title": "fiqh",
+     "date": "2026-10-25T16:08:25Z"
+    },
+    {
+     "id": "yRVaTiX9Qg4",
+     "title": "f",
+     "date": "2026-10-25T15:19:18Z"
+    },
+    {
+     "id": "NPp1Dl4RkDM",
+     "title": "fiqh",
+     "date": "2026-10-25T15:05:18Z"
+    },
+    {
+     "id": "JbPLps6IbcQ",
+     "title": "fiqh",
+     "date": "2026-10-25T14:55:32Z"
+    },
+    {
+     "id": "fQNg3nqsVQE",
+     "title": "fiqh",
+     "date": "2026-10-25T14:51:26Z"
+    },
+    {
+     "id": "IqtoAhMJqCY",
+     "title": "fiqh",
+     "date": "2026-10-25T14:44:18Z"
+    },
+    {
+     "id": "DmYkqcwKCPA",
+     "title": "fiqh",
+     "date": "2026-10-25T14:42:12Z"
+    },
+    {
+     "id": "5CEkYdxm-zc",
+     "title": "Fiqh simplifié Tayammum",
+     "date": "2026-10-25T14:33:18Z"
+    },
+    {
+     "id": "tOWMCZI6Gr8",
+     "title": "fiqh Simplifié Tayammum",
+     "date": "2026-10-25T14:32:47Z"
+    },
     {
      "id": "sV6lJf79tWk",
      "title": "La sincérité, la clé du bonheur | Abdullah al Albani",
@@ -136,21 +166,17 @@
      "id": "l4eJ3g3SFGo",
      "title": "Remets toi en question avant d'être jugé !",
      "date": "2026-10-23T07:16:00Z"
-    },
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
     {
-     "id": "HDZf-0HFkfA",
-     "title": "11 - Les 40 Nawawi - Abdullah Al Albani",
-     "date": "2026-10-22T09:34:28Z"
-    },
-    {
-     "id": "9AbJ3QBrhC4",
-     "title": "10 - Les 40 Nawawi - Abdullah al Albani",
-     "date": "2026-10-22T08:43:47Z"
-    },
-    {
-     "id": "Ua5yynXzVIU",
-     "title": "Diffusion en direct de Abdullah Al Albani",
-     "date": "2026-10-21T16:44:50Z"
+     "id": "KexTq0vHkSk",
+     "title": "5 - Explication de la sourate Al kahf",
+     "date": "2026-10-25T13:45:02Z"
     }
    ]
   },
@@ -158,6 +184,11 @@
    "handle": "salmanbassa",
    "title": "Salman Bassa (da'wah salafiyyah)",
    "videos": [
+    {
+     "id": "8vY2vw6lrWU",
+     "title": "Les quatre catégories de peur 🎙️ Salman Bassa",
+     "date": "2026-10-25T11:15:22Z"
+    },
     {
      "id": "xLdti9epLI8",
      "title": "(8) Explication du livre «Les trois fondements» 🎙️ Salman Bassa",
@@ -167,11 +198,17 @@
      "id": "VZ4t49Y41C0",
      "title": "Concernant les houris du Paradis 🎙️ Salman Bassa",
      "date": "2026-10-23T08:57:48Z"
-    },
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
     {
-     "id": "WuA-mikwHWg",
-     "title": "Poème sur la croyance pour enfants (extrait)",
-     "date": "2026-10-21T16:49:48Z"
+     "id": "NkYdMhiXLfk",
+     "title": "🎥 ‘Umdat al-Ahkam - Cours n°48 - Prépare ton conseil ou ta question",
+     "date": "2026-10-24T14:00:41Z"
     }
    ]
   },
@@ -209,49 +246,6 @@
      "id": "Rbdi245qC4w",
      "title": "Halloween : pourquoi est-ce interdit en Islam ? Ce que tu dois savoir ! - Podcast #02",
      "date": "2026-10-23T16:29:24Z"
-    },
-    {
-     "id": "gCmT6z_JAqU",
-     "title": "Ce que l'imam Mâlik n'avait pas honte de dire",
-     "date": "2026-10-21T16:48:11Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "c8ujSPB_F_I",
-     "title": "🎙️Peut-on entrer dans une église pour les funérailles d’un non-musulman ? Cheikh 'Aziz Farhan",
-     "date": "2026-10-22T17:41:38Z"
-    },
-    {
-     "id": "W5uVcFsZJik",
-     "title": "🎙️Peut-on prier quelques minutes avant l’heure ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-21T18:43:31Z"
-    }
-   ]
-  },
-  {
-   "handle": "MinhajAnNubuwwah",
-   "title": "Minhaj An-Nubuwwah",
-   "videos": [
-    {
-     "id": "3ypTRmywTjc",
-     "title": "LE VOILE : NI UN CHOIX PERSONNEL NI UN CHEMINEMENT, MAIS UN ORDRE DIVIN",
-     "date": "2026-10-22T15:00:12Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "gSkpNNkBugA",
-     "title": "La science religieuse doit porter ses fruits",
-     "date": "2026-10-21T17:54:12Z"
     }
    ]
   }
