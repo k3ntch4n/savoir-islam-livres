@@ -1,10 +1,30 @@
 {
- "generated_at": "2026-10-25T21:57:20+00:00",
+ "generated_at": "2026-10-26T23:13:08+00:00",
  "channels": [
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "qL5m_dMGVMA",
+     "title": "Un poème de Ibn Rajab - Lataif al-Maarif",
+     "date": "2026-10-26T22:12:55Z"
+    },
+    {
+     "id": "NBvaJkLsrUc",
+     "title": "4 catégories de personnes dans ce monde : laquelle es-tu ? | Cheikh ʿAbd ar-Razzâq Al-Badr",
+     "date": "2026-10-26T20:15:31Z"
+    },
+    {
+     "id": "CX1sAck4ij4",
+     "title": "ATTENTION à tes AMIS, ils peuvent influencer ta religion… | Cheikh Mansour Al-Khalidi",
+     "date": "2026-10-25T22:49:07Z"
+    },
+    {
+     "id": "ltuuf8zwEO0",
+     "title": "Poème sur le (thème du) REPENTIR",
+     "date": "2026-10-25T22:26:21Z"
+    },
     {
      "id": "l5rIJlxTcRk",
      "title": "Prières manquées : sujet à divergences ? | Cheikh Aziz Farhan Al-Anizi",
@@ -74,17 +94,32 @@
      "id": "Y5cgLMJmvck",
      "title": "Ne néglige JAMAIS les ADHKÂRS du matin et du soir ! | Cheikh Aziz Farhan Al-Anizi",
      "date": "2026-10-22T19:00:28Z"
+    },
+    {
+     "id": "sMkKQDgJiIY",
+     "title": "Tu as péché ? Allah aime ceux qui se repentent ! | Cheikh Ar-Rouhaylî",
+     "date": "2026-10-22T17:28:06Z"
+    },
+    {
+     "id": "mHXzfuzFig8",
+     "title": "Peut-on demander une FATWA à ChatGPT ? | Cheikh ʿAbd ar-Razzâq Al-Badr",
+     "date": "2026-10-22T15:32:47Z"
     }
    ]
   },
   {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
    "videos": [
     {
-     "id": "vsqdAB946fE",
-     "title": "L'Égypte va-t-elle entrer en guerre ? | Chaykh Raslan",
-     "date": "2026-10-25T20:17:19Z"
+     "id": "ebFojWcRjiM",
+     "title": "La Mecque : 100 ans de prière derrière un seul imam !",
+     "date": "2026-10-26T18:58:00Z"
+    },
+    {
+     "id": "Rbdi245qC4w",
+     "title": "Halloween : pourquoi est-ce interdit en Islam ? Ce que tu dois savoir ! - Podcast #02",
+     "date": "2026-10-23T16:29:24Z"
     }
    ]
   },
@@ -93,59 +128,9 @@
    "title": "Abdullah Al Albani",
    "videos": [
     {
-     "id": "ocP5CwaUAdc",
-     "title": "fiqh",
-     "date": "2026-10-25T17:17:53Z"
-    },
-    {
-     "id": "WEfbdqnZwXA",
-     "title": "f",
-     "date": "2026-10-25T16:24:17Z"
-    },
-    {
-     "id": "86meOtMoKVE",
-     "title": "fiqh",
-     "date": "2026-10-25T16:08:25Z"
-    },
-    {
-     "id": "yRVaTiX9Qg4",
-     "title": "f",
-     "date": "2026-10-25T15:19:18Z"
-    },
-    {
-     "id": "NPp1Dl4RkDM",
-     "title": "fiqh",
-     "date": "2026-10-25T15:05:18Z"
-    },
-    {
-     "id": "JbPLps6IbcQ",
-     "title": "fiqh",
-     "date": "2026-10-25T14:55:32Z"
-    },
-    {
-     "id": "fQNg3nqsVQE",
-     "title": "fiqh",
-     "date": "2026-10-25T14:51:26Z"
-    },
-    {
-     "id": "IqtoAhMJqCY",
-     "title": "fiqh",
-     "date": "2026-10-25T14:44:18Z"
-    },
-    {
-     "id": "DmYkqcwKCPA",
-     "title": "fiqh",
-     "date": "2026-10-25T14:42:12Z"
-    },
-    {
-     "id": "5CEkYdxm-zc",
-     "title": "Fiqh simplifié Tayammum",
-     "date": "2026-10-25T14:33:18Z"
-    },
-    {
-     "id": "tOWMCZI6Gr8",
-     "title": "fiqh Simplifié Tayammum",
-     "date": "2026-10-25T14:32:47Z"
+     "id": "L6DWFl9uQyg",
+     "title": "Maintiens les liens de parenté, même si eux les rompent | Abdullah al Albani",
+     "date": "2026-10-26T07:25:35Z"
     },
     {
      "id": "sV6lJf79tWk",
@@ -170,20 +155,14 @@
    ]
   },
   {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "KexTq0vHkSk",
-     "title": "5 - Explication de la sourate Al kahf",
-     "date": "2026-10-25T13:45:02Z"
-    }
-   ]
-  },
-  {
    "handle": "salmanbassa",
    "title": "Salman Bassa (da'wah salafiyyah)",
    "videos": [
+    {
+     "id": "-xuTnxgxRSk",
+     "title": "Le jugement de la peur des djinn 🎙️ Salman Bassa",
+     "date": "2026-10-26T06:45:43Z"
+    },
     {
      "id": "8vY2vw6lrWU",
      "title": "Les quatre catégories de peur 🎙️ Salman Bassa",
@@ -198,6 +177,28 @@
      "id": "VZ4t49Y41C0",
      "title": "Concernant les houris du Paradis 🎙️ Salman Bassa",
      "date": "2026-10-23T08:57:48Z"
+    }
+   ]
+  },
+  {
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
+   "videos": [
+    {
+     "id": "vsqdAB946fE",
+     "title": "L'Égypte va-t-elle entrer en guerre ? | Chaykh Raslan",
+     "date": "2026-10-25T20:17:19Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "KexTq0vHkSk",
+     "title": "5 - Explication de la sourate Al kahf",
+     "date": "2026-10-25T13:45:02Z"
     }
    ]
   },
@@ -239,13 +240,24 @@
    ]
   },
   {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
    "videos": [
     {
-     "id": "Rbdi245qC4w",
-     "title": "Halloween : pourquoi est-ce interdit en Islam ? Ce que tu dois savoir ! - Podcast #02",
-     "date": "2026-10-23T16:29:24Z"
+     "id": "c8ujSPB_F_I",
+     "title": "🎙️Peut-on entrer dans une église pour les funérailles d’un non-musulman ? Cheikh 'Aziz Farhan",
+     "date": "2026-10-22T17:41:38Z"
+    }
+   ]
+  },
+  {
+   "handle": "MinhajAnNubuwwah",
+   "title": "Minhaj An-Nubuwwah",
+   "videos": [
+    {
+     "id": "3ypTRmywTjc",
+     "title": "LE VOILE : NI UN CHOIX PERSONNEL NI UN CHEMINEMENT, MAIS UN ORDRE DIVIN",
+     "date": "2026-10-22T15:00:12Z"
     }
    ]
   }
