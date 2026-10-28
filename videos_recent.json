@@ -1,31 +1,25 @@
 {
- "generated_at": "2026-10-27T23:02:17+00:00",
+ "generated_at": "2026-10-28T23:22:13+00:00",
  "channels": [
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "gsfgzDnHVrQ",
-     "title": "1- Manhaj As-Salikin",
-     "date": "2026-10-27T17:00:36Z"
-    },
-    {
-     "id": "00QPktmBnkI",
-     "title": "Le travail et l'étude des sciences religieuses - Cheikh Abou Hazim #islam",
-     "date": "2026-10-27T07:11:11Z"
-    },
-    {
-     "id": "KexTq0vHkSk",
-     "title": "5 - Explication de la sourate Al kahf",
-     "date": "2026-10-25T13:45:02Z"
-    }
-   ]
-  },
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "Qx-gtkRsXPM",
+     "title": "Les derniers instants de l'imam Muslim : une leçon bouleversante",
+     "date": "2026-10-28T19:41:12Z"
+    },
+    {
+     "id": "S62cp-HMuIE",
+     "title": "Aqîqah : pourquoi 2 moutons pour un garçon et 1 pour une fille ?",
+     "date": "2026-10-28T18:13:51Z"
+    },
+    {
+     "id": "uHCZCLzWbFs",
+     "title": "Le jour où la lave a menacé la ville de Médine !",
+     "date": "2026-10-28T16:14:30Z"
+    },
     {
      "id": "NIK-x_EChgw",
      "title": "Halloween : ce n’est pas qu’une histoire de bonbons…",
@@ -35,94 +29,17 @@
      "id": "ebFojWcRjiM",
      "title": "La Mecque : 100 ans de prière derrière un seul imam !",
      "date": "2026-10-26T18:58:00Z"
-    },
-    {
-     "id": "Rbdi245qC4w",
-     "title": "Halloween : pourquoi est-ce interdit en Islam ? Ce que tu dois savoir ! - Podcast #02",
-     "date": "2026-10-23T16:29:24Z"
     }
    ]
   },
   {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
    "videos": [
     {
-     "id": "if55vqbZ-Rg",
-     "title": "🎥 Al-Adab Al-Mufrad #242 - Noirs de jalousie",
-     "date": "2026-10-27T15:00:10Z"
-    },
-    {
-     "id": "NkYdMhiXLfk",
-     "title": "🎥 ‘Umdat al-Ahkam - Cours n°48 - Prépare ton conseil ou ta question",
-     "date": "2026-10-24T14:00:41Z"
-    }
-   ]
-  },
-  {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "M_PqyZogOQc",
-     "title": "Sois bon avec ton épouse | Abdullah al Albani",
-     "date": "2026-10-27T11:30:15Z"
-    },
-    {
-     "id": "kTQ7D278Ja8",
-     "title": "Parmi les signes du cœur sain : ressentir une douleur lorsqu'on manque une obligation",
-     "date": "2026-10-27T07:25:00Z"
-    },
-    {
-     "id": "L6DWFl9uQyg",
-     "title": "Maintiens les liens de parenté, même si eux les rompent | Abdullah al Albani",
-     "date": "2026-10-26T07:25:35Z"
-    },
-    {
-     "id": "sV6lJf79tWk",
-     "title": "La sincérité, la clé du bonheur | Abdullah al Albani",
-     "date": "2026-10-24T09:40:09Z"
-    },
-    {
-     "id": "VKhMhfzmiE0",
-     "title": "l'importance de connaître les fondements relatifs à la compagnie et à la séparation",
-     "date": "2026-10-24T09:27:44Z"
-    },
-    {
-     "id": "jrnuv0RKqc0",
-     "title": "09 - Les trois fondements - Abdullah Al Albani",
-     "date": "2026-10-23T09:25:27Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "gTEYYLlPdyU",
-     "title": "Ils ont modifié le matn! 🎙️ Salman Bassa",
-     "date": "2026-10-27T11:12:34Z"
-    },
-    {
-     "id": "-xuTnxgxRSk",
-     "title": "Le jugement de la peur des djinn 🎙️ Salman Bassa",
-     "date": "2026-10-26T06:45:43Z"
-    },
-    {
-     "id": "8vY2vw6lrWU",
-     "title": "Les quatre catégories de peur 🎙️ Salman Bassa",
-     "date": "2026-10-25T11:15:22Z"
-    },
-    {
-     "id": "xLdti9epLI8",
-     "title": "(8) Explication du livre «Les trois fondements» 🎙️ Salman Bassa",
-     "date": "2026-10-24T09:06:15Z"
-    },
-    {
-     "id": "VZ4t49Y41C0",
-     "title": "Concernant les houris du Paradis 🎙️ Salman Bassa",
-     "date": "2026-10-23T08:57:48Z"
+     "id": "OGzwVWktzbM",
+     "title": "🎙️Quand ta demande de pardon a elle-même besoin de pardon ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-28T18:57:47Z"
     }
    ]
   },
@@ -130,6 +47,46 @@
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "ZVeVo1wkm1w",
+     "title": "Prête à tout pour retrouver son mari | Cheikh Abd ar-Razzaq al-Badr",
+     "date": "2026-10-28T18:30:16Z"
+    },
+    {
+     "id": "9l0KkwZVT8I",
+     "title": "IL CROYAIT AVOIR VU LE PROPHÈTE ﷺ EN RÊVE… MAIS ! | Cheikh Abd ar-Razzaq Al-Badr",
+     "date": "2026-10-28T17:41:54Z"
+    },
+    {
+     "id": "p5h0bBCFmS0",
+     "title": "LA PRIÈRE TE SEMBLE LOURDE ? VOICI CE QUI LA FACILITE ! | Cheikh 'Abd ar-Razzaq Al-Badr",
+     "date": "2026-10-28T16:07:21Z"
+    },
+    {
+     "id": "qQJ_Rjt-J3I",
+     "title": "SORCELLERIE : COMMENT S’EN PROTÉGER ET S’EN LIBÉRER ? | Cheikh Abd ar-Razzaq Al-Badr",
+     "date": "2026-10-28T14:14:30Z"
+    },
+    {
+     "id": "GJwsXVJmLAY",
+     "title": "PORNOGRAPHIE : COMMENT S’EN DÉBARRASSER ? | Cheikh Soulaymâne ar-Rouhaylî",
+     "date": "2026-10-28T11:45:11Z"
+    },
+    {
+     "id": "VM8PrSLE3AQ",
+     "title": "LES CHIITES SONT-ILS TOUS MÉCRÉANTS ? | Cheikh Al-Albânî",
+     "date": "2026-10-28T11:06:57Z"
+    },
+    {
+     "id": "33uR2H0hdVQ",
+     "title": "Tu veux que tes invocations soient exaucées ? Utilise ce NOM ! Cheikh Abd Ar-Razzaq Al-Badr",
+     "date": "2026-10-28T10:11:37Z"
+    },
+    {
+     "id": "ScJhLXf48v4",
+     "title": "MUSULMAN : AS-TU CES 3 OBJECTIFS CHAQUE JOUR ? | Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-10-28T06:19:51Z"
+    },
     {
      "id": "HhhL9CZ4GhU",
      "title": "D'où nous vient cette maladie ? | Cheikh Aziz Farhan Al-Anizi",
@@ -189,26 +146,101 @@
      "id": "35k65JAJHmo",
      "title": "Il OUBLIE de clôturer par le SALÂM… Le Cheikh Al-Albânî lui rappelle les REGLES de la SUNNA !",
      "date": "2026-10-24T19:29:29Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "gKXNKPxePX0",
+     "title": "2- La purification",
+     "date": "2026-10-28T17:00:07Z"
     },
     {
-     "id": "oPlUYCCpW4k",
-     "title": "Attention à cette erreur dans la prière ! | Cheikh al-Albânî",
-     "date": "2026-10-24T13:22:39Z"
+     "id": "gsfgzDnHVrQ",
+     "title": "1- Manhaj As-Salikin",
+     "date": "2026-10-27T17:00:36Z"
     },
     {
-     "id": "rpj9PNY0nTc",
-     "title": "Un plaisir éphémère vaut-il de perdre le Paradis ? | Rappel islamique",
-     "date": "2026-10-23T22:05:54Z"
+     "id": "00QPktmBnkI",
+     "title": "Le travail et l'étude des sciences religieuses - Cheikh Abou Hazim #islam",
+     "date": "2026-10-27T07:11:11Z"
     },
     {
-     "id": "EQlxDDLFMWc",
-     "title": "Tristesse, ANGOISSE, inquiétude : COMMENT retrouver l'APAISEMENT ? | Cheikh Ash-Shuway'ir",
-     "date": "2026-10-23T16:08:49Z"
+     "id": "KexTq0vHkSk",
+     "title": "5 - Explication de la sourate Al kahf",
+     "date": "2026-10-25T13:45:02Z"
+    }
+   ]
+  },
+  {
+   "handle": "islam_les_sentiers_du_savoir",
+   "title": "Islam Les Sentiers du Savoir",
+   "videos": [
+    {
+     "id": "g1IJj10IiWI",
+     "title": "SI UN PIED N'EST PAS EN CONTACT DU SOL DURANT LE SOUJOUD (CH OTHEYMINE)",
+     "date": "2026-10-28T16:54:55Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "shyDuNNeuKQ",
+     "title": "Les causes font partie du Tawakkoul 🎙️ Salman Bassa",
+     "date": "2026-10-28T11:57:52Z"
     },
     {
-     "id": "RTfdtX8mW7k",
-     "title": "Comment invoquer Allah pour être exaucé ? | Cheikh 'Abd as-Salam ash-Shouway'ir",
-     "date": "2026-10-23T10:09:05Z"
+     "id": "gTEYYLlPdyU",
+     "title": "Ils ont modifié le matn! 🎙️ Salman Bassa",
+     "date": "2026-10-27T11:12:34Z"
+    },
+    {
+     "id": "-xuTnxgxRSk",
+     "title": "Le jugement de la peur des djinn 🎙️ Salman Bassa",
+     "date": "2026-10-26T06:45:43Z"
+    },
+    {
+     "id": "8vY2vw6lrWU",
+     "title": "Les quatre catégories de peur 🎙️ Salman Bassa",
+     "date": "2026-10-25T11:15:22Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "if55vqbZ-Rg",
+     "title": "🎥 Al-Adab Al-Mufrad #242 - Noirs de jalousie",
+     "date": "2026-10-27T15:00:10Z"
+    }
+   ]
+  },
+  {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "M_PqyZogOQc",
+     "title": "Sois bon avec ton épouse | Abdullah al Albani",
+     "date": "2026-10-27T11:30:15Z"
+    },
+    {
+     "id": "kTQ7D278Ja8",
+     "title": "Parmi les signes du cœur sain : ressentir une douleur lorsqu'on manque une obligation",
+     "date": "2026-10-27T07:25:00Z"
+    },
+    {
+     "id": "L6DWFl9uQyg",
+     "title": "Maintiens les liens de parenté, même si eux les rompent | Abdullah al Albani",
+     "date": "2026-10-26T07:25:35Z"
     }
    ]
   },
@@ -220,32 +252,6 @@
      "id": "vsqdAB946fE",
      "title": "L'Égypte va-t-elle entrer en guerre ? | Chaykh Raslan",
      "date": "2026-10-25T20:17:19Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "9kF62vS7MIM",
-     "title": "Un principe de manhaj à connaître : sermon du 02/10/2026",
-     "date": "2026-10-23T21:00:46Z"
-    },
-    {
-     "id": "Vcy_--zkjEk",
-     "title": "39- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee'",
-     "date": "2026-10-23T20:50:22Z"
-    },
-    {
-     "id": "75DKhJgkqtY",
-     "title": "46- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-23T20:32:38Z"
-    },
-    {
-     "id": "KOg94o0EPnw",
-     "title": "41- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-23T20:17:18Z"
     }
    ]
   }
