@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-28T23:22:13+00:00",
+ "generated_at": "2026-10-29T23:27:35+00:00",
  "channels": [
   {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
+   "handle": "islam_les_sentiers_du_savoir",
+   "title": "Islam Les Sentiers du Savoir",
    "videos": [
     {
-     "id": "Qx-gtkRsXPM",
-     "title": "Les derniers instants de l'imam Muslim : une leçon bouleversante",
-     "date": "2026-10-28T19:41:12Z"
+     "id": "4TN2CpEBOuk",
+     "title": "CRAINS ALLAH ET N'ÉCOUTE PAS LES INNOVATEURS (CH AN-NAJMI)",
+     "date": "2026-10-29T20:41:40Z"
     },
     {
-     "id": "S62cp-HMuIE",
-     "title": "Aqîqah : pourquoi 2 moutons pour un garçon et 1 pour une fille ?",
-     "date": "2026-10-28T18:13:51Z"
-    },
-    {
-     "id": "uHCZCLzWbFs",
-     "title": "Le jour où la lave a menacé la ville de Médine !",
-     "date": "2026-10-28T16:14:30Z"
-    },
-    {
-     "id": "NIK-x_EChgw",
-     "title": "Halloween : ce n’est pas qu’une histoire de bonbons…",
-     "date": "2026-10-27T15:51:01Z"
-    },
-    {
-     "id": "ebFojWcRjiM",
-     "title": "La Mecque : 100 ans de prière derrière un seul imam !",
-     "date": "2026-10-26T18:58:00Z"
+     "id": "g1IJj10IiWI",
+     "title": "SI UN PIED N'EST PAS EN CONTACT DU SOL DURANT LE SOUJOUD (CH OTHEYMINE)",
+     "date": "2026-10-28T16:54:55Z"
     }
    ]
   },
   {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
     {
-     "id": "OGzwVWktzbM",
-     "title": "🎙️Quand ta demande de pardon a elle-même besoin de pardon ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-28T18:57:47Z"
+     "id": "mXlan6ro2nA",
+     "title": "3- Les règles de bienséance à observer aux toilettes",
+     "date": "2026-10-29T17:00:40Z"
+    },
+    {
+     "id": "gKXNKPxePX0",
+     "title": "2- La purification",
+     "date": "2026-10-28T17:00:07Z"
+    },
+    {
+     "id": "gsfgzDnHVrQ",
+     "title": "1- Manhaj As-Salikin",
+     "date": "2026-10-27T17:00:36Z"
+    },
+    {
+     "id": "00QPktmBnkI",
+     "title": "Le travail et l'étude des sciences religieuses - Cheikh Abou Hazim #islam",
+     "date": "2026-10-27T07:11:11Z"
     }
    ]
   },
@@ -47,6 +47,11 @@
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "Oeully7s_W8",
+     "title": "3 poils de singe pour sauver son mariage | Cheikh Raslan",
+     "date": "2026-10-29T15:24:22Z"
+    },
     {
      "id": "ZVeVo1wkm1w",
      "title": "Prête à tout pour retrouver son mari | Cheikh Abd ar-Razzaq al-Badr",
@@ -121,105 +126,6 @@
      "id": "MLdc-DW48hY",
      "title": "Prières manquées : pouvons-nous les rattraper ? | Cheikh Ibn ʿUthaymîn",
      "date": "2026-10-25T21:21:30Z"
-    },
-    {
-     "id": "CSpCysbAUVc",
-     "title": "Un HADITH absolument MAGNIFIQUE | Cheikh ʿAbd ar-Razzâq Al-Badr",
-     "date": "2026-10-25T14:40:29Z"
-    },
-    {
-     "id": "xQoUefOjaQI",
-     "title": "Un DJINN BOUDDHISTE se convertit à l'ISLAM devant le Cheikh Ibn Bāz ! Récit étonnant",
-     "date": "2026-10-25T13:34:13Z"
-    },
-    {
-     "id": "xPl50kEVReU",
-     "title": "Le Cheikh Al-Albânî fond EN LARMES face aux éloges d'un étudiant ! Un rappel émouvant",
-     "date": "2026-10-25T13:09:22Z"
-    },
-    {
-     "id": "GeVomNpl8l4",
-     "title": "Manger ou boire debout en Islam : PERMIS ou INTERDIT ? | Cheikh Al-Albânî",
-     "date": "2026-10-24T20:06:08Z"
-    },
-    {
-     "id": "35k65JAJHmo",
-     "title": "Il OUBLIE de clôturer par le SALÂM… Le Cheikh Al-Albânî lui rappelle les REGLES de la SUNNA !",
-     "date": "2026-10-24T19:29:29Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "gKXNKPxePX0",
-     "title": "2- La purification",
-     "date": "2026-10-28T17:00:07Z"
-    },
-    {
-     "id": "gsfgzDnHVrQ",
-     "title": "1- Manhaj As-Salikin",
-     "date": "2026-10-27T17:00:36Z"
-    },
-    {
-     "id": "00QPktmBnkI",
-     "title": "Le travail et l'étude des sciences religieuses - Cheikh Abou Hazim #islam",
-     "date": "2026-10-27T07:11:11Z"
-    },
-    {
-     "id": "KexTq0vHkSk",
-     "title": "5 - Explication de la sourate Al kahf",
-     "date": "2026-10-25T13:45:02Z"
-    }
-   ]
-  },
-  {
-   "handle": "islam_les_sentiers_du_savoir",
-   "title": "Islam Les Sentiers du Savoir",
-   "videos": [
-    {
-     "id": "g1IJj10IiWI",
-     "title": "SI UN PIED N'EST PAS EN CONTACT DU SOL DURANT LE SOUJOUD (CH OTHEYMINE)",
-     "date": "2026-10-28T16:54:55Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "shyDuNNeuKQ",
-     "title": "Les causes font partie du Tawakkoul 🎙️ Salman Bassa",
-     "date": "2026-10-28T11:57:52Z"
-    },
-    {
-     "id": "gTEYYLlPdyU",
-     "title": "Ils ont modifié le matn! 🎙️ Salman Bassa",
-     "date": "2026-10-27T11:12:34Z"
-    },
-    {
-     "id": "-xuTnxgxRSk",
-     "title": "Le jugement de la peur des djinn 🎙️ Salman Bassa",
-     "date": "2026-10-26T06:45:43Z"
-    },
-    {
-     "id": "8vY2vw6lrWU",
-     "title": "Les quatre catégories de peur 🎙️ Salman Bassa",
-     "date": "2026-10-25T11:15:22Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "if55vqbZ-Rg",
-     "title": "🎥 Al-Adab Al-Mufrad #242 - Noirs de jalousie",
-     "date": "2026-10-27T15:00:10Z"
     }
    ]
   },
@@ -227,6 +133,21 @@
    "handle": "Abdullahalalbani",
    "title": "Abdullah Al Albani",
    "videos": [
+    {
+     "id": "xaoWx9WXXWk",
+     "title": "09 - Fiqh simplifié - Abdullah Al Albani",
+     "date": "2026-10-29T11:21:16Z"
+    },
+    {
+     "id": "UP6-OfGcg0g",
+     "title": "12 - Les 40 Nawawi - Abdullah Al Albani",
+     "date": "2026-10-29T10:40:36Z"
+    },
+    {
+     "id": "MLStLtOmcos",
+     "title": "Fouiller dans le téléphone du conjoint | Abdullah Al Albani",
+     "date": "2026-10-29T06:39:39Z"
+    },
     {
      "id": "M_PqyZogOQc",
      "title": "Sois bon avec ton épouse | Abdullah al Albani",
@@ -241,6 +162,85 @@
      "id": "L6DWFl9uQyg",
      "title": "Maintiens les liens de parenté, même si eux les rompent | Abdullah al Albani",
      "date": "2026-10-26T07:25:35Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "-bwxGjrw1SQ",
+     "title": "Qui sont Āl al-Bayt? 🎙️ Salman Bassa",
+     "date": "2026-10-29T07:06:37Z"
+    },
+    {
+     "id": "shyDuNNeuKQ",
+     "title": "Les causes font partie du Tawakkoul 🎙️ Salman Bassa",
+     "date": "2026-10-28T11:57:52Z"
+    },
+    {
+     "id": "gTEYYLlPdyU",
+     "title": "Ils ont modifié le matn! 🎙️ Salman Bassa",
+     "date": "2026-10-27T11:12:34Z"
+    },
+    {
+     "id": "-xuTnxgxRSk",
+     "title": "Le jugement de la peur des djinn 🎙️ Salman Bassa",
+     "date": "2026-10-26T06:45:43Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "Qx-gtkRsXPM",
+     "title": "Les derniers instants de l'imam Muslim : une leçon bouleversante",
+     "date": "2026-10-28T19:41:12Z"
+    },
+    {
+     "id": "S62cp-HMuIE",
+     "title": "Aqîqah : pourquoi 2 moutons pour un garçon et 1 pour une fille ?",
+     "date": "2026-10-28T18:13:51Z"
+    },
+    {
+     "id": "uHCZCLzWbFs",
+     "title": "Le jour où la lave a menacé la ville de Médine !",
+     "date": "2026-10-28T16:14:30Z"
+    },
+    {
+     "id": "NIK-x_EChgw",
+     "title": "Halloween : ce n’est pas qu’une histoire de bonbons…",
+     "date": "2026-10-27T15:51:01Z"
+    },
+    {
+     "id": "ebFojWcRjiM",
+     "title": "La Mecque : 100 ans de prière derrière un seul imam !",
+     "date": "2026-10-26T18:58:00Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "OGzwVWktzbM",
+     "title": "🎙️Quand ta demande de pardon a elle-même besoin de pardon ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-28T18:57:47Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "if55vqbZ-Rg",
+     "title": "🎥 Al-Adab Al-Mufrad #242 - Noirs de jalousie",
+     "date": "2026-10-27T15:00:10Z"
     }
    ]
   },
