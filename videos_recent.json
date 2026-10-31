@@ -1,14 +1,221 @@
 {
- "generated_at": "2026-10-30T23:04:22+00:00",
+ "generated_at": "2026-10-31T22:38:46+00:00",
  "channels": [
+  {
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
+   "videos": [
+    {
+     "id": "_hXgeURlTtY",
+     "title": "40- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee'",
+     "date": "2026-10-31T20:40:27Z"
+    },
+    {
+     "id": "2eZh7kjP04k",
+     "title": "47- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-30T19:18:57Z"
+    },
+    {
+     "id": "mrKLg4s2k6A",
+     "title": "42- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
+     "date": "2026-10-30T19:13:45Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "_FNw7sYVh24",
+     "title": "🎙️La possession par les djinns existe-t-elle ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-31T19:55:46Z"
+    },
+    {
+     "id": "OGzwVWktzbM",
+     "title": "🎙️Quand ta demande de pardon a elle-même besoin de pardon ! Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-10-28T18:57:47Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "Kk6accScOiU",
+     "title": "5- L’essuyage des chaussons et le grand lavage",
+     "date": "2026-10-31T17:00:23Z"
+    },
+    {
+     "id": "6H_NFfLv1f0",
+     "title": "4- Les impuretés",
+     "date": "2026-10-30T17:00:30Z"
+    },
+    {
+     "id": "mXlan6ro2nA",
+     "title": "3- Les règles de bienséance à observer aux toilettes",
+     "date": "2026-10-29T17:00:40Z"
+    }
+   ]
+  },
+  {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "ZG0lB6LDFps",
+     "title": "3 fondements",
+     "date": "2026-10-31T16:57:35Z"
+    },
+    {
+     "id": "F4KFv78G4Uc",
+     "title": "Les 3 fondements : La connaissance de l'islam avec ses preuves",
+     "date": "2026-10-31T16:16:26Z"
+    },
+    {
+     "id": "ovH4svd9FOc",
+     "title": "Les 3 fondements : La connaissance de l'islam avc ses preuves",
+     "date": "2026-10-31T16:12:21Z"
+    },
+    {
+     "id": "ccuOBY_tm4o",
+     "title": "Ma fille est un peu trop dure - Sheykh 'Aziz Farihan Al-'Anazi",
+     "date": "2026-10-31T08:21:14Z"
+    },
+    {
+     "id": "xaoWx9WXXWk",
+     "title": "09 - Fiqh simplifié - Abdullah Al Albani",
+     "date": "2026-10-29T11:21:16Z"
+    },
+    {
+     "id": "UP6-OfGcg0g",
+     "title": "12 - Les 40 Nawawi - Abdullah Al Albani",
+     "date": "2026-10-29T10:40:36Z"
+    },
+    {
+     "id": "MLStLtOmcos",
+     "title": "Fouiller dans le téléphone du conjoint | Abdullah Al Albani",
+     "date": "2026-10-29T06:39:39Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "A6jYK-iUyxw",
+     "title": "‘Aqîqa : pourquoi pèse-t-on les cheveux du bébé ?",
+     "date": "2026-10-31T15:22:51Z"
+    },
+    {
+     "id": "fY5S1QM69PM",
+     "title": "Quand Allah te donne tout… alors que tu Lui désobéis",
+     "date": "2026-10-30T19:44:07Z"
+    },
+    {
+     "id": "Qx-gtkRsXPM",
+     "title": "Les derniers instants de l'imam Muslim : une leçon bouleversante",
+     "date": "2026-10-28T19:41:12Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "nHUGmLJZtCU",
+     "title": "🎥 Kitab At-Tawhid #178 - Que signifie le nom d’Allah « Ar-Rabb » ?",
+     "date": "2026-10-31T15:00:07Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "HA8lepNaqd0",
+     "title": "Quand le tawakkoul relève-t-il du shirk? 🎙️ Salman Bassa",
+     "date": "2026-10-31T13:33:26Z"
+    },
+    {
+     "id": "pydwd1C3nH0",
+     "title": "Si tu recevais une lettre du gouverneur 🎙️ du Cheikh ʿAbd ar-Razzāq al-Badr حفظه الله",
+     "date": "2026-10-30T13:30:06Z"
+    },
+    {
+     "id": "-bwxGjrw1SQ",
+     "title": "Qui sont Āl al-Bayt? 🎙️ Salman Bassa",
+     "date": "2026-10-29T07:06:37Z"
+    }
+   ]
+  },
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
     {
-     "id": "iqfUpiCtINg",
-     "title": "Connais-tu le sens de cette parole ? | Cheikh Raslan",
-     "date": "2026-10-30T21:58:46Z"
+     "id": "QBmuMHc2sqE",
+     "title": "Invocation contre la tristesse 🤲 L'invocation de Yûnus عليه السلام #shorts  #ghuraba  #islam",
+     "date": "2026-10-31T13:17:30Z"
+    },
+    {
+     "id": "qw7X9WAEmBY",
+     "title": "Comment peut-on s'égarer en apprenant le Coran ? | Cheikh ʿAbd ar-Razzāq al-Badr",
+     "date": "2026-10-31T13:06:21Z"
+    },
+    {
+     "id": "YqnfIGtV38A",
+     "title": "Après 6 ans sans enfant, il voulait la divorcer mais ce simple rappel a tout changé",
+     "date": "2026-10-31T10:48:52Z"
+    },
+    {
+     "id": "_kQxXyOSVqM",
+     "title": "Triste ou angoissé ? Cette invocation du Prophète ﷺ 🤲 #shorts #tristesse   #invocation",
+     "date": "2026-10-31T10:23:32Z"
+    },
+    {
+     "id": "94cLreya_d8",
+     "title": "Triste ou éprouvé ? Cette invocation du Prophète ﷺ 🤲 #shorts  #triste",
+     "date": "2026-10-31T10:01:14Z"
+    },
+    {
+     "id": "xrk2jGyXZaE",
+     "title": "Cette invocation contre les dettes et les soucis 🤲 #shorts  #invocation  #sunna",
+     "date": "2026-10-31T09:54:43Z"
+    },
+    {
+     "id": "ytAmFh9VE8Q",
+     "title": "Endetté ? Cette invocation du Prophète ﷺ est pour toi 🤲 #shorts  #ghuraba  #invocation",
+     "date": "2026-10-31T09:48:47Z"
+    },
+    {
+     "id": "EYqbgyKsEYA",
+     "title": "Contre les péchés et la dette : cette invocation du Prophète ﷺ 🤲 #shorts  #invocation  #dettes",
+     "date": "2026-10-31T09:38:23Z"
+    },
+    {
+     "id": "lKhTLSgmHDE",
+     "title": "4 choses que le Prophète ﷺ demandait à Allah 🤲 #shorts  #ghuraba #rappelislamique",
+     "date": "2026-10-31T09:31:27Z"
+    },
+    {
+     "id": "0H6wNUHNgVg",
+     "title": "Cette invocation que le Prophète ﷺ répétait 100 fois ! 🤲 #shorts  #ghuraba #rappelislamique",
+     "date": "2026-10-31T09:21:26Z"
+    },
+    {
+     "id": "Xep-YuivPaY",
+     "title": "Comment préserver sa LIBIDO et son DÉSIR ? | Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-10-31T08:44:07Z"
+    },
+    {
+     "id": "vJAbl3OsFjU",
+     "title": "TU DIS « LÂ ILÂHA ILLÂ ALLAH »… MAIS EN CONNAIS-TU VRAIMENT LE SENS ?",
+     "date": "2026-10-31T07:00:39Z"
     },
     {
      "id": "-_qs_EVK-TY",
@@ -34,155 +241,6 @@
      "id": "ZVeVo1wkm1w",
      "title": "Prête à tout pour retrouver son mari | Cheikh Abd ar-Razzaq al-Badr",
      "date": "2026-10-28T18:30:16Z"
-    },
-    {
-     "id": "9l0KkwZVT8I",
-     "title": "IL CROYAIT AVOIR VU LE PROPHÈTE ﷺ EN RÊVE… MAIS ! | Cheikh Abd ar-Razzaq Al-Badr",
-     "date": "2026-10-28T17:41:54Z"
-    },
-    {
-     "id": "p5h0bBCFmS0",
-     "title": "LA PRIÈRE TE SEMBLE LOURDE ? VOICI CE QUI LA FACILITE ! | Cheikh 'Abd ar-Razzaq Al-Badr",
-     "date": "2026-10-28T16:07:21Z"
-    },
-    {
-     "id": "qQJ_Rjt-J3I",
-     "title": "SORCELLERIE : COMMENT S’EN PROTÉGER ET S’EN LIBÉRER ? | Cheikh Abd ar-Razzaq Al-Badr",
-     "date": "2026-10-28T14:14:30Z"
-    },
-    {
-     "id": "GJwsXVJmLAY",
-     "title": "PORNOGRAPHIE : COMMENT S’EN DÉBARRASSER ? | Cheikh Soulaymâne ar-Rouhaylî",
-     "date": "2026-10-28T11:45:11Z"
-    },
-    {
-     "id": "VM8PrSLE3AQ",
-     "title": "LES CHIITES SONT-ILS TOUS MÉCRÉANTS ? | Cheikh Al-Albânî",
-     "date": "2026-10-28T11:06:57Z"
-    },
-    {
-     "id": "33uR2H0hdVQ",
-     "title": "Tu veux que tes invocations soient exaucées ? Utilise ce NOM ! Cheikh Abd Ar-Razzaq Al-Badr",
-     "date": "2026-10-28T10:11:37Z"
-    },
-    {
-     "id": "ScJhLXf48v4",
-     "title": "MUSULMAN : AS-TU CES 3 OBJECTIFS CHAQUE JOUR ? | Cheikh 'Abd ar-Razzaq al-Badr",
-     "date": "2026-10-28T06:19:51Z"
-    },
-    {
-     "id": "HhhL9CZ4GhU",
-     "title": "D'où nous vient cette maladie ? | Cheikh Aziz Farhan Al-Anizi",
-     "date": "2026-10-27T07:00:32Z"
-    },
-    {
-     "id": "qL5m_dMGVMA",
-     "title": "Un poème de Ibn Rajab - Lataif al-Maarif",
-     "date": "2026-10-26T22:12:55Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "fY5S1QM69PM",
-     "title": "Quand Allah te donne tout… alors que tu Lui désobéis",
-     "date": "2026-10-30T19:44:07Z"
-    },
-    {
-     "id": "Qx-gtkRsXPM",
-     "title": "Les derniers instants de l'imam Muslim : une leçon bouleversante",
-     "date": "2026-10-28T19:41:12Z"
-    },
-    {
-     "id": "S62cp-HMuIE",
-     "title": "Aqîqah : pourquoi 2 moutons pour un garçon et 1 pour une fille ?",
-     "date": "2026-10-28T18:13:51Z"
-    },
-    {
-     "id": "uHCZCLzWbFs",
-     "title": "Le jour où la lave a menacé la ville de Médine !",
-     "date": "2026-10-28T16:14:30Z"
-    },
-    {
-     "id": "NIK-x_EChgw",
-     "title": "Halloween : ce n’est pas qu’une histoire de bonbons…",
-     "date": "2026-10-27T15:51:01Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "2eZh7kjP04k",
-     "title": "47- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-30T19:18:57Z"
-    },
-    {
-     "id": "mrKLg4s2k6A",
-     "title": "42- Annotation au recueil de l'imam Al-nawawi par le cheikh Ibn 'Outhaymin",
-     "date": "2026-10-30T19:13:45Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "6H_NFfLv1f0",
-     "title": "4- Les impuretés",
-     "date": "2026-10-30T17:00:30Z"
-    },
-    {
-     "id": "mXlan6ro2nA",
-     "title": "3- Les règles de bienséance à observer aux toilettes",
-     "date": "2026-10-29T17:00:40Z"
-    },
-    {
-     "id": "gKXNKPxePX0",
-     "title": "2- La purification",
-     "date": "2026-10-28T17:00:07Z"
-    },
-    {
-     "id": "gsfgzDnHVrQ",
-     "title": "1- Manhaj As-Salikin",
-     "date": "2026-10-27T17:00:36Z"
-    },
-    {
-     "id": "00QPktmBnkI",
-     "title": "Le travail et l'étude des sciences religieuses - Cheikh Abou Hazim #islam",
-     "date": "2026-10-27T07:11:11Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "pydwd1C3nH0",
-     "title": "Si tu recevais une lettre du gouverneur 🎙️ du Cheikh ʿAbd ar-Razzāq al-Badr حفظه الله",
-     "date": "2026-10-30T13:30:06Z"
-    },
-    {
-     "id": "-bwxGjrw1SQ",
-     "title": "Qui sont Āl al-Bayt? 🎙️ Salman Bassa",
-     "date": "2026-10-29T07:06:37Z"
-    },
-    {
-     "id": "shyDuNNeuKQ",
-     "title": "Les causes font partie du Tawakkoul 🎙️ Salman Bassa",
-     "date": "2026-10-28T11:57:52Z"
-    },
-    {
-     "id": "gTEYYLlPdyU",
-     "title": "Ils ont modifié le matn! 🎙️ Salman Bassa",
-     "date": "2026-10-27T11:12:34Z"
     }
    ]
   },
@@ -194,64 +252,6 @@
      "id": "4TN2CpEBOuk",
      "title": "CRAINS ALLAH ET N'ÉCOUTE PAS LES INNOVATEURS (CH AN-NAJMI)",
      "date": "2026-10-29T20:41:40Z"
-    },
-    {
-     "id": "g1IJj10IiWI",
-     "title": "SI UN PIED N'EST PAS EN CONTACT DU SOL DURANT LE SOUJOUD (CH OTHEYMINE)",
-     "date": "2026-10-28T16:54:55Z"
-    }
-   ]
-  },
-  {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "xaoWx9WXXWk",
-     "title": "09 - Fiqh simplifié - Abdullah Al Albani",
-     "date": "2026-10-29T11:21:16Z"
-    },
-    {
-     "id": "UP6-OfGcg0g",
-     "title": "12 - Les 40 Nawawi - Abdullah Al Albani",
-     "date": "2026-10-29T10:40:36Z"
-    },
-    {
-     "id": "MLStLtOmcos",
-     "title": "Fouiller dans le téléphone du conjoint | Abdullah Al Albani",
-     "date": "2026-10-29T06:39:39Z"
-    },
-    {
-     "id": "M_PqyZogOQc",
-     "title": "Sois bon avec ton épouse | Abdullah al Albani",
-     "date": "2026-10-27T11:30:15Z"
-    },
-    {
-     "id": "kTQ7D278Ja8",
-     "title": "Parmi les signes du cœur sain : ressentir une douleur lorsqu'on manque une obligation",
-     "date": "2026-10-27T07:25:00Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "OGzwVWktzbM",
-     "title": "🎙️Quand ta demande de pardon a elle-même besoin de pardon ! Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-28T18:57:47Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "if55vqbZ-Rg",
-     "title": "🎥 Al-Adab Al-Mufrad #242 - Noirs de jalousie",
-     "date": "2026-10-27T15:00:10Z"
     }
    ]
   }
