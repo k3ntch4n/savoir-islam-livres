@@ -1,59 +1,40 @@
-name: Collecte du soir (nouvelles vidéos)
+name: Collecte quotidienne (nouvelles vidéos)
 
-# 20h30 heure de Paris, toute l'année. Le cron GitHub est en UTC : on programme
-# 18h30 ET 19h30 UTC, et seul le passage qui tombe à 20h30 à Paris (18h30 l'été,
-# 19h30 l'hiver) fait le travail -> une seule collecte, une notification max par
-# jour. Envoie aussi la file d'attente des ajouts poussés entre 12h et 18h.
+# Un seul passage par jour : collecte, notification (une max par jour) et envoi
+# de la file d'attente. Le cron GitHub prend souvent plusieurs heures de retard
+# (constaté : environ 8 h à cette heure-là). 6h UTC = 7h à Paris l'hiver, 8h
+# l'été : même à l'heure, pas de notification la nuit.
 on:
   schedule:
-    - cron: "30 18 * * *"
-    - cron: "30 19 * * *"
+    - cron: "0 6 * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: evening-recent
+  group: daily-recent
   cancel-in-progress: false
 
 jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
-      - name: Bon créneau pour 20h30 à Paris ?
-        id: slot
-        run: |
-          offset=$(TZ=Europe/Paris date +%z)   # +0200 l'été, +0100 l'hiver
-          wanted="30 18 * * *"
-          [ "$offset" = "+0100" ] && wanted="30 19 * * *"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] \
-             || [ "${{ github.event.schedule }}" = "$wanted" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "Pas le bon créneau (heure d'été/hiver) : on passe."
-          fi
-
       - uses: actions/checkout@v4
-        if: steps.slot.outputs.run == 'true'
 
       - uses: actions/setup-python@v5
-        if: steps.slot.outputs.run == 'true'
         with:
           python-version: "3.12"
 
       - name: Dépendances
-        if: steps.slot.outputs.run == 'true'
         run: pip install --quiet google-api-python-client google-auth requests
 
       - name: Collecter les dernières vidéos
-        if: steps.slot.outputs.run == 'true'
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: python3 collect_recent.py
 
       - name: Committer videos_recent.json
-        if: steps.slot.outputs.run == 'true'
         run: |
           git add videos_recent.json
           if git diff --cached --quiet; then
@@ -62,14 +43,13 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "actu: nouvelles vidéos du soir"
+          git commit -m "actu: nouvelles vidéos du jour"
           git pull --rebase
           git push
 
       # Après publication : attente du cache GitHub (5 min) puis envoi, pour
       # que l'app récupère bien la nouvelle liste quand on touche la notif.
       - name: Notifier si nouvelles vidéos
-        if: steps.slot.outputs.run == 'true'
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           NOTIFY_DELAY: "300"
@@ -78,7 +58,6 @@ jobs:
       # Ajouts de contenu poussés hors créneau (voir notify.py) : envoyés
       # maintenant, puis la file vidée est committée.
       - name: Envoyer la file d'attente
-        if: steps.slot.outputs.run == 'true'
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |

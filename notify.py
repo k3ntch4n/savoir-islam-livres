@@ -14,7 +14,7 @@ avec la nouvelle et ne notifie que les AJOUTS :
 Ne notifie PAS : les retraits, corrections de texte, réordonnancements, ni
 la vidéo « à la une » du jour (bloc `featured`, changé chaque matin par
 pick_featured.py — on ne veut pas une notification par jour). Les nouvelles
-vidéos des chaînes sont annoncées par la collecte du soir (collect_recent.py,
+vidéos des chaînes sont annoncées par la collecte quotidienne (collect_recent.py,
 qui réutilise send_all ci-dessous).
 
 Envoi via Firebase Cloud Messaging (API HTTP v1) au topic « nouveautes »,
@@ -25,8 +25,8 @@ qui serait envoyé, n'envoie rien).
 
 Créneaux d'envoi : uniquement 8h-12h et 18h-22h (heure de Paris). Un ajout
 poussé hors créneau est mis en file d'attente dans QUEUE (fichier commité),
-envoyée par --send-queued : à 8h30 (morning-queue.yml) et avec la collecte de
-20h30 (evening-recent.yml). --now force l'envoi immédiat.
+envoyée par --send-queued avec la collecte quotidienne
+(daily-recent.yml). --now force l'envoi immédiat.
 
 Usage : python3 notify.py <sha_avant> <sha_apres> [--dry-run] [--now]
         python3 notify.py --send-pending <fichier.json>

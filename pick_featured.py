@@ -65,7 +65,7 @@ def pick_for_today(candidates: list[dict]) -> dict:
 
 
 def main() -> None:
-    # Priorité aux vidéos récentes (collecte du soir), repli sur le catalogue.
+    # Priorité aux vidéos récentes (collecte quotidienne), repli sur le catalogue.
     candidates = [c for c in load_candidates(RECENT, None) if c["title"]]
     if not candidates:
         candidates = [
