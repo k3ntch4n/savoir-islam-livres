@@ -46,6 +46,7 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |
           python3 notify.py --send-queued
+          [ -e queued_notifications.json ] || git ls-files --error-unmatch queued_notifications.json >/dev/null 2>&1 || exit 0  # file vide : rien à committer
           git add -A queued_notifications.json
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
