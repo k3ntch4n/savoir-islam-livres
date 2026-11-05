@@ -1,7 +1,7 @@
 name: Collecte quotidienne (nouvelles vidéos)
 
-# Un seul passage par jour : collecte, notification (une max par jour) et envoi
-# de la file d'attente. Le cron GitHub prend souvent plusieurs heures de retard
+# Un seul passage par jour : collecte et notification (une max par jour). Le
+# cron GitHub prend souvent plusieurs heures de retard
 # (constaté : environ 8 h à cette heure-là). 6h UTC = 7h à Paris l'hiver, 8h
 # l'été : même à l'heure, pas de notification la nuit.
 on:
@@ -54,19 +54,3 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           NOTIFY_DELAY: "300"
         run: python3 notify.py --send-pending pending_notification.json
-
-      # Ajouts de contenu poussés hors créneau (voir notify.py) : envoyés
-      # maintenant, puis la file vidée est committée.
-      - name: Envoyer la file d'attente
-        env:
-          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-        run: |
-          python3 notify.py --send-queued
-          [ -e queued_notifications.json ] || git ls-files --error-unmatch queued_notifications.json >/dev/null 2>&1 || exit 0  # file vide : rien à committer
-          git add -A queued_notifications.json
-          if git diff --cached --quiet; then exit 0; fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "notif: file d'attente envoyée"
-          git pull --rebase
-          git push
