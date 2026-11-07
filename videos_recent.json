@@ -1,73 +1,25 @@
 {
- "generated_at": "2026-11-06T13:53:43+00:00",
+ "generated_at": "2026-11-07T12:37:43+00:00",
  "channels": [
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "PE5edOl-E7U",
-     "title": "Appelle ton fils ainsi 🎙️ Salman Bassa",
-     "date": "2026-11-05T19:15:09Z"
-    },
-    {
-     "id": "WHpN_GshI4Y",
-     "title": "À qui doit prêter allégeance le mouslim vivant en pays mécréant? 🎙️ Salman Bassa",
-     "date": "2026-11-02T09:53:04Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "6EgbM2ywwWg",
-     "title": "3- Les repères de la sunnah exposés...de l'érudit Hāfidh Al-hakami",
-     "date": "2026-11-05T18:57:14Z"
-    },
-    {
-     "id": "3tVKvmTZTtU",
-     "title": "2- Les repères de la sunnah exposés...de l'érudit Hāfidh Al-hakami",
-     "date": "2026-11-05T18:51:46Z"
-    },
-    {
-     "id": "7Xn8xPx7qDs",
-     "title": "1- Les repères de la sunnah exposés... de l'érudit Hāfidh Al-hakami",
-     "date": "2026-11-03T20:28:07Z"
-    },
-    {
-     "id": "gPdz2WPfSr0",
-     "title": "48- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
-     "date": "2026-11-02T18:40:19Z"
-    },
-    {
-     "id": "_hXgeURlTtY",
-     "title": "40- L'explication de la sunnah de l'imam Al-barbahari par le cheikh Rabee'",
-     "date": "2026-10-31T20:40:27Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "m9X_CtdFtcI",
-     "title": "L’ISLAM, BOUC ÉMISSAIRE DE LA DÉMOCRATIE ?",
-     "date": "2026-11-05T18:13:07Z"
-    },
-    {
-     "id": "k3HemqI5EaI",
-     "title": "L'AFFAIRE DE TRAPPES : CE QU'ON NE VOUS DIT PAS ! La Citadelle de la Foi",
-     "date": "2026-11-02T15:06:08Z"
-    }
-   ]
-  },
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "ovnWPi62BxQ",
+     "title": "Une seule épouse est-elle préférable ? L'avis des savants | Cheikh ʿAbd as-Salām ash-Shuwayʿir",
+     "date": "2026-11-07T10:15:28Z"
+    },
+    {
+     "id": "oBMe1WQYGoo",
+     "title": "Les 2 objectifs de la prière de consultation (Istikhâra) | Cheikh ʿAbd as-Salâm ash-Shuwayʿir",
+     "date": "2026-11-07T05:00:09Z"
+    },
+    {
+     "id": "0SjY37WsAv0",
+     "title": "Le péché que Satan veut te faire commettre ! | Cheikh ʿAbd ar-Razzāq al-Badr",
+     "date": "2026-11-06T14:25:04Z"
+    },
     {
      "id": "8UIkTwbtoBM",
      "title": "Pourquoi toutes ces GALÈRES ? Cheikh 'Abd ar-Razzaq al-Badr  #mauvaisoeil  #sorcellerie  #islam",
@@ -116,9 +68,55 @@
    ]
   },
   {
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
+   "videos": [
+    {
+     "id": "-gf4cM4Ios4",
+     "title": "6- Les repères de la sunnah exposés...du cheikh Al-hafidh Al-hakami",
+     "date": "2026-11-07T05:27:46Z"
+    },
+    {
+     "id": "guSYRC73Ly8",
+     "title": "5- Les repères de la sunnah exposés...du cheikh Hāfidh Al-hakami",
+     "date": "2026-11-07T05:15:08Z"
+    },
+    {
+     "id": "tvDHsAlpl9c",
+     "title": "4- Les repères de la sunnah exposés...par l'érudit hāfidh Al-hakami",
+     "date": "2026-11-06T21:11:45Z"
+    },
+    {
+     "id": "6EgbM2ywwWg",
+     "title": "3- Les repères de la sunnah exposés...de l'érudit Hāfidh Al-hakami",
+     "date": "2026-11-05T18:57:14Z"
+    },
+    {
+     "id": "3tVKvmTZTtU",
+     "title": "2- Les repères de la sunnah exposés...de l'érudit Hāfidh Al-hakami",
+     "date": "2026-11-05T18:51:46Z"
+    },
+    {
+     "id": "7Xn8xPx7qDs",
+     "title": "1- Les repères de la sunnah exposés... de l'érudit Hāfidh Al-hakami",
+     "date": "2026-11-03T20:28:07Z"
+    },
+    {
+     "id": "gPdz2WPfSr0",
+     "title": "48- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
+     "date": "2026-11-02T18:40:19Z"
+    }
+   ]
+  },
+  {
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "MdL3rpkMeJU",
+     "title": "11- Les actes qui annulent la prière et les prières surérogatoires",
+     "date": "2026-11-06T17:00:00Z"
+    },
     {
      "id": "w219NeXQNCE",
      "title": "10- La prosternation de la distraction, de la lecture et de la louange",
@@ -143,11 +141,6 @@
      "id": "Z290nT9x_dI",
      "title": "6- Le tayyamun et les menstrues",
      "date": "2026-11-01T17:00:34Z"
-    },
-    {
-     "id": "Kk6accScOiU",
-     "title": "5- L’essuyage des chaussons et le grand lavage",
-     "date": "2026-10-31T17:00:23Z"
     }
    ]
   },
@@ -155,6 +148,11 @@
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "m6OOdtUCmDs",
+     "title": "Et si rester fidèle à ta croyance te coûtait tout ? L’épreuve de l’imam Ahmad ibn Hanbal",
+     "date": "2026-11-06T16:24:50Z"
+    },
     {
      "id": "MQf92epjgOk",
      "title": "Que dire pendant le tawâf ? Ce que beaucoup de pèlerins ignorent !",
@@ -179,11 +177,38 @@
      "id": "0XW1L4F3qJc",
      "title": "Médine : comment ces parasols de 40 tonnes s’ouvrent-ils ?",
      "date": "2026-11-02T17:19:31Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "PE5edOl-E7U",
+     "title": "Appelle ton fils ainsi 🎙️ Salman Bassa",
+     "date": "2026-11-05T19:15:09Z"
     },
     {
-     "id": "rb1xQkgl0LM",
-     "title": "Perdre ses ablutions pendant le tawaf : faut-il tout recommencer ?",
-     "date": "2026-11-01T13:35:31Z"
+     "id": "WHpN_GshI4Y",
+     "title": "À qui doit prêter allégeance le mouslim vivant en pays mécréant? 🎙️ Salman Bassa",
+     "date": "2026-11-02T09:53:04Z"
+    }
+   ]
+  },
+  {
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
+   "videos": [
+    {
+     "id": "m9X_CtdFtcI",
+     "title": "L’ISLAM, BOUC ÉMISSAIRE DE LA DÉMOCRATIE ?",
+     "date": "2026-11-05T18:13:07Z"
+    },
+    {
+     "id": "k3HemqI5EaI",
+     "title": "L'AFFAIRE DE TRAPPES : CE QU'ON NE VOUS DIT PAS ! La Citadelle de la Foi",
+     "date": "2026-11-02T15:06:08Z"
     }
    ]
   },
@@ -191,16 +216,6 @@
    "handle": "Abdullahalalbani",
    "title": "Abdullah Al Albani",
    "videos": [
-    {
-     "id": "YBchNBmsOE8",
-     "title": "40 Hadith",
-     "date": "2026-11-05T10:17:08Z"
-    },
-    {
-     "id": "PXuUL9HbIgM",
-     "title": "Les 40 Nawawis - Hadith 10",
-     "date": "2026-11-04T20:36:37Z"
-    },
     {
      "id": "crNlMHRBeCA",
      "title": "10 - Fiqh simplifié - Abdullah Al Albani",
@@ -220,11 +235,6 @@
      "id": "DEQyM-lw6Cg",
      "title": "L'importance de l'étude du livre \" les 3 fondements \" | Abdullah al Albani",
      "date": "2026-11-03T07:15:26Z"
-    },
-    {
-     "id": "ovH4svd9FOc",
-     "title": "Les 3 fondements : La connaissance de l'islam avc ses preuves",
-     "date": "2026-11-01T06:24:30Z"
     }
    ]
   },
@@ -236,28 +246,6 @@
      "id": "QtLwaE7nOhI",
      "title": "🎥 Les leçons importantes pour toute la communauté #51 - L’invocation de la prière mortuaire (1)",
      "date": "2026-11-03T15:00:36Z"
-    }
-   ]
-  },
-  {
-   "handle": "islam_les_sentiers_du_savoir",
-   "title": "Islam Les Sentiers du Savoir",
-   "videos": [
-    {
-     "id": "YaGy6QwMsig",
-     "title": "ÉTUDIE LES SUJETS IMPORTANTS SÉRIEUSEMENT ET RIGOURESEMENT",
-     "date": "2026-11-01T10:49:11Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "_FNw7sYVh24",
-     "title": "🎙️La possession par les djinns existe-t-elle ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-10-31T19:55:46Z"
     }
    ]
   }
