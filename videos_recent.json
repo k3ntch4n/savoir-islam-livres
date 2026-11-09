@@ -1,10 +1,109 @@
 {
- "generated_at": "2026-11-08T12:54:31+00:00",
+ "generated_at": "2026-11-09T15:29:26+00:00",
  "channels": [
+  {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "xy5Kpzfh9-Q",
+     "title": "11 - Fiqh Simplifié - Abdullah Al Albani",
+     "date": "2026-11-09T14:22:23Z"
+    },
+    {
+     "id": "1j_0g62KVzo",
+     "title": "13 - Les 40 Nawawi - Abdullah Al Albani",
+     "date": "2026-11-09T13:37:35Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "1A82gCwvLT0",
+     "title": "Ils ont fait semblant de manger… et Allah a révélé un verset sur leur geste !",
+     "date": "2026-11-09T11:12:13Z"
+    },
+    {
+     "id": "5DI0zsnd0YA",
+     "title": "Zamzam : comment cette eau coule-t-elle encore après des millénaires ?",
+     "date": "2026-11-08T17:00:55Z"
+    },
+    {
+     "id": "avExfYPShY8",
+     "title": "Un chien honoré par Allah… En raison de ses fréquentations ?",
+     "date": "2026-11-07T17:14:17Z"
+    },
+    {
+     "id": "m6OOdtUCmDs",
+     "title": "Et si rester fidèle à ta croyance te coûtait tout ? L’épreuve de l’imam Ahmad ibn Hanbal",
+     "date": "2026-11-06T16:24:50Z"
+    },
+    {
+     "id": "MQf92epjgOk",
+     "title": "Que dire pendant le tawâf ? Ce que beaucoup de pèlerins ignorent !",
+     "date": "2026-11-05T16:57:17Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "MaICF-d9kSM",
+     "title": "🎙️Tu as oublié la Fatiha : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-08T23:46:12Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "xe9ip5kf2fg",
+     "title": "La tentation des femmes - Mounir Abou Ibrahim",
+     "date": "2026-11-08T20:07:35Z"
+    },
+    {
+     "id": "ejZCLbC3who",
+     "title": "13- La prière collective",
+     "date": "2026-11-08T17:00:36Z"
+    },
+    {
+     "id": "cy-MkNOdg1s",
+     "title": "12- La prière de la demande de la pluie et les temps interdits",
+     "date": "2026-11-07T17:00:28Z"
+    },
+    {
+     "id": "MdL3rpkMeJU",
+     "title": "11- Les actes qui annulent la prière et les prières surérogatoires",
+     "date": "2026-11-06T17:00:00Z"
+    },
+    {
+     "id": "w219NeXQNCE",
+     "title": "10- La prosternation de la distraction, de la lecture et de la louange",
+     "date": "2026-11-05T17:00:04Z"
+    }
+   ]
+  },
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "q1-aWGKWCSU",
+     "title": "Ton épouse a des défauts ? Voici le conseil du Prophète ﷺ | Cheikh ʿAbd as-Salām ash-Shuwayʿir",
+     "date": "2026-11-08T19:30:22Z"
+    },
+    {
+     "id": "Ce9WvcWiPJM",
+     "title": "Réveillé en pleine nuit ? Ces paroles précèdent une invocation exaucée ! | Cheikh ar-Ruḥaylī",
+     "date": "2026-11-08T18:00:21Z"
+    },
     {
      "id": "tGLBaAyGc5s",
      "title": "Prière du voyageur : combien de jours peut-on raccourcir ? | Cheikh al-Fawzān  #sunnah  #voyage",
@@ -64,52 +163,33 @@
      "id": "gJo5_c9kKoY",
      "title": "Ne t'attache pas trop à tes rêves ! | Cheikh Ibn ʿUthaymīn #reves #shaytan #islamicshorts",
      "date": "2026-11-04T22:05:12Z"
-    },
-    {
-     "id": "UHpHEFMZeEc",
-     "title": "Avec qui tu te marieras : est-ce déjà écrit par Allah ? | Cheikh Ibn ʿUthaymīn",
-     "date": "2026-11-03T16:10:35Z"
-    },
-    {
-     "id": "GUt8e3hU9q0",
-     "title": "\"Si ton oreille siffle, c'est que l'on parle de toi\" | Cheikh Aziz Farhan #oreille #islam",
-     "date": "2026-11-03T13:40:29Z"
     }
    ]
   },
   {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
    "videos": [
     {
-     "id": "J8CgccB2lUE",
-     "title": "Les 3 Fondements cours 11",
-     "date": "2026-11-08T05:48:44Z"
+     "id": "WY7tcET-lWw",
+     "title": "Les vertus du Tawhid : Le Tawhid est le but de la création | Chaykh Raslan",
+     "date": "2026-11-08T19:13:51Z"
+    }
+   ]
+  },
+  {
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
+   "videos": [
+    {
+     "id": "HOdsKuCRuiE",
+     "title": "Qui a préparé le terrain à l'attentat du 23 octobre ?",
+     "date": "2026-11-08T15:43:52Z"
     },
     {
-     "id": "qaHxtAfQSYs",
-     "title": "Les 3 fondements cours 10",
-     "date": "2026-11-07T16:30:06Z"
-    },
-    {
-     "id": "ZSGIMzrPSsY",
-     "title": "Les 3 fondements",
-     "date": "2026-11-07T16:26:30Z"
-    },
-    {
-     "id": "crNlMHRBeCA",
-     "title": "10 - Fiqh simplifié - Abdullah Al Albani",
-     "date": "2026-11-04T08:55:28Z"
-    },
-    {
-     "id": "B1kT9vhP-tE",
-     "title": "Le sens de Laa Ilaha Illa Allah | Abdullah al Albani",
-     "date": "2026-11-04T08:49:37Z"
-    },
-    {
-     "id": "MJgs9DAb_n8",
-     "title": "10 - Les trois fondements - Abdullah Al Albani",
-     "date": "2026-11-04T08:26:56Z"
+     "id": "m9X_CtdFtcI",
+     "title": "L’ISLAM, BOUC ÉMISSAIRE DE LA DÉMOCRATIE ?",
+     "date": "2026-11-05T18:13:07Z"
     }
    ]
   },
@@ -117,6 +197,16 @@
    "handle": "salmanbassa",
    "title": "Salman Bassa (da'wah salafiyyah)",
    "videos": [
+    {
+     "id": "0OnT1eo6GBw",
+     "title": "Réfutation de Mohamed Nadhir ( Dinulqayyima ) 2/2",
+     "date": "2026-11-08T13:41:53Z"
+    },
+    {
+     "id": "qZBWLK7RDTw",
+     "title": "Réfutation de Mohamed Nadhir ( Dinulqayyima ) 1/2",
+     "date": "2026-11-08T13:32:17Z"
+    },
     {
      "id": "INEXB8kikPE",
      "title": "Le meilleur prophète après Mouḥammad ﷺ 🎙️ Salman Bassa",
@@ -130,63 +220,6 @@
    ]
   },
   {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "avExfYPShY8",
-     "title": "Un chien honoré par Allah… En raison de ses fréquentations ?",
-     "date": "2026-11-07T17:14:17Z"
-    },
-    {
-     "id": "m6OOdtUCmDs",
-     "title": "Et si rester fidèle à ta croyance te coûtait tout ? L’épreuve de l’imam Ahmad ibn Hanbal",
-     "date": "2026-11-06T16:24:50Z"
-    },
-    {
-     "id": "MQf92epjgOk",
-     "title": "Que dire pendant le tawâf ? Ce que beaucoup de pèlerins ignorent !",
-     "date": "2026-11-05T16:57:17Z"
-    },
-    {
-     "id": "WEh4PqrCFG8",
-     "title": "L'appli que tous les pèlerins rêvent d'avoir pendant leur Omra !",
-     "date": "2026-11-03T18:56:08Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "cy-MkNOdg1s",
-     "title": "12- La prière de la demande de la pluie et les temps interdits",
-     "date": "2026-11-07T17:00:28Z"
-    },
-    {
-     "id": "MdL3rpkMeJU",
-     "title": "11- Les actes qui annulent la prière et les prières surérogatoires",
-     "date": "2026-11-06T17:00:00Z"
-    },
-    {
-     "id": "w219NeXQNCE",
-     "title": "10- La prosternation de la distraction, de la lecture et de la louange",
-     "date": "2026-11-05T17:00:04Z"
-    },
-    {
-     "id": "KqJLkHYKaWU",
-     "title": "9- La description de la prière du Prophète  ﷺ",
-     "date": "2026-11-04T17:00:39Z"
-    },
-    {
-     "id": "TMjJx0wqH7A",
-     "title": "8- Suite des conditions de la prière",
-     "date": "2026-11-03T17:00:30Z"
-    }
-   ]
-  },
-  {
    "handle": "lesentierdusalut",
    "title": "Sentier du Salut",
    "videos": [
@@ -194,11 +227,6 @@
      "id": "TAUOtpnkUrk",
      "title": "🎥 Tafsir sourate An-Najm n°22 - Offrir la récompense d’une adoration à quelqu’un ?",
      "date": "2026-11-07T15:00:00Z"
-    },
-    {
-     "id": "QtLwaE7nOhI",
-     "title": "🎥 Les leçons importantes pour toute la communauté #51 - L’invocation de la prière mortuaire (1)",
-     "date": "2026-11-03T15:00:36Z"
     }
    ]
   },
@@ -230,22 +258,6 @@
      "id": "3tVKvmTZTtU",
      "title": "2- Les repères de la sunnah exposés...de l'érudit Hāfidh Al-hakami",
      "date": "2026-11-05T18:51:46Z"
-    },
-    {
-     "id": "7Xn8xPx7qDs",
-     "title": "1- Les repères de la sunnah exposés... de l'érudit Hāfidh Al-hakami",
-     "date": "2026-11-03T20:28:07Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "m9X_CtdFtcI",
-     "title": "L’ISLAM, BOUC ÉMISSAIRE DE LA DÉMOCRATIE ?",
-     "date": "2026-11-05T18:13:07Z"
     }
    ]
   }
