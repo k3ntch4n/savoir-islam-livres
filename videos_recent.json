@@ -1,14 +1,55 @@
 {
- "generated_at": "2026-11-10T14:29:22+00:00",
+ "generated_at": "2026-11-11T13:43:43+00:00",
  "channels": [
   {
-   "handle": "MorjaneAbuDawud",
-   "title": "MorjaneAbuDawud",
+   "handle": "islam_les_sentiers_du_savoir",
+   "title": "Islam Les Sentiers du Savoir",
    "videos": [
     {
-     "id": "wejBUoVIt3I",
-     "title": "🚨 Ne suis pas ces menteurs !🎙️ Cheikh Souleymane Ar-Rouheyli",
-     "date": "2026-11-10T12:33:24Z"
+     "id": "rtwmoZ1uJps",
+     "title": "NE SOIS PAS UNE CAUSE DE DIVISION ENTRE LA FEMME ET SON MARI",
+     "date": "2026-11-11T10:43:34Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "gSS-Ski9Pf4",
+     "title": "Quels livres étudier en premier selon Shaykh Al-Luhaidan",
+     "date": "2026-11-11T10:17:56Z"
+    },
+    {
+     "id": "STLZ60vuCSM",
+     "title": "15- La prière du vendredi et des deux fêtes",
+     "date": "2026-11-10T17:00:04Z"
+    },
+    {
+     "id": "8_lo1ABJpIE",
+     "title": "Rappel concernant la prière en groupe pour les hommes - Majid Abou Al Qassim",
+     "date": "2026-11-09T20:18:29Z"
+    },
+    {
+     "id": "U9oH0p-Teuc",
+     "title": "🎥 Leur adoration est certes vaine s’ils meurent dans cet état - Cheikh Mohamed Aman al Jami #islam",
+     "date": "2026-11-09T18:37:28Z"
+    },
+    {
+     "id": "_AYb16u0acU",
+     "title": "14- Ceux qui sont dispensés de la prière en groupe / la prière du voyageur",
+     "date": "2026-11-09T17:00:20Z"
+    },
+    {
+     "id": "xe9ip5kf2fg",
+     "title": "La tentation des femmes - Mounir Abou Ibrahim",
+     "date": "2026-11-08T20:07:35Z"
+    },
+    {
+     "id": "ejZCLbC3who",
+     "title": "13- La prière collective",
+     "date": "2026-11-08T17:00:36Z"
     }
    ]
   },
@@ -16,6 +57,16 @@
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "GMDTy04Ijj4",
+     "title": "Tu veux du Rizq ? Voici la promesse d’Allah ! | Cheikh Saad Al-Shathri  #rizq  #argent  #shortsvideo",
+     "date": "2026-11-10T22:37:36Z"
+    },
+    {
+     "id": "HtLldGxP5kU",
+     "title": "Comment faire exaucer ses invocations ? | Cheikh Abdus Salam Ash-Shuwayir  #invocation  #douaislam",
+     "date": "2026-11-10T22:30:51Z"
+    },
     {
      "id": "mM59QAXz7JQ",
      "title": "Le repentir en islam efface-t-il les anciens péchés ? | Cheikh Al-Fawzan",
@@ -90,16 +141,44 @@
      "id": "5JJvnYm8bO4",
      "title": "Fin des temps : comment rester ferme face aux épreuves ? | Cheikh Ibn Bâz",
      "date": "2026-11-07T19:30:09Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "bC56E96B3aE",
+     "title": "🎙️Tu as oublié une prosternation : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-10T19:18:50Z"
     },
     {
-     "id": "asy-MUhxbA0",
-     "title": "Respectez la MOSQUEE et les prieurs, attention à ces ODEURS ! | Cheikh ʿAbd ar-Razzāq al-Badr",
-     "date": "2026-11-07T15:30:11Z"
-    },
+     "id": "MaICF-d9kSM",
+     "title": "🎙️Tu as oublié la Fatiha : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-08T23:46:12Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
     {
-     "id": "ovnWPi62BxQ",
-     "title": "Une seule épouse est-elle préférable ? L'avis des savants | Cheikh ʿAbd as-Salām ash-Shuwayʿir",
-     "date": "2026-11-07T10:15:28Z"
+     "id": "hz1fE4y6IMI",
+     "title": "🎥 ‘Umdat al-Ahkam - Cours n°49 - Quelle quantité d’eau pour le ghusl ?",
+     "date": "2026-11-10T15:00:09Z"
+    }
+   ]
+  },
+  {
+   "handle": "MorjaneAbuDawud",
+   "title": "MorjaneAbuDawud",
+   "videos": [
+    {
+     "id": "wejBUoVIt3I",
+     "title": "🚨 Ne suis pas ces menteurs !🎙️ Cheikh Souleymane Ar-Rouheyli",
+     "date": "2026-11-10T12:33:24Z"
     }
    ]
   },
@@ -126,11 +205,6 @@
      "id": "5DI0zsnd0YA",
      "title": "Zamzam : comment cette eau coule-t-elle encore après des millénaires ?",
      "date": "2026-11-08T17:00:55Z"
-    },
-    {
-     "id": "avExfYPShY8",
-     "title": "Un chien honoré par Allah… En raison de ses fréquentations ?",
-     "date": "2026-11-07T17:14:17Z"
     }
    ]
   },
@@ -152,53 +226,6 @@
      "id": "1j_0g62KVzo",
      "title": "13 - Les 40 Nawawi - Abdullah Al Albani",
      "date": "2026-11-09T13:37:35Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "8_lo1ABJpIE",
-     "title": "Rappel concernant la prière en groupe pour les hommes - Majid Abou Al Qassim",
-     "date": "2026-11-09T20:18:29Z"
-    },
-    {
-     "id": "U9oH0p-Teuc",
-     "title": "🎥 Leur adoration est certes vaine s’ils meurent dans cet état - Cheikh Mohamed Aman al Jami #islam",
-     "date": "2026-11-09T18:37:28Z"
-    },
-    {
-     "id": "_AYb16u0acU",
-     "title": "14- Ceux qui sont dispensés de la prière en groupe / la prière du voyageur",
-     "date": "2026-11-09T17:00:20Z"
-    },
-    {
-     "id": "xe9ip5kf2fg",
-     "title": "La tentation des femmes - Mounir Abou Ibrahim",
-     "date": "2026-11-08T20:07:35Z"
-    },
-    {
-     "id": "ejZCLbC3who",
-     "title": "13- La prière collective",
-     "date": "2026-11-08T17:00:36Z"
-    },
-    {
-     "id": "cy-MkNOdg1s",
-     "title": "12- La prière de la demande de la pluie et les temps interdits",
-     "date": "2026-11-07T17:00:28Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "MaICF-d9kSM",
-     "title": "🎙️Tu as oublié la Fatiha : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-08T23:46:12Z"
     }
    ]
   },
@@ -237,33 +264,6 @@
      "id": "qZBWLK7RDTw",
      "title": "Réfutation de Mohamed Nadhir ( Dinulqayyima ) 1/2",
      "date": "2026-11-08T13:32:17Z"
-    },
-    {
-     "id": "INEXB8kikPE",
-     "title": "Le meilleur prophète après Mouḥammad ﷺ 🎙️ Salman Bassa",
-     "date": "2026-11-07T19:18:31Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "TAUOtpnkUrk",
-     "title": "🎥 Tafsir sourate An-Najm n°22 - Offrir la récompense d’une adoration à quelqu’un ?",
-     "date": "2026-11-07T15:00:00Z"
-    }
-   ]
-  },
-  {
-   "handle": "muhammadwora128",
-   "title": "Muhammad Wora",
-   "videos": [
-    {
-     "id": "-gf4cM4Ios4",
-     "title": "6- Les repères de la sunnah exposés...du cheikh Al-hafidh Al-hakami",
-     "date": "2026-11-07T05:27:46Z"
     }
    ]
   }
