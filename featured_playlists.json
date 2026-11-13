@@ -1,0 +1,96 @@
+{
+ "sections": [
+  {
+   "id": "fondements3",
+   "title": "Les 3 fondements",
+   "subtitle": "Ibn Baz · Ibn Outhaymin · Tchalabi…",
+   "icon": "layers",
+   "playlists": [
+    "PLS7IdRJgyBX1uhF4Qi0ZAzQcCh1SmNxPE",
+    "PLWBNdpVpz4y0zNJmItguAKPzO9qfJyv0s",
+    "PLa9-r19BMdWxMdEpxJeUfWhWzgBqUdnmJ",
+    "PLNvxsRxtYePhuaSRgvfeyrkn0xyTzc7BB",
+    "PLMnPZd-nPPbNNqAnmT1MQkjqt5Oe7T2uB"
+   ]
+  },
+  {
+   "id": "regles4",
+   "title": "Les 4 fondements (règles)",
+   "subtitle": "Les quatre règles d’Ibn Abdelwahhab",
+   "icon": "listOrdered",
+   "playlists": [
+    "PLS7IdRJgyBX2qcsrxORFR-zoctEY2z2ht",
+    "PLMnPZd-nPPbP2btZWTqLb0XBebIaKIfES",
+    "PLNvxsRxtYePiLrw2nG04svSBjZO8EAnIV",
+    "PLMnPZd-nPPbNf65xvL4F9OzxSfTkL_Ckh",
+    "PLWBNdpVpz4y2b86AeKhpioNbUKDJNIKnS"
+   ]
+  },
+  {
+   "id": "annulatifs",
+   "title": "Les 10 annulatifs de l’islam",
+   "subtitle": "Nawâqid al-Islâm",
+   "icon": "shieldAlert",
+   "playlists": [
+    "PLa9-r19BMdWzmtlqnft9Y9uvToM5xlr4v",
+    "PLiqP6f_wyVttMI1johLZhb9cNMhyzYywC",
+    "PLWBNdpVpz4y3J_S5mcI73OHkq_MDAvIFn",
+    "PLMnPZd-nPPbMCgJ2EjJKyFu4MPl4AuRLr"
+   ]
+  },
+  {
+   "id": "sira",
+   "title": "Biographie du Prophète ﷺ",
+   "subtitle": "La Sîra",
+   "icon": "bookOpen",
+   "playlists": [
+    "PLa9-r19BMdWzwo2arXJa9C6I_VO6fFO3U",
+    "PLtPJ_VKOkCDdDZOd2ycQWctzlF4-b6-vB",
+    "PLWBNdpVpz4y0YnaqfGx2H1Xo2r_6lA44H",
+    "PL04T7A8Waa2LrbOKHr6F-YYe0CO7BDz-s",
+    "PLMnPZd-nPPbM-whf4ePpZhBK8Va60jR6L",
+    "PLMnPZd-nPPbNJItbQ0Rp2cJipevMciQtw",
+    "PLd1k0s80xtuhOYmHJDu5ixfmxaG2WOWKf",
+    "PLvM0ESMDNWCDhDevjtEpkTImt3Bab5Ea-",
+    "PLa9-r19BMdWyOIQI1xV82saSk7FgEIz3w"
+   ]
+  },
+  {
+   "id": "sunnah",
+   "title": "Les fondements de la Sunnah",
+   "subtitle": "Usûl as-Sunnah de l’imam Ahmad",
+   "icon": "scrollText",
+   "playlists": [
+    "PLWBNdpVpz4y2eeXoVANXMN-8zDVOsdsA5",
+    "PLa9-r19BMdWyhwN0Bt_GozWF29vFtZL8d",
+    "PLMnPZd-nPPbNkbIjdnj8ad59wM6WcSJMY",
+    "PLHxWmPFYQD1w",
+    "PLa9-r19BMdWwFnBF8RnIHtp_V__JvKibJ"
+   ]
+  },
+  {
+   "id": "faq",
+   "title": "Questions fréquentes & fatwas",
+   "subtitle": "Questions / Réponses, fatawa des savants",
+   "icon": "messageCircleQuestion",
+   "playlists": [
+    "PLNvxsRxtYePiYzA19NiKBB6OGhFGWGMOe",
+    "PLWBNdpVpz4y2Zt80a9kmHWwBc1Om1rHri",
+    "PLMnPZd-nPPbNpE1ps7-sT-u5K59n_88nG",
+    "PLMnPZd-nPPbNCaLNVvhQjaxjkE00Ff8la",
+    "PL04T7A8Waa2Lbd7yiPtf0uqmu_Z4EcWBt"
+   ]
+  },
+  {
+   "id": "coran",
+   "title": "Récitation & apprentissage du Coran",
+   "subtitle": "Récitation, tajwid, apprendre le Coran",
+   "icon": "bookMarked",
+   "playlists": [
+    "PL6bVEOiiAccJZRaozUHUwHkhzlNMTMTIG",
+    "PLd1k0s80xtuiiteUs0RKaA1BcgcNrAX3Z",
+    "PLNhIln4m7FaO7tBem9jZpU1rvhCA9c-2e"
+   ]
+  }
+ ]
+}
