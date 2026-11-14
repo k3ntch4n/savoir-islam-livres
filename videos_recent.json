@@ -1,14 +1,41 @@
 {
- "generated_at": "2026-11-13T14:06:10+00:00",
+ "generated_at": "2026-11-14T13:07:43+00:00",
  "channels": [
   {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
+   "handle": "LaCitadelledelaFoi",
+   "title": "La Citadelle de la Foi",
    "videos": [
     {
-     "id": "na-jFShmOVk",
-     "title": "Le Bassin du Prophète ﷺ et la grande Intercession 🎙️ Salman Bassa",
-     "date": "2026-11-13T13:18:18Z"
+     "id": "m1eMR9L_mMQ",
+     "title": "Notre contact télégramme est en biographie",
+     "date": "2026-11-14T12:23:05Z"
+    }
+   ]
+  },
+  {
+   "handle": "sofianibnmoubarak",
+   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
+   "videos": [
+    {
+     "id": "3g7QhfErhV8",
+     "title": "La foi en Allah (partie 2) (Niveau 2 - Cours n°2)",
+     "date": "2026-11-14T09:10:33Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "Qg9voa03BR0",
+     "title": "🎙️Tu as oublié l’inclinaison : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-14T00:34:15Z"
+    },
+    {
+     "id": "bC56E96B3aE",
+     "title": "🎙️Tu as oublié une prosternation : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-10T19:18:50Z"
     }
    ]
   },
@@ -16,6 +43,21 @@
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "ao2AU6yZ6d4",
+     "title": "Pourquoi Ibn Taymiyya ne s'est-il jamais marié ? | Cheikh Ibn Uthaymin",
+     "date": "2026-11-13T21:03:35Z"
+    },
+    {
+     "id": "bbbB1TyhAig",
+     "title": "Dormir avec le coran ?  Cheikh Ibn al-ʿUthaymīn",
+     "date": "2026-11-13T20:55:43Z"
+    },
+    {
+     "id": "Is-1XcDduMY",
+     "title": "Tu as ce qu'ils n'ont pas, remercie donc Ton Seigneur #shorts #shortvideo",
+     "date": "2026-11-13T20:24:27Z"
+    },
     {
      "id": "H-jHMd8reVo",
      "title": "Tu traverses une EPREUVE ? Voici la REPONSE d’Ibn Taymiyya | Cheikh Abd ar-Razzāq al-Badr",
@@ -90,63 +132,6 @@
      "id": "YEmdfHr7lGw",
      "title": "Fermer les yeux pendant la prière : est-ce permis ? | Cheikh Al-Fawzan  #shorts  #shortsislamic",
      "date": "2026-11-09T20:35:46Z"
-    },
-    {
-     "id": "pQnLUjxXpso",
-     "title": "Peut-on retarder sa prière à cause du travail ? | Cheikh Al-Fawzan",
-     "date": "2026-11-09T20:16:29Z"
-    },
-    {
-     "id": "4K0rqEIUfvI",
-     "title": "Passer devant quelqu'un qui prie ? | Cheikh Al-Fawzan  #prière  #salah",
-     "date": "2026-11-09T19:25:51Z"
-    },
-    {
-     "id": "KjO1kD50LMA",
-     "title": "Une invocation EXAUCÉE à 100% | Cheikh ar-Rouhayli  #invocation #islamicshorts #exaucement",
-     "date": "2026-11-09T18:54:36Z"
-    }
-   ]
-  },
-  {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
-   "videos": [
-    {
-     "id": "rC4wA4OBZts",
-     "title": "Qui sont les Chiites ? | Chaykh Raslan",
-     "date": "2026-11-12T20:12:16Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "Fg-6jh4KOBY",
-     "title": "Il est parti 4 fois en Omra avec Omra du Savoir - Témoignage de Rayan",
-     "date": "2026-11-12T19:44:15Z"
-    },
-    {
-     "id": "ZbPJO3w0xRw",
-     "title": "Yahyâ ibn Ma‘în a dépensé toute sa fortune pour une seule chose…",
-     "date": "2026-11-12T15:16:10Z"
-    },
-    {
-     "id": "eK7Csrsqv3M",
-     "title": "Pourquoi l'orange porte-t-elle presque le même nom que le Portugal en arabe ?",
-     "date": "2026-11-12T14:28:34Z"
-    },
-    {
-     "id": "FoWf86wO5c0",
-     "title": "Il dépouillait les voyageurs… puis un verset a changé sa vie | Al-Fudayl ibn ‘Iyâd",
-     "date": "2026-11-10T10:40:50Z"
-    },
-    {
-     "id": "wJQz2UHi0Ic",
-     "title": "Un joli poème pour découvrir la famille du messager d'Allah (paix sur lui)",
-     "date": "2026-11-09T18:08:14Z"
     }
    ]
   },
@@ -154,6 +139,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "Ov6Dm1nsM64",
+     "title": "18- Début du chapitre de la zakat",
+     "date": "2026-11-13T17:00:29Z"
+    },
     {
      "id": "H6OjWJHH6aw",
      "title": "17- Suite du chapitre de l’enterrement et de la janaza",
@@ -173,21 +163,64 @@
      "id": "STLZ60vuCSM",
      "title": "15- La prière du vendredi et des deux fêtes",
      "date": "2026-11-10T17:00:04Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "Q6GoG0lg3ok",
+     "title": "Ton vêtement d’ihram se salit en pleine Omra : que faire ?",
+     "date": "2026-11-13T16:29:40Z"
     },
     {
-     "id": "8_lo1ABJpIE",
-     "title": "Rappel concernant la prière en groupe pour les hommes - Majid Abou Al Qassim",
-     "date": "2026-11-09T20:18:29Z"
+     "id": "JueUY450q58",
+     "title": "Ils pensaient payer leur Hajj… jusqu’à ce qu’il ouvre le coffre - L’histoire d’Ibn al-Mubarak",
+     "date": "2026-11-13T16:01:17Z"
     },
     {
-     "id": "U9oH0p-Teuc",
-     "title": "🎥 Leur adoration est certes vaine s’ils meurent dans cet état - Cheikh Mohamed Aman al Jami #islam",
-     "date": "2026-11-09T18:37:28Z"
+     "id": "Fg-6jh4KOBY",
+     "title": "Il est parti 4 fois en Omra avec Omra du Savoir - Témoignage de Rayan",
+     "date": "2026-11-12T19:44:15Z"
     },
     {
-     "id": "_AYb16u0acU",
-     "title": "14- Ceux qui sont dispensés de la prière en groupe / la prière du voyageur",
-     "date": "2026-11-09T17:00:20Z"
+     "id": "ZbPJO3w0xRw",
+     "title": "Yahyâ ibn Ma‘în a dépensé toute sa fortune pour une seule chose…",
+     "date": "2026-11-12T15:16:10Z"
+    },
+    {
+     "id": "eK7Csrsqv3M",
+     "title": "Pourquoi l'orange porte-t-elle presque le même nom que le Portugal en arabe ?",
+     "date": "2026-11-12T14:28:34Z"
+    },
+    {
+     "id": "FoWf86wO5c0",
+     "title": "Il dépouillait les voyageurs… puis un verset a changé sa vie | Al-Fudayl ibn ‘Iyâd",
+     "date": "2026-11-10T10:40:50Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "na-jFShmOVk",
+     "title": "Le Bassin du Prophète ﷺ et la grande Intercession 🎙️ Salman Bassa",
+     "date": "2026-11-13T13:18:18Z"
+    }
+   ]
+  },
+  {
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
+   "videos": [
+    {
+     "id": "rC4wA4OBZts",
+     "title": "Qui sont les Chiites ? | Chaykh Raslan",
+     "date": "2026-11-12T20:12:16Z"
     }
    ]
   },
@@ -210,17 +243,6 @@
      "id": "rtwmoZ1uJps",
      "title": "NE SOIS PAS UNE CAUSE DE DIVISION ENTRE LA FEMME ET SON MARI",
      "date": "2026-11-11T10:43:34Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "bC56E96B3aE",
-     "title": "🎙️Tu as oublié une prosternation : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-10T19:18:50Z"
     }
    ]
   },
@@ -254,16 +276,6 @@
      "id": "hskeJMCM9qw",
      "title": "11 Les 3 fondements Abdullah Al Albani 1",
      "date": "2026-11-10T06:26:40Z"
-    },
-    {
-     "id": "xy5Kpzfh9-Q",
-     "title": "11 - Fiqh Simplifié - Abdullah Al Albani",
-     "date": "2026-11-09T14:22:23Z"
-    },
-    {
-     "id": "1j_0g62KVzo",
-     "title": "13 - Les 40 Nawawi - Abdullah Al Albani",
-     "date": "2026-11-09T13:37:35Z"
     }
    ]
   }
