@@ -1,6 +1,182 @@
 {
- "generated_at": "2026-11-14T13:07:43+00:00",
+ "generated_at": "2026-11-15T13:36:21+00:00",
  "channels": [
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "v_wGAhqoncg",
+     "title": "Unissez vos cœurs par la vérité ! Cheikh Rabi' Ibn Hadi Al Madkhali #islam",
+     "date": "2026-11-15T11:51:29Z"
+    },
+    {
+     "id": "fl4dg_345tY",
+     "title": "Souviens-toi de ton Seigneur - Saïd Abou Nousseyba #islam",
+     "date": "2026-11-15T10:49:16Z"
+    },
+    {
+     "id": "zk53H_iEVhA",
+     "title": "Le but du croyant dans cette vie - Cheikh Tchalabi",
+     "date": "2026-11-15T09:02:26Z"
+    },
+    {
+     "id": "7Fs6qkXJlxE",
+     "title": "Fréquenter les gens de l'innovation - Cheikh Fouad Abqadri 🇲🇦 #islam",
+     "date": "2026-11-14T19:56:08Z"
+    },
+    {
+     "id": "uCaMsuFG9Uo",
+     "title": "Trois catégories de Tawhid - Cheikh Al Albani #islam",
+     "date": "2026-11-14T19:46:43Z"
+    },
+    {
+     "id": "R-mR33UBsDU",
+     "title": "19- Zakat sur les bestiaux",
+     "date": "2026-11-14T17:00:32Z"
+    },
+    {
+     "id": "YzEAXPN-XsU",
+     "title": "Faire preuve de clairvoyance avant de pratiquer certains actes \"sounnah",
+     "date": "2026-11-14T14:51:51Z"
+    },
+    {
+     "id": "Ov6Dm1nsM64",
+     "title": "18- Début du chapitre de la zakat",
+     "date": "2026-11-13T17:00:29Z"
+    },
+    {
+     "id": "H6OjWJHH6aw",
+     "title": "17- Suite du chapitre de l’enterrement et de la janaza",
+     "date": "2026-11-12T17:00:09Z"
+    },
+    {
+     "id": "UK2S0bRVMV0",
+     "title": "16- Le lavage mortuaire et la mise en linceul",
+     "date": "2026-11-11T17:00:23Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "v3zk7nqkSeE",
+     "title": "Les degrés de ressemblance aux mécréants 🎙️ Salman Bassa",
+     "date": "2026-11-15T08:44:05Z"
+    },
+    {
+     "id": "na-jFShmOVk",
+     "title": "Le Bassin du Prophète ﷺ et la grande Intercession 🎙️ Salman Bassa",
+     "date": "2026-11-13T13:18:18Z"
+    }
+   ]
+  },
+  {
+   "handle": "muhammadwora128",
+   "title": "Muhammad Wora",
+   "videos": [
+    {
+     "id": "60Ceencq1v8",
+     "title": "7- Les repères de la sunnah exposés... par le cheikh Hāfidh Al-hakami",
+     "date": "2026-11-14T21:56:35Z"
+    },
+    {
+     "id": "NOdn5gSwyOY",
+     "title": "42- L'explication de la sunnah de l'imam Al-barbahāri par l'érudit Rabee' Ibn Hādi",
+     "date": "2026-11-14T21:38:37Z"
+    },
+    {
+     "id": "W2YvQirpQos",
+     "title": "41- L'explication de la sunnah de l'imam Al-barbahāri par l'érudit Rabee'",
+     "date": "2026-11-14T21:25:12Z"
+    },
+    {
+     "id": "ejUpVnZ6QKo",
+     "title": "49- L'explication des 3 fondements par le cheikh Ibn 'Outhaymin",
+     "date": "2026-11-14T20:29:30Z"
+    },
+    {
+     "id": "FRX40nsJzwA",
+     "title": "43- Annotation au recueil de l'imam Al-nawawi",
+     "date": "2026-11-14T20:15:58Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "5ON2KxW618s",
+     "title": "Comment rendre ton invocation exaucée selon un hadith authentique ?",
+     "date": "2026-11-14T20:56:09Z"
+    },
+    {
+     "id": "_lXjwnRXZbw",
+     "title": "Adorer, Apprendre, Explorer : une Omra pas comme les autres",
+     "date": "2026-11-14T17:14:43Z"
+    },
+    {
+     "id": "lprqIOsHPpk",
+     "title": "L'incroyable leçon de générosité de l'imam Al-Layth ibn Sa'd",
+     "date": "2026-11-14T14:11:04Z"
+    },
+    {
+     "id": "Q6GoG0lg3ok",
+     "title": "Ton vêtement d’ihram se salit en pleine Omra : que faire ?",
+     "date": "2026-11-13T16:29:40Z"
+    },
+    {
+     "id": "JueUY450q58",
+     "title": "Ils pensaient payer leur Hajj… jusqu’à ce qu’il ouvre le coffre - L’histoire d’Ibn al-Mubarak",
+     "date": "2026-11-13T16:01:17Z"
+    },
+    {
+     "id": "Fg-6jh4KOBY",
+     "title": "Il est parti 4 fois en Omra avec Omra du Savoir - Témoignage de Rayan",
+     "date": "2026-11-12T19:44:15Z"
+    },
+    {
+     "id": "ZbPJO3w0xRw",
+     "title": "Yahyâ ibn Ma‘în a dépensé toute sa fortune pour une seule chose…",
+     "date": "2026-11-12T15:16:10Z"
+    },
+    {
+     "id": "eK7Csrsqv3M",
+     "title": "Pourquoi l'orange porte-t-elle presque le même nom que le Portugal en arabe ?",
+     "date": "2026-11-12T14:28:34Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "DJDXY0c-GNc",
+     "title": "🎙️Tu as oublié le premier tachahhoud : que faire ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-14T19:06:59Z"
+    },
+    {
+     "id": "Qg9voa03BR0",
+     "title": "🎙️Tu as oublié l’inclinaison : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-14T00:34:15Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "_v4gvAM1wt4",
+     "title": "🎥 Al-Adab Al-Mufrad #243 - Le sage la contre et le dépravé la montre",
+     "date": "2026-11-14T15:00:33Z"
+    }
+   ]
+  },
   {
    "handle": "LaCitadelledelaFoi",
    "title": "La Citadelle de la Foi",
@@ -20,22 +196,6 @@
      "id": "3g7QhfErhV8",
      "title": "La foi en Allah (partie 2) (Niveau 2 - Cours n°2)",
      "date": "2026-11-14T09:10:33Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "Qg9voa03BR0",
-     "title": "🎙️Tu as oublié l’inclinaison : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-14T00:34:15Z"
-    },
-    {
-     "id": "bC56E96B3aE",
-     "title": "🎙️Tu as oublié une prosternation : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-10T19:18:50Z"
     }
    ]
   },
@@ -82,134 +242,6 @@
      "id": "QObawsV3Y_4",
      "title": "Avant de te lancer dans le commerce, écoute ce conseil | Cheikh ʿAbd ar-Razzāq al-Badr",
      "date": "2026-11-11T16:26:02Z"
-    },
-    {
-     "id": "dqaEpntO3Po",
-     "title": "Un péché peut-il mener au Paradis ? | Cheikh Aziz Farhan #paradis #péchés #shortvideo tsvideo",
-     "date": "2026-11-11T15:14:11Z"
-    },
-    {
-     "id": "AJyjSFbca-0",
-     "title": "Mariage religieux sans mairie : est-il valable en islam ? Cheikh Aziz Farhan #fatwa #mariage #shorts",
-     "date": "2026-11-11T13:47:19Z"
-    },
-    {
-     "id": "GMDTy04Ijj4",
-     "title": "Tu veux du Rizq ? Voici la promesse d’Allah ! | Cheikh Saad Al-Shathri  #rizq  #argent  #shortsvideo",
-     "date": "2026-11-10T22:37:36Z"
-    },
-    {
-     "id": "HtLldGxP5kU",
-     "title": "Comment faire exaucer ses invocations ? | Cheikh Abdus Salam Ash-Shuwayir  #invocation  #douaislam",
-     "date": "2026-11-10T22:30:51Z"
-    },
-    {
-     "id": "mM59QAXz7JQ",
-     "title": "Le repentir en islam efface-t-il les anciens péchés ? | Cheikh Al-Fawzan",
-     "date": "2026-11-10T12:00:32Z"
-    },
-    {
-     "id": "UQZ-co_ciPw",
-     "title": "Faut-il faire l’Adhan et l’Iqama dans les oreilles du nouveau-né ? | Cheikh Al-Fawzan",
-     "date": "2026-11-10T11:32:41Z"
-    },
-    {
-     "id": "CGsKmASBGP8",
-     "title": "Dire Bismillah avant le Takbir : est-ce une erreur ? | Cheikh Al-Fawzan #shortislamic #fawzan",
-     "date": "2026-11-10T09:03:00Z"
-    },
-    {
-     "id": "n35mTZ16g2E",
-     "title": "Boire de l’alcool en islam : peut-on aimer Allah malgré ce péché ? | Cheikh Al-Fawzan  #foi  #shorts",
-     "date": "2026-11-09T21:22:20Z"
-    },
-    {
-     "id": "gFtWPUPKrx4",
-     "title": "Tu as commis un péché ? Écoute ce verset du Coran | Sourate 3:135  #coran  #luhaidan   #shortvideo",
-     "date": "2026-11-09T20:57:31Z"
-    },
-    {
-     "id": "YEmdfHr7lGw",
-     "title": "Fermer les yeux pendant la prière : est-ce permis ? | Cheikh Al-Fawzan  #shorts  #shortsislamic",
-     "date": "2026-11-09T20:35:46Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "Ov6Dm1nsM64",
-     "title": "18- Début du chapitre de la zakat",
-     "date": "2026-11-13T17:00:29Z"
-    },
-    {
-     "id": "H6OjWJHH6aw",
-     "title": "17- Suite du chapitre de l’enterrement et de la janaza",
-     "date": "2026-11-12T17:00:09Z"
-    },
-    {
-     "id": "UK2S0bRVMV0",
-     "title": "16- Le lavage mortuaire et la mise en linceul",
-     "date": "2026-11-11T17:00:23Z"
-    },
-    {
-     "id": "gSS-Ski9Pf4",
-     "title": "Quels livres étudier en premier selon Shaykh Al-Luhaidan",
-     "date": "2026-11-11T10:17:56Z"
-    },
-    {
-     "id": "STLZ60vuCSM",
-     "title": "15- La prière du vendredi et des deux fêtes",
-     "date": "2026-11-10T17:00:04Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "Q6GoG0lg3ok",
-     "title": "Ton vêtement d’ihram se salit en pleine Omra : que faire ?",
-     "date": "2026-11-13T16:29:40Z"
-    },
-    {
-     "id": "JueUY450q58",
-     "title": "Ils pensaient payer leur Hajj… jusqu’à ce qu’il ouvre le coffre - L’histoire d’Ibn al-Mubarak",
-     "date": "2026-11-13T16:01:17Z"
-    },
-    {
-     "id": "Fg-6jh4KOBY",
-     "title": "Il est parti 4 fois en Omra avec Omra du Savoir - Témoignage de Rayan",
-     "date": "2026-11-12T19:44:15Z"
-    },
-    {
-     "id": "ZbPJO3w0xRw",
-     "title": "Yahyâ ibn Ma‘în a dépensé toute sa fortune pour une seule chose…",
-     "date": "2026-11-12T15:16:10Z"
-    },
-    {
-     "id": "eK7Csrsqv3M",
-     "title": "Pourquoi l'orange porte-t-elle presque le même nom que le Portugal en arabe ?",
-     "date": "2026-11-12T14:28:34Z"
-    },
-    {
-     "id": "FoWf86wO5c0",
-     "title": "Il dépouillait les voyageurs… puis un verset a changé sa vie | Al-Fudayl ibn ‘Iyâd",
-     "date": "2026-11-10T10:40:50Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "na-jFShmOVk",
-     "title": "Le Bassin du Prophète ﷺ et la grande Intercession 🎙️ Salman Bassa",
-     "date": "2026-11-13T13:18:18Z"
     }
    ]
   },
@@ -232,50 +264,6 @@
      "id": "fqLnZokJkhA",
      "title": "#11 | Les annulatifs des ablutions [p.1] | Cours de fiqh simplifiés | Shaykh Tchalabi",
      "date": "2026-11-11T20:43:35Z"
-    }
-   ]
-  },
-  {
-   "handle": "islam_les_sentiers_du_savoir",
-   "title": "Islam Les Sentiers du Savoir",
-   "videos": [
-    {
-     "id": "rtwmoZ1uJps",
-     "title": "NE SOIS PAS UNE CAUSE DE DIVISION ENTRE LA FEMME ET SON MARI",
-     "date": "2026-11-11T10:43:34Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "hz1fE4y6IMI",
-     "title": "🎥 ‘Umdat al-Ahkam - Cours n°49 - Quelle quantité d’eau pour le ghusl ?",
-     "date": "2026-11-10T15:00:09Z"
-    }
-   ]
-  },
-  {
-   "handle": "MorjaneAbuDawud",
-   "title": "MorjaneAbuDawud",
-   "videos": [
-    {
-     "id": "wejBUoVIt3I",
-     "title": "🚨 Ne suis pas ces menteurs !🎙️ Cheikh Souleymane Ar-Rouheyli",
-     "date": "2026-11-10T12:33:24Z"
-    }
-   ]
-  },
-  {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "hskeJMCM9qw",
-     "title": "11 Les 3 fondements Abdullah Al Albani 1",
-     "date": "2026-11-10T06:26:40Z"
     }
    ]
   }
