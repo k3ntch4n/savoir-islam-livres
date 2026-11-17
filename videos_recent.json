@@ -1,10 +1,79 @@
 {
- "generated_at": "2026-11-16T15:06:04+00:00",
+ "generated_at": "2026-11-17T15:38:54+00:00",
  "channels": [
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "4O80yOYDfaA",
+     "title": "🎥 Kitab At-Tawhid #179 - Le jugement par une loi opposée à celle d’Allah",
+     "date": "2026-11-17T15:00:37Z"
+    },
+    {
+     "id": "_v4gvAM1wt4",
+     "title": "🎥 Al-Adab Al-Mufrad #243 - Le sage la contre et le dépravé la montre",
+     "date": "2026-11-14T15:00:33Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "0jZWTzQI_Us",
+     "title": "Rendre une chose cause alors qu'elle ne l'est pas 🎙️ Salman Bassa",
+     "date": "2026-11-17T09:42:53Z"
+    },
+    {
+     "id": "4uBgTs-DVPc",
+     "title": "Concernant la ressemblance aux mécréants dans la façon de s'habiller",
+     "date": "2026-11-16T15:12:02Z"
+    }
+   ]
+  },
+  {
+   "handle": "sofianibnmoubarak",
+   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
+   "videos": [
+    {
+     "id": "vfiOjA39Cu4",
+     "title": "La foi en Allah (partie 3) (Niveau 2 - Cours n°3)",
+     "date": "2026-11-17T09:38:17Z"
+    },
+    {
+     "id": "3g7QhfErhV8",
+     "title": "La foi en Allah (partie 2) (Niveau 2 - Cours n°2)",
+     "date": "2026-11-14T09:10:33Z"
+    }
+   ]
+  },
+  {
+   "handle": "islam_les_sentiers_du_savoir",
+   "title": "Islam Les Sentiers du Savoir",
+   "videos": [
+    {
+     "id": "psHhImMu2qA",
+     "title": "AFFIRMER LES ATTRIBUTS D'ALLAH N'IMPLIQUE PAS UNE RESSEMBLANCE AVEC SES CRÉATURES",
+     "date": "2026-11-16T21:13:24Z"
+    }
+   ]
+  },
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "HTUoytm2erU",
+     "title": "La Kiswa de la Kaaba : une fabrication hors du commun !",
+     "date": "2026-11-16T17:15:39Z"
+    },
+    {
+     "id": "PUfVnTY6pOc",
+     "title": "Ils ont brûlé ses livres… mais sa réponse est restée !",
+     "date": "2026-11-16T16:19:36Z"
+    },
     {
      "id": "5LoDQ3q_kSE",
      "title": "Pourquoi le Prophète ﷺ n’a-t-il jamais oublié Khadîja ? Podcast #04",
@@ -34,88 +103,6 @@
      "id": "lprqIOsHPpk",
      "title": "L'incroyable leçon de générosité de l'imam Al-Layth ibn Sa'd",
      "date": "2026-11-14T14:11:04Z"
-    },
-    {
-     "id": "Q6GoG0lg3ok",
-     "title": "Ton vêtement d’ihram se salit en pleine Omra : que faire ?",
-     "date": "2026-11-13T16:29:40Z"
-    },
-    {
-     "id": "JueUY450q58",
-     "title": "Ils pensaient payer leur Hajj… jusqu’à ce qu’il ouvre le coffre - L’histoire d’Ibn al-Mubarak",
-     "date": "2026-11-13T16:01:17Z"
-    },
-    {
-     "id": "Fg-6jh4KOBY",
-     "title": "Il est parti 4 fois en Omra avec Omra du Savoir - Témoignage de Rayan",
-     "date": "2026-11-12T19:44:15Z"
-    }
-   ]
-  },
-  {
-   "handle": "gghuraba",
-   "title": "ghuraba",
-   "videos": [
-    {
-     "id": "9T2-fDSr0HI",
-     "title": "Il n'avait plus RIEN jusqu'à ce que ... | Cheikh Ḥamad al-ʿAtīq",
-     "date": "2026-11-16T13:13:11Z"
-    },
-    {
-     "id": "_rmA-sT9mVY",
-     "title": "Jeux vidéo en islam : permis ou interdits ? | Cheikh Farhan al-Anizi",
-     "date": "2026-11-15T17:00:33Z"
-    },
-    {
-     "id": "OHP3STZEi2E",
-     "title": "Jeux vidéos & islam : entre shirk, kufr et divertissement | Cheikh Aziz Farhan",
-     "date": "2026-11-15T13:48:55Z"
-    },
-    {
-     "id": "ao2AU6yZ6d4",
-     "title": "Pourquoi Ibn Taymiyya ne s'est-il jamais marié ? | Cheikh Ibn Uthaymin",
-     "date": "2026-11-13T21:03:35Z"
-    },
-    {
-     "id": "bbbB1TyhAig",
-     "title": "Dormir avec le coran ?  Cheikh Ibn al-ʿUthaymīn",
-     "date": "2026-11-13T20:55:43Z"
-    },
-    {
-     "id": "Is-1XcDduMY",
-     "title": "Tu as ce qu'ils n'ont pas, remercie donc Ton Seigneur pour Ses bienfaits envers toi",
-     "date": "2026-11-13T20:24:27Z"
-    },
-    {
-     "id": "H-jHMd8reVo",
-     "title": "Tu traverses une EPREUVE ? Voici la REPONSE d’Ibn Taymiyya | Cheikh Abd ar-Razzāq al-Badr",
-     "date": "2026-11-13T12:42:01Z"
-    },
-    {
-     "id": "UTSToY2RQ9E",
-     "title": "Ne laisse pas ton esprit vide, occupe-le avec ce qui lui est bénéfique ! | Cheikh ash-Shuwayʿir",
-     "date": "2026-11-12T17:29:59Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "-FgSCl6Fa5k",
-     "title": "🎙️Tu doutes d’avoir accompli un pilier de la prière ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-15T20:06:38Z"
-    },
-    {
-     "id": "DJDXY0c-GNc",
-     "title": "🎙️Tu as oublié le premier tachahhoud : que faire ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-14T19:06:59Z"
-    },
-    {
-     "id": "Qg9voa03BR0",
-     "title": "🎙️Tu as oublié l’inclinaison : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-14T00:34:15Z"
     }
    ]
   },
@@ -123,6 +110,11 @@
    "handle": "islamlegifere",
    "title": "ISLAM LÉGIFÉRÉ",
    "videos": [
+    {
+     "id": "nleQn7jCYNs",
+     "title": "21- Zakat sur les biens commerciaux / Zakat Al-Fitr",
+     "date": "2026-11-16T17:00:36Z"
+    },
     {
      "id": "cACxfBjevoc",
      "title": "20- Zakat sur l’or et l’argent",
@@ -162,16 +154,68 @@
      "id": "YzEAXPN-XsU",
      "title": "Faire preuve de clairvoyance avant de pratiquer certains actes \"sounnah",
      "date": "2026-11-14T14:51:51Z"
+    }
+   ]
+  },
+  {
+   "handle": "gghuraba",
+   "title": "ghuraba",
+   "videos": [
+    {
+     "id": "L0AX-3yBA38",
+     "title": "LES BIENFAITS DES ŒUVRES CACHÉES ! Cheikh Muḥammad ibn Ramzān al-Hājirī",
+     "date": "2026-11-16T15:36:51Z"
     },
     {
-     "id": "Ov6Dm1nsM64",
-     "title": "18- Début du chapitre de la zakat",
-     "date": "2026-11-13T17:00:29Z"
+     "id": "GpY3R2o5uk8",
+     "title": "QUAND L’ANGOISSE T’ENVAHIT… | Cheikh Ṣāliḥ Āl al-Shaykh",
+     "date": "2026-11-16T15:26:21Z"
     },
     {
-     "id": "H6OjWJHH6aw",
-     "title": "17- Suite du chapitre de l’enterrement et de la janaza",
-     "date": "2026-11-12T17:00:09Z"
+     "id": "0w7IEoXX1D8",
+     "title": "CE QUI COMPTE AUPRÈS D’ALLAH ! | Cheikh Soulaymâne ar-Rouhaylî",
+     "date": "2026-11-16T15:18:37Z"
+    },
+    {
+     "id": "xd1BriBejCA",
+     "title": "SATAN VEUT T’ATTRISTER ! | Cheikh Abdul Aziz ar-Rayyis",
+     "date": "2026-11-16T15:13:27Z"
+    },
+    {
+     "id": "9T2-fDSr0HI",
+     "title": "Il n'avait plus RIEN jusqu'à ce que ... | Cheikh Ḥamad al-ʿAtīq",
+     "date": "2026-11-16T13:13:11Z"
+    },
+    {
+     "id": "_rmA-sT9mVY",
+     "title": "Jeux vidéo en islam : permis ou interdits ? | Cheikh Farhan al-Anizi",
+     "date": "2026-11-15T17:00:33Z"
+    },
+    {
+     "id": "OHP3STZEi2E",
+     "title": "Jeux vidéos & islam : entre shirk, kufr et divertissement | Cheikh Aziz Farhan",
+     "date": "2026-11-15T13:48:55Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "-FgSCl6Fa5k",
+     "title": "🎙️Tu doutes d’avoir accompli un pilier de la prière ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-15T20:06:38Z"
+    },
+    {
+     "id": "DJDXY0c-GNc",
+     "title": "🎙️Tu as oublié le premier tachahhoud : que faire ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-14T19:06:59Z"
+    },
+    {
+     "id": "Qg9voa03BR0",
+     "title": "🎙️Tu as oublié l’inclinaison : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-14T00:34:15Z"
     }
    ]
   },
@@ -207,17 +251,6 @@
    ]
   },
   {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "_v4gvAM1wt4",
-     "title": "🎥 Al-Adab Al-Mufrad #243 - Le sage la contre et le dépravé la montre",
-     "date": "2026-11-14T15:00:33Z"
-    }
-   ]
-  },
-  {
    "handle": "LaCitadelledelaFoi",
    "title": "La Citadelle de la Foi",
    "videos": [
@@ -225,39 +258,6 @@
      "id": "m1eMR9L_mMQ",
      "title": "Notre contact télégramme est en biographie",
      "date": "2026-11-14T12:23:05Z"
-    }
-   ]
-  },
-  {
-   "handle": "sofianibnmoubarak",
-   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
-   "videos": [
-    {
-     "id": "3g7QhfErhV8",
-     "title": "La foi en Allah (partie 2) (Niveau 2 - Cours n°2)",
-     "date": "2026-11-14T09:10:33Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "na-jFShmOVk",
-     "title": "Le Bassin du Prophète ﷺ et la grande Intercession 🎙️ Salman Bassa",
-     "date": "2026-11-13T13:18:18Z"
-    }
-   ]
-  },
-  {
-   "handle": "Ceciestnotrecroyance",
-   "title": "Ceci est notre croyance",
-   "videos": [
-    {
-     "id": "rC4wA4OBZts",
-     "title": "Qui sont les Chiites ? | Chaykh Raslan",
-     "date": "2026-11-12T20:12:16Z"
     }
    ]
   }
