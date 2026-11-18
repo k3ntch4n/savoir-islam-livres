@@ -1,166 +1,35 @@
 {
- "generated_at": "2026-11-17T15:38:54+00:00",
+ "generated_at": "2026-11-18T15:16:06+00:00",
  "channels": [
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "4O80yOYDfaA",
-     "title": "🎥 Kitab At-Tawhid #179 - Le jugement par une loi opposée à celle d’Allah",
-     "date": "2026-11-17T15:00:37Z"
-    },
-    {
-     "id": "_v4gvAM1wt4",
-     "title": "🎥 Al-Adab Al-Mufrad #243 - Le sage la contre et le dépravé la montre",
-     "date": "2026-11-14T15:00:33Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "0jZWTzQI_Us",
-     "title": "Rendre une chose cause alors qu'elle ne l'est pas 🎙️ Salman Bassa",
-     "date": "2026-11-17T09:42:53Z"
-    },
-    {
-     "id": "4uBgTs-DVPc",
-     "title": "Concernant la ressemblance aux mécréants dans la façon de s'habiller",
-     "date": "2026-11-16T15:12:02Z"
-    }
-   ]
-  },
-  {
-   "handle": "sofianibnmoubarak",
-   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
-   "videos": [
-    {
-     "id": "vfiOjA39Cu4",
-     "title": "La foi en Allah (partie 3) (Niveau 2 - Cours n°3)",
-     "date": "2026-11-17T09:38:17Z"
-    },
-    {
-     "id": "3g7QhfErhV8",
-     "title": "La foi en Allah (partie 2) (Niveau 2 - Cours n°2)",
-     "date": "2026-11-14T09:10:33Z"
-    }
-   ]
-  },
-  {
-   "handle": "islam_les_sentiers_du_savoir",
-   "title": "Islam Les Sentiers du Savoir",
-   "videos": [
-    {
-     "id": "psHhImMu2qA",
-     "title": "AFFIRMER LES ATTRIBUTS D'ALLAH N'IMPLIQUE PAS UNE RESSEMBLANCE AVEC SES CRÉATURES",
-     "date": "2026-11-16T21:13:24Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "HTUoytm2erU",
-     "title": "La Kiswa de la Kaaba : une fabrication hors du commun !",
-     "date": "2026-11-16T17:15:39Z"
-    },
-    {
-     "id": "PUfVnTY6pOc",
-     "title": "Ils ont brûlé ses livres… mais sa réponse est restée !",
-     "date": "2026-11-16T16:19:36Z"
-    },
-    {
-     "id": "5LoDQ3q_kSE",
-     "title": "Pourquoi le Prophète ﷺ n’a-t-il jamais oublié Khadîja ? Podcast #04",
-     "date": "2026-11-16T13:21:41Z"
-    },
-    {
-     "id": "yzZ75O8X08o",
-     "title": "🌪️ Typhon : l’origine surprenante d’un mot lié à la Kaaba !",
-     "date": "2026-11-15T17:24:10Z"
-    },
-    {
-     "id": "GX7x_yE2q4M",
-     "title": "Et si ton loyer et tes courses devenaient une sadaqa ?",
-     "date": "2026-11-15T13:57:43Z"
-    },
-    {
-     "id": "5ON2KxW618s",
-     "title": "Comment rendre ton invocation exaucée selon un hadith authentique ?",
-     "date": "2026-11-14T20:56:09Z"
-    },
-    {
-     "id": "_lXjwnRXZbw",
-     "title": "Adorer, Apprendre, Explorer : une Omra pas comme les autres",
-     "date": "2026-11-14T17:14:43Z"
-    },
-    {
-     "id": "lprqIOsHPpk",
-     "title": "L'incroyable leçon de générosité de l'imam Al-Layth ibn Sa'd",
-     "date": "2026-11-14T14:11:04Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "nleQn7jCYNs",
-     "title": "21- Zakat sur les biens commerciaux / Zakat Al-Fitr",
-     "date": "2026-11-16T17:00:36Z"
-    },
-    {
-     "id": "cACxfBjevoc",
-     "title": "20- Zakat sur l’or et l’argent",
-     "date": "2026-11-15T17:00:11Z"
-    },
-    {
-     "id": "v_wGAhqoncg",
-     "title": "Unissez vos cœurs par la vérité ! Cheikh Rabi' Ibn Hadi Al Madkhali #islam",
-     "date": "2026-11-15T11:51:29Z"
-    },
-    {
-     "id": "fl4dg_345tY",
-     "title": "Souviens-toi de ton Seigneur - Saïd Abou Nousseyba #islam",
-     "date": "2026-11-15T10:49:16Z"
-    },
-    {
-     "id": "zk53H_iEVhA",
-     "title": "Le but du croyant dans cette vie - Cheikh Tchalabi",
-     "date": "2026-11-15T09:02:26Z"
-    },
-    {
-     "id": "7Fs6qkXJlxE",
-     "title": "Fréquenter les gens de l'innovation - Cheikh Fouad Abqadri 🇲🇦 #islam",
-     "date": "2026-11-14T19:56:08Z"
-    },
-    {
-     "id": "uCaMsuFG9Uo",
-     "title": "Trois catégories de Tawhid - Cheikh Al Albani #islam",
-     "date": "2026-11-14T19:46:43Z"
-    },
-    {
-     "id": "R-mR33UBsDU",
-     "title": "19- Zakat sur les bestiaux",
-     "date": "2026-11-14T17:00:32Z"
-    },
-    {
-     "id": "YzEAXPN-XsU",
-     "title": "Faire preuve de clairvoyance avant de pratiquer certains actes \"sounnah",
-     "date": "2026-11-14T14:51:51Z"
-    }
-   ]
-  },
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "axvxLCs-pdk",
+     "title": "Halal, haram ou douteux ? Attention à ce que vous mangez ! Cheikh Aziz Farhan",
+     "date": "2026-11-18T15:00:22Z"
+    },
+    {
+     "id": "gMNy_1mpUeE",
+     "title": "Pourquoi certaines INVOCATIONS ne sont-elles PAS exaucées ? — Cheikh al-ʿUthaymīn #youtubeislamic",
+     "date": "2026-11-18T14:00:09Z"
+    },
+    {
+     "id": "DozRtvf7pJo",
+     "title": "Le diable cherche à t'attrister à cause de ton passé et à t'effrayer concernant ton avenir",
+     "date": "2026-11-17T19:47:23Z"
+    },
+    {
+     "id": "IH6rtrB8iKE",
+     "title": "Tu doutes de l'islam ? | Cheikh al-Fawzân",
+     "date": "2026-11-17T19:41:19Z"
+    },
+    {
+     "id": "eg1czjGHM50",
+     "title": "Le lépreux, le chauve et l'aveugle : le hadith des 3 hommes qu'Allah a éprouvé | Cheikh al-Fawzân",
+     "date": "2026-11-17T19:10:41Z"
+    },
     {
      "id": "L0AX-3yBA38",
      "title": "LES BIENFAITS DES ŒUVRES CACHÉES ! Cheikh Muḥammad ibn Ramzān al-Hājirī",
@@ -199,23 +68,159 @@
    ]
   },
   {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "KVJfwIcYXyA",
+     "title": "Une Omra pas comme les autres : sur les pas du Prophète ﷺ",
+     "date": "2026-11-18T11:36:19Z"
+    },
+    {
+     "id": "WdXdD-B-g44",
+     "title": "Tes parents sont décédés ? Tu peux encore faire quelque chose pour eux",
+     "date": "2026-11-17T16:01:09Z"
+    },
+    {
+     "id": "HTUoytm2erU",
+     "title": "La Kiswa de la Kaaba : une fabrication hors du commun !",
+     "date": "2026-11-16T17:15:39Z"
+    },
+    {
+     "id": "PUfVnTY6pOc",
+     "title": "Ils ont brûlé ses livres… mais sa réponse est restée !",
+     "date": "2026-11-16T16:19:36Z"
+    },
+    {
+     "id": "5LoDQ3q_kSE",
+     "title": "Pourquoi le Prophète ﷺ n’a-t-il jamais oublié Khadîja ? Podcast #04",
+     "date": "2026-11-16T13:21:41Z"
+    },
+    {
+     "id": "yzZ75O8X08o",
+     "title": "🌪️ Typhon : l’origine surprenante d’un mot lié à la Kaaba !",
+     "date": "2026-11-15T17:24:10Z"
+    },
+    {
+     "id": "GX7x_yE2q4M",
+     "title": "Et si ton loyer et tes courses devenaient une sadaqa ?",
+     "date": "2026-11-15T13:57:43Z"
+    },
+    {
+     "id": "5ON2KxW618s",
+     "title": "Comment rendre ton invocation exaucée selon un hadith authentique ?",
+     "date": "2026-11-14T20:56:09Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "UMyq7mQ_KpY",
+     "title": "1- Explication de sourate An-Naba",
+     "date": "2026-11-17T21:01:58Z"
+    },
+    {
+     "id": "4Eqay5X41d8",
+     "title": "22- Les ayants droits",
+     "date": "2026-11-17T17:00:40Z"
+    },
+    {
+     "id": "nleQn7jCYNs",
+     "title": "21- Zakat sur les biens commerciaux / Zakat Al-Fitr",
+     "date": "2026-11-16T17:00:36Z"
+    },
+    {
+     "id": "cACxfBjevoc",
+     "title": "20- Zakat sur l’or et l’argent",
+     "date": "2026-11-15T17:00:11Z"
+    },
+    {
+     "id": "v_wGAhqoncg",
+     "title": "Unissez vos cœurs par la vérité ! Cheikh Rabi' Ibn Hadi Al Madkhali #islam",
+     "date": "2026-11-15T11:51:29Z"
+    },
+    {
+     "id": "fl4dg_345tY",
+     "title": "Souviens-toi de ton Seigneur - Saïd Abou Nousseyba #islam",
+     "date": "2026-11-15T10:49:16Z"
+    },
+    {
+     "id": "zk53H_iEVhA",
+     "title": "Le but du croyant dans cette vie - Cheikh Tchalabi",
+     "date": "2026-11-15T09:02:26Z"
+    },
+    {
+     "id": "7Fs6qkXJlxE",
+     "title": "Fréquenter les gens de l'innovation - Cheikh Fouad Abqadri 🇲🇦 #islam",
+     "date": "2026-11-14T19:56:08Z"
+    }
+   ]
+  },
+  {
    "handle": "fatwasfr",
    "title": "FatwasFr",
    "videos": [
     {
+     "id": "pvapE9ib9Co",
+     "title": "🎙️La différence entre un pilier et une obligation dans la prière - Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-17T19:08:16Z"
+    },
+    {
      "id": "-FgSCl6Fa5k",
      "title": "🎙️Tu doutes d’avoir accompli un pilier de la prière ? Cheikh 'Aziz Farhan Al 'Anizi",
      "date": "2026-11-15T20:06:38Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "4O80yOYDfaA",
+     "title": "🎥 Kitab At-Tawhid #179 - Le jugement par une loi opposée à celle d’Allah",
+     "date": "2026-11-17T15:00:37Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "0jZWTzQI_Us",
+     "title": "Rendre une chose cause alors qu'elle ne l'est pas 🎙️ Salman Bassa",
+     "date": "2026-11-17T09:42:53Z"
     },
     {
-     "id": "DJDXY0c-GNc",
-     "title": "🎙️Tu as oublié le premier tachahhoud : que faire ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-14T19:06:59Z"
-    },
+     "id": "4uBgTs-DVPc",
+     "title": "Concernant la ressemblance aux mécréants dans la façon de s'habiller",
+     "date": "2026-11-16T15:12:02Z"
+    }
+   ]
+  },
+  {
+   "handle": "sofianibnmoubarak",
+   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
+   "videos": [
     {
-     "id": "Qg9voa03BR0",
-     "title": "🎙️Tu as oublié l’inclinaison : que faire ?Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-14T00:34:15Z"
+     "id": "vfiOjA39Cu4",
+     "title": "La foi en Allah (partie 3) (Niveau 2 - Cours n°3)",
+     "date": "2026-11-17T09:38:17Z"
+    }
+   ]
+  },
+  {
+   "handle": "islam_les_sentiers_du_savoir",
+   "title": "Islam Les Sentiers du Savoir",
+   "videos": [
+    {
+     "id": "psHhImMu2qA",
+     "title": "AFFIRMER LES ATTRIBUTS D'ALLAH N'IMPLIQUE PAS UNE RESSEMBLANCE AVEC SES CRÉATURES",
+     "date": "2026-11-16T21:13:24Z"
     }
    ]
   },
@@ -247,17 +252,6 @@
      "id": "FRX40nsJzwA",
      "title": "43- Annotation au recueil de l'imam Al-nawawi",
      "date": "2026-11-14T20:15:58Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "m1eMR9L_mMQ",
-     "title": "Notre contact télégramme est en biographie",
-     "date": "2026-11-14T12:23:05Z"
     }
    ]
   }
