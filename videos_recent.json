@@ -1,92 +1,25 @@
 {
- "generated_at": "2026-11-19T15:24:16+00:00",
+ "generated_at": "2026-11-20T15:00:13+00:00",
  "channels": [
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "EMxP_TUfSNY",
-     "title": "Apprendre l’Islam… mais par où commencer ?",
-     "date": "2026-11-19T13:17:24Z"
-    },
-    {
-     "id": "KVJfwIcYXyA",
-     "title": "Une Omra pas comme les autres : sur les pas du Prophète ﷺ",
-     "date": "2026-11-18T11:36:19Z"
-    },
-    {
-     "id": "WdXdD-B-g44",
-     "title": "Tes parents sont décédés ? Tu peux encore faire quelque chose pour eux",
-     "date": "2026-11-17T16:01:09Z"
-    },
-    {
-     "id": "HTUoytm2erU",
-     "title": "La Kiswa de la Kaaba : une fabrication hors du commun !",
-     "date": "2026-11-16T17:15:39Z"
-    },
-    {
-     "id": "PUfVnTY6pOc",
-     "title": "Ils ont brûlé ses livres… mais sa réponse est restée !",
-     "date": "2026-11-16T16:19:36Z"
-    },
-    {
-     "id": "5LoDQ3q_kSE",
-     "title": "Pourquoi le Prophète ﷺ n’a-t-il jamais oublié Khadîja ? Podcast #04",
-     "date": "2026-11-16T13:21:41Z"
-    },
-    {
-     "id": "yzZ75O8X08o",
-     "title": "🌪️ Typhon : l’origine surprenante d’un mot lié à la Kaaba !",
-     "date": "2026-11-15T17:24:10Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "iop1ESLYYVM",
-     "title": "24- Les conditions du jeûne du mois de Ramadan",
-     "date": "2026-11-19T11:00:30Z"
-    },
-    {
-     "id": "e7TDlAoM-8w",
-     "title": "2- Explication de la sourate An-Naba",
-     "date": "2026-11-18T19:06:44Z"
-    },
-    {
-     "id": "1UOH6cGVgFo",
-     "title": "23- Introduction au jeûne du mois de Ramadan",
-     "date": "2026-11-18T17:00:37Z"
-    },
-    {
-     "id": "UMyq7mQ_KpY",
-     "title": "1- Explication de sourate An-Naba",
-     "date": "2026-11-17T21:01:58Z"
-    },
-    {
-     "id": "4Eqay5X41d8",
-     "title": "22- Les ayants droits",
-     "date": "2026-11-17T17:00:40Z"
-    },
-    {
-     "id": "nleQn7jCYNs",
-     "title": "21- Zakat sur les biens commerciaux / Zakat Al-Fitr",
-     "date": "2026-11-16T17:00:36Z"
-    },
-    {
-     "id": "cACxfBjevoc",
-     "title": "20- Zakat sur l’or et l’argent",
-     "date": "2026-11-15T17:00:11Z"
-    }
-   ]
-  },
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "qPnhyFN2KU0",
+     "title": "Tu veux que tes invocations soient exaucées ? Invoque Allah par ce Nom",
+     "date": "2026-11-20T14:54:38Z"
+    },
+    {
+     "id": "c8WyfP8aw80",
+     "title": "Tes amis influencent ta religion : choisis-les bien",
+     "date": "2026-11-20T14:34:54Z"
+    },
+    {
+     "id": "MqD_J5AvkoM",
+     "title": "L'un des responsables de ton mal être | Shaykh ash-Shouway'ir",
+     "date": "2026-11-20T13:57:49Z"
+    },
     {
      "id": "tk2h5JdwG5U",
      "title": "Gouttes d’urine, ablutions et Waswas : que faire ? | Cheikh Aziz Farhan",
@@ -156,21 +89,109 @@
      "id": "0w7IEoXX1D8",
      "title": "CE QUI COMPTE AUPRÈS D’ALLAH ! | Cheikh Soulaymâne ar-Rouhaylî",
      "date": "2026-11-16T15:18:37Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "AyT8OPTps5o",
+     "title": "Tu veux donner une sadaqah ? Voici à qui tu dois penser d'abord",
+     "date": "2026-11-20T10:18:37Z"
     },
     {
-     "id": "xd1BriBejCA",
-     "title": "SATAN VEUT T’ATTRISTER ! | Cheikh Abdul Aziz ar-Rayyis",
-     "date": "2026-11-16T15:13:27Z"
+     "id": "Uy47nfwXys8",
+     "title": "Tu es déjà venu ici… mais tu ne t'en souviens pas",
+     "date": "2026-11-19T16:43:37Z"
     },
     {
-     "id": "9T2-fDSr0HI",
-     "title": "Il n'avait plus RIEN jusqu'à ce que ... | Cheikh Ḥamad al-ʿAtīq",
-     "date": "2026-11-16T13:13:11Z"
+     "id": "EMxP_TUfSNY",
+     "title": "Apprendre l’Islam… mais par où commencer ?",
+     "date": "2026-11-19T13:17:24Z"
     },
     {
-     "id": "_rmA-sT9mVY",
-     "title": "Jeux vidéo en islam : permis ou interdits ? | Cheikh Farhan al-Anizi",
-     "date": "2026-11-15T17:00:33Z"
+     "id": "KVJfwIcYXyA",
+     "title": "Une Omra pas comme les autres : sur les pas du Prophète ﷺ",
+     "date": "2026-11-18T11:36:19Z"
+    },
+    {
+     "id": "WdXdD-B-g44",
+     "title": "Tes parents sont décédés ? Tu peux encore faire quelque chose pour eux",
+     "date": "2026-11-17T16:01:09Z"
+    },
+    {
+     "id": "HTUoytm2erU",
+     "title": "La Kiswa de la Kaaba : une fabrication hors du commun !",
+     "date": "2026-11-16T17:15:39Z"
+    },
+    {
+     "id": "PUfVnTY6pOc",
+     "title": "Ils ont brûlé ses livres… mais sa réponse est restée !",
+     "date": "2026-11-16T16:19:36Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "pbA1x6p3IgQ",
+     "title": "Une histoire racontée par le cheikh Ibrahim El-Mouhaymid",
+     "date": "2026-11-19T20:12:41Z"
+    },
+    {
+     "id": "paIfLgWP-HU",
+     "title": "25- La vision de la lune",
+     "date": "2026-11-19T17:00:23Z"
+    },
+    {
+     "id": "iop1ESLYYVM",
+     "title": "24- Les conditions du jeûne du mois de Ramadan",
+     "date": "2026-11-19T11:00:30Z"
+    },
+    {
+     "id": "e7TDlAoM-8w",
+     "title": "2- Explication de la sourate An-Naba",
+     "date": "2026-11-18T19:06:44Z"
+    },
+    {
+     "id": "1UOH6cGVgFo",
+     "title": "23- Introduction au jeûne du mois de Ramadan",
+     "date": "2026-11-18T17:00:37Z"
+    },
+    {
+     "id": "UMyq7mQ_KpY",
+     "title": "1- Explication de sourate An-Naba",
+     "date": "2026-11-17T21:01:58Z"
+    },
+    {
+     "id": "4Eqay5X41d8",
+     "title": "22- Les ayants droits",
+     "date": "2026-11-17T17:00:40Z"
+    },
+    {
+     "id": "nleQn7jCYNs",
+     "title": "21- Zakat sur les biens commerciaux / Zakat Al-Fitr",
+     "date": "2026-11-16T17:00:36Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "bmMJEHraTrI",
+     "title": "Le Placebo, shirk? 🎙️ Salman Bassa",
+     "date": "2026-11-19T16:31:06Z"
+    },
+    {
+     "id": "0jZWTzQI_Us",
+     "title": "Rendre une chose cause alors qu'elle ne l'est pas 🎙️ Salman Bassa",
+     "date": "2026-11-17T09:42:53Z"
     }
    ]
   },
@@ -204,11 +225,6 @@
      "id": "pvapE9ib9Co",
      "title": "🎙️La différence entre un pilier et une obligation dans la prière - Cheikh 'Aziz Farhan Al 'Anizi",
      "date": "2026-11-17T19:08:16Z"
-    },
-    {
-     "id": "-FgSCl6Fa5k",
-     "title": "🎙️Tu doutes d’avoir accompli un pilier de la prière ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-15T20:06:38Z"
     }
    ]
   },
@@ -220,22 +236,6 @@
      "id": "4O80yOYDfaA",
      "title": "🎥 Kitab At-Tawhid #179 - Le jugement par une loi opposée à celle d’Allah",
      "date": "2026-11-17T15:00:37Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "0jZWTzQI_Us",
-     "title": "Rendre une chose cause alors qu'elle ne l'est pas 🎙️ Salman Bassa",
-     "date": "2026-11-17T09:42:53Z"
-    },
-    {
-     "id": "4uBgTs-DVPc",
-     "title": "Concernant la ressemblance aux mécréants dans la façon de s'habiller",
-     "date": "2026-11-16T15:12:02Z"
     }
    ]
   },
