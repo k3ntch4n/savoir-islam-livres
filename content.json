@@ -310,6 +310,13 @@
       ],
       "videos": [
         {
+          "title": "3 remèdes contre les pensées négatives et les wassa wiss",
+          "speaker": "Ilyes Abou Souheyl",
+          "videoId": "L42a988v3Sg",
+          "playlistId": "PL9Mxv80vVFj_bRyc4pN2ZQg1BfiATpdm0",
+          "section": "Psychologie (Ilyes Abou Souheyl)"
+        },
+        {
           "title": "Le bon comportement (d'après al-Bukhârî)",
           "speaker": "",
           "videoId": "zsAVu3VHsj4"
@@ -780,6 +787,20 @@
         "science",
         "comportement",
         "coeur"
+      ]
+    },
+    {
+      "name": "Ilyes Abou Souheyl",
+      "url": "https://www.youtube.com/@ilyesabousouheyl",
+      "topics": [
+        "cours",
+        "tafsir",
+        "coran",
+        "aqida",
+        "comportement",
+        "coeur",
+        "psychologie",
+        "science"
       ]
     }
   ],
