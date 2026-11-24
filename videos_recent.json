@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-11-23T17:36:08+00:00",
+ "generated_at": "2026-11-24T17:06:35+00:00",
  "channels": [
   {
    "handle": "omradusavoir",
    "title": "Omra DuSavoir",
    "videos": [
+    {
+     "id": "1stcLKPvwrw",
+     "title": "Ce conseil peut changer ta Omra !",
+     "date": "2026-11-24T16:43:40Z"
+    },
     {
      "id": "yjj25LRkfFY",
      "title": "Trois gorgées de Zamzam qui ont changé la vie d’un savant",
@@ -24,26 +29,68 @@
      "id": "i8iGAZm-gtU",
      "title": "70 millions de personnes, et c'est sur toi que c'est tombé",
      "date": "2026-11-21T16:45:50Z"
+    }
+   ]
+  },
+  {
+   "handle": "Abdullahalalbani",
+   "title": "Abdullah Al Albani",
+   "videos": [
+    {
+     "id": "CsMkZUSq21E",
+     "title": "Faire son examen de conscience - Abdullah Al Albani",
+     "date": "2026-11-24T16:11:20Z"
     },
     {
-     "id": "YUPUXlZ2lxw",
-     "title": "Il a rencontré le Prophète ﷺ… et il n'est toujours pas mort",
-     "date": "2026-11-20T20:49:47Z"
+     "id": "EjLhW2_tT_w",
+     "title": "12 - Fiqh Simplifié - Abdullah Al Albani",
+     "date": "2026-11-24T14:14:14Z"
     },
     {
-     "id": "h4jKvsLCbqE",
-     "title": "Le chagrin d’un père que l’histoire n’a jamais oublié - Abu Hayyan Al-Andalusi",
-     "date": "2026-11-20T17:03:34Z"
+     "id": "N6MM7WkIIhA",
+     "title": "12 - Les 3 fondements - Abdullah Al Albani",
+     "date": "2026-11-24T13:48:09Z"
     },
     {
-     "id": "AyT8OPTps5o",
-     "title": "Tu veux donner une sadaqah ? Voici à qui tu dois penser d'abord",
-     "date": "2026-11-20T10:18:37Z"
+     "id": "sqzzzkV_SZk",
+     "title": "La dureté du coeur - Abdullah Al Albani",
+     "date": "2026-11-21T12:17:41Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "0xn_qCtt1EI",
+     "title": "6- Explication de la sourate An-Naba",
+     "date": "2026-11-24T16:07:57Z"
     },
     {
-     "id": "Uy47nfwXys8",
-     "title": "Tu es déjà venu ici… mais tu ne t'en souviens pas",
-     "date": "2026-11-19T16:43:37Z"
+     "id": "efLjN8Vcne4",
+     "title": "5- Explication de la sourate An-Naba",
+     "date": "2026-11-23T20:29:08Z"
+    },
+    {
+     "id": "oqX0xtWA8bs",
+     "title": "Un salafi faible - Abdelaziz Abou Sirine #islam",
+     "date": "2026-11-23T17:59:03Z"
+    },
+    {
+     "id": "WMx_XWb93w0",
+     "title": "La situation des femmes au paradis",
+     "date": "2026-11-22T15:59:30Z"
+    },
+    {
+     "id": "Ao52pw6s8oQ",
+     "title": "4- Explication de la sourate An-Naba",
+     "date": "2026-11-22T10:46:49Z"
+    },
+    {
+     "id": "AJuAjMw5L7U",
+     "title": "Pourquoi tu apprends la science ? Cheikh Tchalabi #islam",
+     "date": "2026-11-21T21:06:07Z"
     }
    ]
   },
@@ -51,6 +98,56 @@
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
+    {
+     "id": "8lpLWieZf7Q",
+     "title": "Ton ennemi te voit… et tu ne le vois pas | Renouveler sa foi (Ép. 7) · Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-11-24T15:48:49Z"
+    },
+    {
+     "id": "Dxjq5XTRqYE",
+     "title": "Connais-tu vraiment ton Seigneur ? | Renouveler sa foi (Ép. 6) · Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-11-24T15:37:48Z"
+    },
+    {
+     "id": "FJx38sIr3Vo",
+     "title": "Ce que tu lis façonne ta foi | Renouveler sa foi (Ép. 5) · Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-11-24T15:32:58Z"
+    },
+    {
+     "id": "uFFBdcCSBvU",
+     "title": "Le Coran, rempart de ta foi | Renouveler sa foi (Ép. 4) · Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-11-24T15:29:54Z"
+    },
+    {
+     "id": "qdleQIODZuI",
+     "title": "Sans science, ta foi s'éteint | Renouveler sa foi (Ép. 3) · Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-11-24T15:26:40Z"
+    },
+    {
+     "id": "edA0-to67a8",
+     "title": "Invoque Allah, puis prends les moyens | Renouveler sa foi (Ép. 2) · Cheikh 'Abd ar-Razzaq al-Badr",
+     "date": "2026-11-24T15:22:53Z"
+    },
+    {
+     "id": "fx1K6X2DBPs",
+     "title": "Renouveler sa FOI : la conférence complète | Cheikh Abd ar-Razzâq al-Badr",
+     "date": "2026-11-24T13:14:24Z"
+    },
+    {
+     "id": "qo0NuhiCQZo",
+     "title": "Dois-tu CONVAINCRE les gens (du tawhid) ? | Cheikh Salih Al-Shaykh",
+     "date": "2026-11-24T11:28:06Z"
+    },
+    {
+     "id": "zQO_R2XMLuU",
+     "title": "Peut-on devenir IMAM malgré de grands péchés ? Cheikh al-'Usaymi",
+     "date": "2026-11-23T23:30:30Z"
+    },
+    {
+     "id": "Z_SlCg8WqQc",
+     "title": "Comment se DISTINGUER par la science ? Cheikh Salih al-'Usaymi",
+     "date": "2026-11-23T22:47:09Z"
+    },
     {
      "id": "67IrJu_rH5I",
      "title": "Ta foi s'use comme un vêtement  | Renouveler sa foi #shorts",
@@ -68,7 +165,7 @@
     },
     {
      "id": "6hQn7CUri8o",
-     "title": "Renouveler sa FOI (1/8) : importance et pourquoi elle s'use | Cheikh Abd ar-Razzâq al-Badr",
+     "title": "Renouveler sa FOI  : INTRODUCTION | Cheikh Abd ar-Razzâq al-Badr",
      "date": "2026-11-23T16:00:39Z"
     },
     {
@@ -100,46 +197,22 @@
      "id": "bcVf3lXKTuE",
      "title": "Peut LIRE le coran SANS le comprendre ? Cheikh Al Fawzan",
      "date": "2026-11-21T22:14:58Z"
+    }
+   ]
+  },
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "DPU0lgqn0KU",
+     "title": "🎥 Tafsir sourate An-Najm n°23 - Offrir la récompense de chaque adoration à un mort ?",
+     "date": "2026-11-24T15:00:16Z"
     },
     {
-     "id": "XXUMWFqWwno",
-     "title": "Pourquoi les mécréants ont tout et les musulmans si peu ? | Cheikh al-Fawzân #islam  #coran #shorts",
-     "date": "2026-11-21T11:24:24Z"
-    },
-    {
-     "id": "rT8EGpYPbJI",
-     "title": "Est-ce qu'on peut tout demander à Allah, même les petites choses ? Cheikh Hamid al-Atiq #islam",
-     "date": "2026-11-21T11:00:23Z"
-    },
-    {
-     "id": "yo6-cbNJEB4",
-     "title": "Message aux HOMMES : soignez votre HYGIENE ! Cheikh Aziz Farhan #mariagemusulman #couplemusulman",
-     "date": "2026-11-21T10:30:57Z"
-    },
-    {
-     "id": "bbnnFFBHdUU",
-     "title": "La PERTE de temps ! Cheikh Khalid Isma'il  #rappelislamique",
-     "date": "2026-11-20T19:07:48Z"
-    },
-    {
-     "id": "DFSr72NQMRk",
-     "title": "J’ai oublié la sourate après la Fâtiha : ma prière est-elle valide ? Cheikh Aziz Farhan",
-     "date": "2026-11-20T17:59:27Z"
-    },
-    {
-     "id": "qPnhyFN2KU0",
-     "title": "Tu veux que tes invocations soient exaucées ? Invoque Allah par ce Nom",
-     "date": "2026-11-20T14:54:38Z"
-    },
-    {
-     "id": "c8WyfP8aw80",
-     "title": "Tes amis influencent ta religion : choisis-les bien",
-     "date": "2026-11-20T14:34:54Z"
-    },
-    {
-     "id": "MqD_J5AvkoM",
-     "title": "L'un des responsables de ton mal être | Shaykh ash-Shouway'ir",
-     "date": "2026-11-20T13:57:49Z"
+     "id": "ZWyyiwR9Eqw",
+     "title": "🎥 Les leçons importantes pour toute la communauté #52 - L’invocation de la prière mortuaire (2)",
+     "date": "2026-11-21T15:00:35Z"
     }
    ]
   },
@@ -147,6 +220,11 @@
    "handle": "ilyesabousouheyl",
    "title": "Ilyes Abou Souheyl",
    "videos": [
+    {
+     "id": "swzCZstildE",
+     "title": "40-Un défaut invisible dans la chaîne de transmission",
+     "date": "2026-11-23T20:08:50Z"
+    },
     {
      "id": "kle7lTAcHBc",
      "title": "Quand le refus du mari devient une injustice",
@@ -156,102 +234,6 @@
      "id": "5D2xm_Lz-zg",
      "title": "Sur quelle œuvre comptes-tu pour rencontrer Allah ?",
      "date": "2026-11-22T07:04:35Z"
-    },
-    {
-     "id": "d4Tq9RDUCBw",
-     "title": "42-Lire moins, mais lire dans le bon ordre",
-     "date": "2026-11-20T19:46:58Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "WMx_XWb93w0",
-     "title": "La situation des femmes au paradis",
-     "date": "2026-11-22T15:59:30Z"
-    },
-    {
-     "id": "Ao52pw6s8oQ",
-     "title": "4- Explication de la sourate An-Naba",
-     "date": "2026-11-22T10:46:49Z"
-    },
-    {
-     "id": "AJuAjMw5L7U",
-     "title": "Pourquoi tu apprends la science ? Cheikh Tchalabi #islam",
-     "date": "2026-11-21T21:06:07Z"
-    },
-    {
-     "id": "CqynVvkceBM",
-     "title": "3- Explication de la Sourate An-Naba",
-     "date": "2026-11-21T06:30:46Z"
-    },
-    {
-     "id": "pbA1x6p3IgQ",
-     "title": "Une histoire racontée par le cheikh Ibrahim El-Mouhaymid",
-     "date": "2026-11-19T20:12:41Z"
-    },
-    {
-     "id": "paIfLgWP-HU",
-     "title": "25- La vision de la lune",
-     "date": "2026-11-19T17:00:23Z"
-    }
-   ]
-  },
-  {
-   "handle": "lesentierdusalut",
-   "title": "Sentier du Salut",
-   "videos": [
-    {
-     "id": "ZWyyiwR9Eqw",
-     "title": "🎥 Les leçons importantes pour toute la communauté #52 - L’invocation de la prière mortuaire (2)",
-     "date": "2026-11-21T15:00:35Z"
-    }
-   ]
-  },
-  {
-   "handle": "Abdullahalalbani",
-   "title": "Abdullah Al Albani",
-   "videos": [
-    {
-     "id": "sqzzzkV_SZk",
-     "title": "La dureté du coeur - Abdullah Al Albani",
-     "date": "2026-11-21T12:17:41Z"
-    }
-   ]
-  },
-  {
-   "handle": "sofianibnmoubarak",
-   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
-   "videos": [
-    {
-     "id": "rG-9JxNWk-M",
-     "title": "La foi aux anges (Niveau 2 - Cours n°4)",
-     "date": "2026-11-21T08:07:00Z"
-    }
-   ]
-  },
-  {
-   "handle": "LaCitadelledelaFoi",
-   "title": "La Citadelle de la Foi",
-   "videos": [
-    {
-     "id": "_OSruqfefQE",
-     "title": "Sans Tawhid, pas de véritable sécurité !",
-     "date": "2026-11-20T16:09:28Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "bmMJEHraTrI",
-     "title": "Le Placebo, shirk? 🎙️ Salman Bassa",
-     "date": "2026-11-19T16:31:06Z"
     }
    ]
   }
