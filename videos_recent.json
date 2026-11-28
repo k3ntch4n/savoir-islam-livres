@@ -1,14 +1,198 @@
 {
- "generated_at": "2026-11-27T16:18:45+00:00",
+ "generated_at": "2026-11-28T15:12:16+00:00",
  "channels": [
+  {
+   "handle": "lesentierdusalut",
+   "title": "Sentier du Salut",
+   "videos": [
+    {
+     "id": "XHKUtzZdHQU",
+     "title": "🎥 ‘Umdat al-Ahkam - Cours n°50 - Le gaspillage d’eau pour al-wudhu",
+     "date": "2026-11-28T15:00:13Z"
+    }
+   ]
+  },
+  {
+   "handle": "BilalAbouHafsa",
+   "title": "Bilal Abou Hafsa",
+   "videos": [
+    {
+     "id": "f8HgUhpGNLw",
+     "title": "Se marier dans le dos de ses parents ou de sa famille.",
+     "date": "2026-11-28T11:48:11Z"
+    },
+    {
+     "id": "FzJm3_mJrDg",
+     "title": "Les méfaits du divorce [ Partie 2/2 ]",
+     "date": "2026-11-27T11:17:30Z"
+    }
+   ]
+  },
+  {
+   "handle": "sofianibnmoubarak",
+   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
+   "videos": [
+    {
+     "id": "yW4LIfrkp5w",
+     "title": "La foi aux messagers (Niveau 2 - Cours n°6)",
+     "date": "2026-11-28T07:59:20Z"
+    },
+    {
+     "id": "4awEVKhd2cY",
+     "title": "La foi aux livres (Niveau 2 - Cours n°5)",
+     "date": "2026-11-27T07:55:29Z"
+    }
+   ]
+  },
+  {
+   "handle": "salmanbassa",
+   "title": "Salman Bassa (da'wah salafiyyah)",
+   "videos": [
+    {
+     "id": "xHoeMk1Cax8",
+     "title": "L'homme qui tua 99 personnes 🎙️ Salman Bassa",
+     "date": "2026-11-28T05:52:05Z"
+    },
+    {
+     "id": "cJ283VtCYiM",
+     "title": "(9) Explication du livre « Les trois fondements et leurs preuves » 🎙️ Salman Bassa",
+     "date": "2026-11-26T21:27:35Z"
+    }
+   ]
+  },
+  {
+   "handle": "islamlegifere",
+   "title": "ISLAM LÉGIFÉRÉ",
+   "videos": [
+    {
+     "id": "sONEX5qVY78",
+     "title": "4- Elle se rend parfois à la mosquée pour la prière en commun (partie 2)",
+     "date": "2026-11-27T22:08:30Z"
+    },
+    {
+     "id": "B1vTQUSX5TA",
+     "title": "28- Les annulatifs du jeûne",
+     "date": "2026-11-27T17:00:32Z"
+    },
+    {
+     "id": "GHns40By4sA",
+     "title": "8- Explication de la sourate An-Naba",
+     "date": "2026-11-27T10:00:07Z"
+    },
+    {
+     "id": "sn_kN_Tbn4E",
+     "title": "L'avis du cheikh Al Albani sur le Niqab - Cheikh Tchalabi",
+     "date": "2026-11-26T16:22:45Z"
+    },
+    {
+     "id": "gtJkZlgIBEg",
+     "title": "27- Les personnes dispensées du jeûne",
+     "date": "2026-11-26T14:04:00Z"
+    },
+    {
+     "id": "j9m3xgJpovg",
+     "title": "4- Elle se rend parfois à la mosquée pour la prière en commun (partie 1)",
+     "date": "2026-11-26T10:32:02Z"
+    },
+    {
+     "id": "nP4fjhhDox0",
+     "title": "7- Explication de la sourate An-Naba",
+     "date": "2026-11-26T10:00:05Z"
+    },
+    {
+     "id": "XXD993oicis",
+     "title": "Tu es très proche d'Allah pourquoi tu ne l'invoques pas ? - Cheikh Tchalabi #islam",
+     "date": "2026-11-26T06:54:51Z"
+    },
+    {
+     "id": "uZ8wdovR07M",
+     "title": "2/3 - Elle adore son Seigneur, elle accomplit les cinq prières obligatoires",
+     "date": "2026-11-25T19:59:02Z"
+    }
+   ]
+  },
+  {
+   "handle": "omradusavoir",
+   "title": "Omra DuSavoir",
+   "videos": [
+    {
+     "id": "S2aO0rqTs94",
+     "title": "Ce que demanderont les gens de l'Enfer… et la réponse qu'ils recevront",
+     "date": "2026-11-27T19:50:16Z"
+    },
+    {
+     "id": "wwBFh_s6Dvw",
+     "title": "Si tu vas à Médine, ne repars pas sans être passé ici !",
+     "date": "2026-11-27T18:36:22Z"
+    },
+    {
+     "id": "fuE87clCddk",
+     "title": "Ce moment du vendredi où Allah exauce les invocations",
+     "date": "2026-11-26T17:51:55Z"
+    },
+    {
+     "id": "NiFhNAoKbS4",
+     "title": "Jésus (‘Îsâ) passera par cette vallée lorsqu'il reviendra : la connais-tu ?",
+     "date": "2026-11-25T18:09:47Z"
+    }
+   ]
+  },
+  {
+   "handle": "fatwasfr",
+   "title": "FatwasFr",
+   "videos": [
+    {
+     "id": "JneadPW2f7E",
+     "title": "🎙️S’associer avec un commerçant qui vend du tabac ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-27T18:56:44Z"
+    },
+    {
+     "id": "TM8uDA5Tlu8",
+     "title": "🎙️Un conseil à ceux qui vapotent !Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-26T18:16:13Z"
+    },
+    {
+     "id": "SdYQIMIl5Fw",
+     "title": "🎙️Une erreur de Qibla annule-t-elle tes prières ? Cheikh 'Aziz Farhan Al 'Anizi",
+     "date": "2026-11-25T19:06:14Z"
+    }
+   ]
+  },
+  {
+   "handle": "Ceciestnotrecroyance",
+   "title": "Ceci est notre croyance",
+   "videos": [
+    {
+     "id": "ROsvThj_igo",
+     "title": "Les vertus du Tawhid : Le fondement de la religion | Chaykh Raslan",
+     "date": "2026-11-27T18:24:06Z"
+    }
+   ]
+  },
+  {
+   "handle": "ilyesabousouheyl",
+   "title": "Ilyes Abou Souheyl",
+   "videos": [
+    {
+     "id": "xkgV_qT41NY",
+     "title": "Ce qui t’attend au Paradis dépasse ton imagination",
+     "date": "2026-11-27T18:19:42Z"
+    },
+    {
+     "id": "ChLRksEBWik",
+     "title": "43-Rassemble ton esprit, comprends et résume",
+     "date": "2026-11-26T17:00:37Z"
+    }
+   ]
+  },
   {
    "handle": "gghuraba",
    "title": "ghuraba",
    "videos": [
     {
-     "id": "oAD_hNdgsR8",
-     "title": "Vendredi : le moment FAVORABLE à l'invocation entre Asr et Maghreb",
-     "date": "2026-11-27T15:29:56Z"
+     "id": "xTJpWyhVQjo",
+     "title": "Comment se RAPPROCHER d'Allah et se tourner vers l'AU-DELA ? Cheikh Khalid Isma'il",
+     "date": "2026-11-27T16:22:13Z"
     },
     {
      "id": "XhUfX5zUY8Q",
@@ -44,130 +228,6 @@
      "id": "Jz6FTydjKYw",
      "title": "Ton BONHEUR dépend UNIQUEMENT d'Allah ! Cheikh Khalid Isma'il #islam #bonheur #shorts",
      "date": "2026-11-25T21:26:06Z"
-    },
-    {
-     "id": "Q4WqYVfzeSU",
-     "title": "Un HOMME peut-il se PEIGNER tous les jours ? | Cheikh Aziz Farhan al-Anizi",
-     "date": "2026-11-25T12:26:30Z"
-    },
-    {
-     "id": "qlhXeuwwIA0",
-     "title": "Le dhikr à voix haute après la prière : que dit la Sunna ? Cheikh Al 'Usaymi #dhikr #islam #shorts",
-     "date": "2026-11-25T11:46:09Z"
-    },
-    {
-     "id": "biqR-TlBMaA",
-     "title": "Ibn Taymiyya et le djinn Cheikh Al 'Usaymi #shorts #shortsislamic #djinn",
-     "date": "2026-11-24T22:49:01Z"
-    },
-    {
-     "id": "xVWp46G08kQ",
-     "title": "Prière de SALUTATION à la mosquée : 2 cas particuliers Cheikh Al 'Usaymi #shorts #shortsislamic",
-     "date": "2026-11-24T22:39:42Z"
-    }
-   ]
-  },
-  {
-   "handle": "BilalAbouHafsa",
-   "title": "Bilal Abou Hafsa",
-   "videos": [
-    {
-     "id": "FzJm3_mJrDg",
-     "title": "Les méfaits du divorce [ Partie 2/2 ]",
-     "date": "2026-11-27T11:17:30Z"
-    },
-    {
-     "id": "6k4tQFEis4U",
-     "title": "Les méfaits du divorce [ Partie 1/2 ]",
-     "date": "2026-11-25T16:20:07Z"
-    }
-   ]
-  },
-  {
-   "handle": "islamlegifere",
-   "title": "ISLAM LÉGIFÉRÉ",
-   "videos": [
-    {
-     "id": "GHns40By4sA",
-     "title": "8- Explication de la sourate An-Naba",
-     "date": "2026-11-27T10:00:07Z"
-    },
-    {
-     "id": "sn_kN_Tbn4E",
-     "title": "L'avis du cheikh Al Albani sur le Niqab - Cheikh Tchalabi",
-     "date": "2026-11-26T16:22:45Z"
-    },
-    {
-     "id": "gtJkZlgIBEg",
-     "title": "27- Les personnes dispensées du jeûne",
-     "date": "2026-11-26T14:04:00Z"
-    },
-    {
-     "id": "j9m3xgJpovg",
-     "title": "4- Elle se rend parfois à la mosquée pour la prière en commun (partie 1)",
-     "date": "2026-11-26T10:32:02Z"
-    },
-    {
-     "id": "nP4fjhhDox0",
-     "title": "7- Explication de la sourate An-Naba",
-     "date": "2026-11-26T10:00:05Z"
-    },
-    {
-     "id": "XXD993oicis",
-     "title": "Tu es très proche d'Allah pourquoi tu ne l'invoques pas ? - Cheikh Tchalabi #islam",
-     "date": "2026-11-26T06:54:51Z"
-    },
-    {
-     "id": "uZ8wdovR07M",
-     "title": "2/3 - Elle adore son Seigneur, elle accomplit les cinq prières obligatoires",
-     "date": "2026-11-25T19:59:02Z"
-    },
-    {
-     "id": "Pi8C5lEv9Cg",
-     "title": "Rappel sur la prière - Cheikh Tchalabi",
-     "date": "2026-11-25T18:00:38Z"
-    },
-    {
-     "id": "3zi1nCVxsaA",
-     "title": "26- L’intention",
-     "date": "2026-11-25T17:00:39Z"
-    },
-    {
-     "id": "fbPheBbdohU",
-     "title": "( GTA 6 ) Ne jouez pas à ce jeu qui contient du Shirk et des rituels sataniques #islam",
-     "date": "2026-11-25T15:59:45Z"
-    },
-    {
-     "id": "XuLOebRbZHs",
-     "title": "1-  Une croyante avertie",
-     "date": "2026-11-24T20:57:01Z"
-    }
-   ]
-  },
-  {
-   "handle": "sofianibnmoubarak",
-   "title": "Sofian ibn Moubarak - سفيان بن مبارك",
-   "videos": [
-    {
-     "id": "4awEVKhd2cY",
-     "title": "La foi aux livres (Niveau 2 - Cours n°5)",
-     "date": "2026-11-27T07:55:29Z"
-    }
-   ]
-  },
-  {
-   "handle": "salmanbassa",
-   "title": "Salman Bassa (da'wah salafiyyah)",
-   "videos": [
-    {
-     "id": "cJ283VtCYiM",
-     "title": "(9) Explication du livre « Les trois fondements et leurs preuves » 🎙️ Salman Bassa",
-     "date": "2026-11-26T21:27:35Z"
-    },
-    {
-     "id": "CsRD-iHJols",
-     "title": "Le Shirk dans GTA VI",
-     "date": "2026-11-25T14:54:36Z"
     }
    ]
   },
@@ -179,54 +239,6 @@
      "id": "ivsOxNgl9rg",
      "title": "LE RÉCIT DE HERACLIUS ET ABOU SOUFYAN",
      "date": "2026-11-26T18:50:14Z"
-    }
-   ]
-  },
-  {
-   "handle": "fatwasfr",
-   "title": "FatwasFr",
-   "videos": [
-    {
-     "id": "TM8uDA5Tlu8",
-     "title": "🎙️Un conseil à ceux qui vapotent !Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-26T18:16:13Z"
-    },
-    {
-     "id": "SdYQIMIl5Fw",
-     "title": "🎙️Une erreur de Qibla annule-t-elle tes prières ? Cheikh 'Aziz Farhan Al 'Anizi",
-     "date": "2026-11-25T19:06:14Z"
-    }
-   ]
-  },
-  {
-   "handle": "omradusavoir",
-   "title": "Omra DuSavoir",
-   "videos": [
-    {
-     "id": "fuE87clCddk",
-     "title": "Ce moment du vendredi où Allah exauce les invocations",
-     "date": "2026-11-26T17:51:55Z"
-    },
-    {
-     "id": "NiFhNAoKbS4",
-     "title": "Jésus (‘Îsâ) passera par cette vallée lorsqu'il reviendra : la connais-tu ?",
-     "date": "2026-11-25T18:09:47Z"
-    },
-    {
-     "id": "vd8wrlKqlhk",
-     "title": "L’habit étrange de l’un des plus grands savants du hadith - Abu Dawud Al-Sijistani",
-     "date": "2026-11-25T11:50:57Z"
-    }
-   ]
-  },
-  {
-   "handle": "ilyesabousouheyl",
-   "title": "Ilyes Abou Souheyl",
-   "videos": [
-    {
-     "id": "ChLRksEBWik",
-     "title": "43-Rassemble ton esprit, comprends et résume",
-     "date": "2026-11-26T17:00:37Z"
     }
    ]
   },
